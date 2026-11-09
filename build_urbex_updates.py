@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Unified Missouri/Illinois map and indexed research updater.
 
-Only explicitly approved Illinois entries with evidence are mapped.
+Approved Illinois entries and uniquely matched historical leads are mapped separately.
 The immutable Missouri HTML template is never modified.
 """
 import csv
@@ -86,6 +86,47 @@ def approved_illinois(rows):
     return approved
 
 
+def historical_illinois(rows, parcel_rows, approved):
+    """Map uniquely matched historical leads only when coordinates are available."""
+    index = {}
+    for parcel in parcel_rows:
+        pid = str(parcel.get('parcelid') or parcel.get('parcel_id') or '').strip().upper()
+        if pid:
+            index.setdefault(pid, []).append(parcel)
+    existing = {p['id'].removeprefix('IL-').upper() for p in approved}
+    found, skipped = [], []
+    for r in rows:
+        if r.get('match_status', '').strip().lower() != 'address candidate - requires parcel review':
+            continue
+        pid = r.get('parcel_id', '').strip()
+        if not pid or pid.upper() in existing or len(index.get(pid.upper(), [])) != 1:
+            skipped.append({'address': r.get('address'), 'reason': 'parcel missing or not unique'})
+            continue
+        parcel = index[pid.upper()][0]
+        def coordinate(*keys):
+            for k in keys:
+                try:
+                    return float(parcel.get(k) or r.get(k))
+                except (TypeError, ValueError):
+                    pass
+            return None
+        lat = coordinate('latitude', 'lat', 'Latitude', 'LATITUDE', 'y', 'Y')
+        lon = coordinate('longitude', 'lng', 'lon', 'Longitude', 'LONGITUDE', 'x', 'X')
+        if lat is None or lon is None or not (37 <= lat <= 40 and -91.5 <= lon <= -88):
+            skipped.append({'address': r.get('address'), 'reason': 'no valid WGS84 coordinates in parcel CSV'})
+            continue
+        url = r.get('source_url', '').strip()
+        if not url.startswith('https://'):
+            skipped.append({'address': r.get('address'), 'reason': 'missing HTTPS evidence'})
+            continue
+        found.append({'id': 'IL-' + pid, 'a': r.get('address', ''),
+                      'n': r.get('city', 'East St. Louis') + ', IL',
+                      't': 'Historical demolition lead', 'lat': lat, 'lng': lon,
+                      's': 'il_historical', 'evidence': url})
+        existing.add(pid.upper())
+    return found, skipped
+
+
 def main():
     mo = csvrows(BASE / 'STL_Properties_v2.csv')
     if not mo:
@@ -93,7 +134,10 @@ def main():
     il = csvrows(BASE / 'Illinois_Parcel_Review_Queue.csv')
     curated = csvrows(BASE / 'STL_Urbex_Research_Initial.csv')
     reviewed = csvrows(BASE / 'Illinois_Verified_Properties.csv')
+    evidence_rows = csvrows(BASE / 'Property_Evidence.csv')
     approved = approved_illinois(reviewed)
+    historical, skipped = historical_illinois(
+        csvrows(BASE / "Illinois_Evidence_Match_Review.csv"), il, approved)
     leads, errors = {}, []
     for query in QUERIES:
         try:
@@ -119,6 +163,8 @@ def main():
     output = {'updated_at_utc': NOW, 'missouri_baseline_count': len(mo),
               'illinois_parcels_for_review': len(il),
               'illinois_approved_entries': len(approved),
+              'illinois_historical_markers': len(historical),
+              'illinois_historical_skipped': skipped,
               'research_leads': list(leads.values()), 'existing_references': curated,
               'fetch_errors': errors,
               'notice': 'Parcels and indexed links do not establish vacancy, conditions, or legal access.'}
@@ -132,26 +178,82 @@ def main():
     if '</body>' not in page or 'const data=[' not in page or 'const map=L.map(' not in page:
         raise ValueError('Unexpected map template; refusing to overwrite index.html')
 
+    # Evidence is manually reviewed and keyed to exact state + parcel ID.
+    # Indexed search leads are never automatically promoted to verified evidence.
+    evidence_by_key = {}
+    allowed_status = {'supports vacancy', 'contradicts vacancy', 'historical context', 'unverified lead'}
+    for row in evidence_rows:
+        state = row.get('state', '').strip().upper()
+        parcel = row.get('parcel_id', '').strip()
+        status = row.get('finding', '').strip().lower()
+        url = row.get('source_url', '').strip()
+        parsed = urllib.parse.urlparse(url)
+        if state not in ('MO', 'IL') or not parcel or status not in allowed_status:
+            continue
+        if parsed.scheme != 'https' or not parsed.netloc:
+            continue
+        item = {'title': row.get('title', '').strip()[:200],
+                'url': url, 'source': row.get('source_name', '').strip()[:100],
+                'date': row.get('source_date', '').strip()[:30],
+                'finding': status, 'notes': row.get('notes', '').strip()[:500],
+                'image_url': row.get('image_url', '').strip(),
+                'image_permission': row.get('image_permission', '').strip().lower()}
+        # Only display external images inline with an affirmative permission flag.
+        img = urllib.parse.urlparse(item['image_url'])
+        if item['image_permission'] != 'yes' or img.scheme != 'https' or not img.netloc:
+            item['image_url'] = ''
+        evidence_by_key.setdefault(state + ':' + parcel.upper(), []).append(item)
+    output['property_evidence_entries'] = sum(map(len, evidence_by_key.values()))
+    (BASE / 'urbex_research_updates.json').write_text(
+        json.dumps(output, ensure_ascii=False, indent=2), encoding='utf-8')
+
     # Append Illinois records to the existing data array before Leaflet initializes.
     # Avoid modifying the original 12,650 Missouri records.
     injection = '\n// Approved Illinois properties (independent vacancy evidence required).\n' \
-                + 'data.push(...' + json.dumps(approved, ensure_ascii=False).replace('</', '<\\/') + ');\n'
+                + 'data.push(...' + json.dumps(approved + historical, ensure_ascii=False).replace('</', '<\\/') + ');\n'
     page = page.replace('const map=L.map(', injection + 'const map=L.map(', 1)
     # Keep the same circle-marker style and filtering. New source uses the same palette.
-    page = page.replace("lra:'#2564b3'};", "lra:'#2564b3',illinois:'#ef8b25'};", 1)
-    page = page.replace("lra:'LRA building candidate'};",
+    page = page.replace("lra:'#2564b3',illinois:'#278b56',il_historical:'#ef8b25'};", "lra:'#2564b3',illinois:'#ef8b25'};", 1)
+    page = page.replace("lra:'LRA building candidate',illinois:'Illinois verified vacancy',il_historical:'Illinois historical demolition lead — status unverified'};",
                         "lra:'LRA building candidate',illinois:'Illinois verified vacancy'};", 1)
     # Add the Illinois source to the existing dropdown (no new UI layer).
     page = page.replace('<option value="lra">LRA only</option>',
-                        '<option value="lra">LRA only</option><option value="illinois">Illinois verified</option>', 1)
+                        '<option value="lra">LRA only</option><option value="illinois">Illinois verified</option><option value="il_historical">Illinois historical leads</option>', 1)
     # Existing popup uses a Missouri-specific address for Google Earth; fix for Illinois.
     page = page.replace("const street=encodeURIComponent(p.a+', St. Louis, MO');",
-                        "const street=encodeURIComponent(p.a+', '+(p.s==='illinois'?p.n:'St. Louis, MO'));", 1)
+                        "const street=encodeURIComponent(p.a+', '+(p.s==='illinois'||p.s==='il_historical'?p.n:'St. Louis, MO'));", 1)
     # Display evidence links only on Illinois records, and escape attribute contents.
     page = page.replace("+'<br>Parcel: '+escapeHtml(p.id)+'<br><a target=",
-                        "+'<br>Parcel: '+escapeHtml(p.id)+(p.s==='illinois'&&p.evidence?'<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"'+escapeHtml(p.evidence)+'\">Vacancy evidence</a>':'')+'<br><a target=", 1)
+                        "+'<br>Parcel: '+escapeHtml(p.id)+((p.s==='illinois'||p.s==='il_historical')&&p.evidence?'<br><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"'+escapeHtml(p.evidence)+'\">Vacancy evidence</a>':'')+'<br><a target=", 1)
     page = page.replace("<span style=\"color:#2564b3\">●</span> LRA only';",
                         "<span style=\"color:#2564b3\">●</span> LRA only<br><span style=\"color:#ef8b25\">●</span> Illinois verified';", 1)
+    # Load the evidence index before the marker factory. Popups remain lazy: do not
+    # instantiate thousands of markers during page startup.
+    payload = json.dumps(evidence_by_key, ensure_ascii=False).replace('</', '<\\/')
+    evidence_js = r"""
+const propertyEvidence = __PAYLOAD__;
+function evidenceMarkup(p){
+ const key=((p.s==='illinois'||p.s==='il_historical')?'IL:':'MO:')+String(p.id).replace(/^IL-/,'').toUpperCase();
+ const items=propertyEvidence[key]||[];
+ if(!items.length)return '<details><summary>Evidence (0)</summary>No reviewed evidence attached yet.</details>';
+ const cards=items.map(e=>{
+  const a='<a target="_blank" rel="noopener noreferrer" href="'+escapeHtml(e.url)+'">'+escapeHtml(e.title||e.source||'Source')+'</a>';
+  const img=e.image_url?'<br><img loading="lazy" style="max-width:220px;max-height:150px" src="'+escapeHtml(e.image_url)+'" alt="Source image">':'';
+  return '<div style="padding:8px 0;border-top:1px solid #ddd">'+a+'<br><small>'+escapeHtml(e.source)+' · '+escapeHtml(e.date)+' · '+escapeHtml(e.finding)+'</small><br>'+escapeHtml(e.notes)+img+'</div>';
+ }).join('');
+ return '<details><summary>Evidence ('+items.length+')</summary>'+cards+'</details>';
+}
+""".replace('__PAYLOAD__', payload)
+    if 'const cache=new Map();' not in page or "m.bindPopup(()=>'<b>'+escapeHtml(p.a)" not in page:
+        raise ValueError('Unexpected popup structure; refusing to publish evidence map')
+    page = page.replace('const cache=new Map();', evidence_js + '\nconst cache=new Map();', 1)
+    # Append to the existing popup markup, without changing its links or styling.
+    page = page.replace("+'\x3c/a>');", "+'\x3c/a>'+evidenceMarkup(p));", 1) if False else page
+    original = "</a>');\n cache.set(p,m);return m;"
+    updated = "</a>'+evidenceMarkup(p));\n cache.set(p,m);return m;"
+    if original not in page:
+        raise ValueError('Expected marker popup terminator missing')
+    page = page.replace(original, updated, 1)
     # Search the same fields as Missouri. City/state are stored in p.n.
     def card(item):
         title = html.escape(item.get('title') or item.get('location_reference') or 'Untitled')
