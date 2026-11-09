@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-09T04:53:46.812095+00:00",
+  "updated_at_utc": "2026-11-09T05:04:08.979296+00:00",
   "missouri_baseline_count": 12650,
   "illinois_parcels_for_review": 75765,
   "illinois_approved_entries": 0,
@@ -4454,6 +4454,16 @@
       "title": "\"The Capitol\" Monastery in Coffman, Mo ? - Underground Ozarks",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UdnNBWTJlZ2dLSGI3cENGNnRGVXl0MHpkSkUwZnZKYWhaYlU5VmNNNmtMYjdCNkxVRjdBbGVhZFgxbzM0cDRfbXZERjBiQWZOdzhWUFNuc1dKdnpDWUVpZFlJUGJtZVU?oc=5",
       "published": "Thu, 11 Jun 2009 07:00:00 GMT",
+      "query": "site:undergroundozarks.com \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Is Marval Cave Haunted? - Underground Ozarks",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01NEcyZDBhREp5MWZQNU5vUjlwTWprcWtoLUN5dTlxbk94VzhMdjg0ZXBOWEc1OHp3UHVpUVBxWE5FQ3BtZlFiejRaRXZaWmR1enRqUXJIWGJNcHhuZWRveTZ1NGcyUQ?oc=5",
+      "published": "Sat, 17 Sep 2005 07:00:00 GMT",
       "query": "site:undergroundozarks.com \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
