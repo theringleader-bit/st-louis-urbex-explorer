@@ -34,19 +34,12 @@ jobs:
       - name: Build Illinois current-condition review and evidence
         run: python verify_illinois_current_conditions.py
 
+      - name: Research Illinois current-condition evidence
+        run: python research_illinois_conditions.py
+
       - name: Update Missouri and Illinois research map
         run: python build_urbex_updates.py
 
       - name: Commit updated data and map
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -A
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "Automated property research and verification update"
-            git push
-          fi
+          git config
