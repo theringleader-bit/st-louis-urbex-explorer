@@ -1,12 +1,16 @@
 name: Update Urbex Research
 
 on:
-  schedule:
-    - cron: '0 12 * * *'
   workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: urbex-update
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -19,24 +23,30 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests pandas feedparser
-
-      - name: Import Illinois properties
+      - name: Import Illinois parcels
         run: python import_east_st_louis.py
 
       - name: Match Illinois properties to documented evidence
         run: python create_illinois_evidence_queue.py
 
-      - name: Update Missouri and Illinois research
+      - name: Build Illinois current-condition review and evidence
+        run: python verify_illinois_current_conditions.py
+
+      - name: Update Missouri and Illinois research map
         run: python build_urbex_updates.py
 
-      - name: Commit updated files
+      - name: Commit updated data and map
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add -A
-          git diff --cached --quiet || git commit -m "Automated MO and IL research update"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated property research and verification update"
+            git push
+          fi
