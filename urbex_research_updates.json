@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-09T02:49:28.816790+00:00",
+  "updated_at_utc": "2026-11-09T03:12:17.228616+00:00",
   "base_property_count": 6034,
-  "news_candidates": 0,
+  "news_candidates": 77,
   "verified_new_parcel_matches": 0,
   "existing_references": [
     {
@@ -93,28 +93,778 @@
       "review_status": "Previously curated; parcel not verified"
     }
   ],
-  "news_review_queue": [],
-  "fetch_errors": [
+  "news_review_queue": [
     {
+      "title": "Neighbors demand demolition of abandoned St. Louis school after overnight stabbings - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlF2ZklqM1ZGZThmUEI3M0dNRmU5UjY1cUQxUnQwVzktbndWcU9uS29wN2hRVUlUYlB2Y1FyZHlzcnVvOV84eGFpTnVCU0UzWW9zZFlzRExvZjhETUVSTTBuN1Z1NXY1R2duQVo5WUJGbngyaFNQWGJ1ZzRGMklNYUV4WEZhV1dGaE1IVks4ZFd1bFdiaXFaRjVLTzdqRTBCdGxzRXhTWndJdFduQ01fNVVLOVlHMkQ0dUFr0gHPAUFVX3lxTE9vUndfUTFsZzVXM0FJYjZuak9taXlRSWVWaWhtVGllSHlPem9nb25SSTlwNWNZaURtWjJDejY1Ny1tNmZwaUk0TXppOVN1ME44TEVCQjVrWDdSTk9XQ0VoZzN5VDlfSUE4cHlRSlloOVd1cDZzZzlvZl9uRHhHc2MwQ2NtUUEyLTdsbEt3RXpMTnRoMFB5T3ZiQXpEa0tRUlFnR3NscXRKMTRiNFViaDdYbTRYZW5SMzlyTFZjSU5ZdzZSdnVhT3FWTlRnZTRpdw?oc=5",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": "Google News RSS",
       "query": "\"St. Louis\" \"abandoned\" \"school\"",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
     },
     {
+      "title": "Fight leads to triple stabbing in abandoned St. Louis school - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUWYxdnZyOUJWRi1xSk9Qc3E4LXA4clBIUGszOTlBc3dVclY3ZXJidkNoTk53V2lwRWxJQjNpS3BWdHBrSTFyZ2VKQjBwdlhWWGo4YUt3NFhjWlRlM0phTndrTUZ3Q0MyVURVSnJYeU5oLXlTMGtLVnpRMURpTVVuTzVfaUdjYWdtYUVVbFRKd2xqbmNsMGhyQWxKUl9PMGQ4SVVTUHBNWm5YbkpiZklDRExHZURlTUhsN09mTDdCV0NtMktUTXc?oc=5",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Demolition set to begin Friday on damaged Euclid School - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUzAzUzU1U2FTTTAwandHWkNTTGJLVkpROHBoTU10RVJjN1ZSTEhNUVJiMENTWXlnRTVnem9jRE9udjEwU3g1M2JVTHRubEFCRGdUelZTRHh6QnlhNW5pczFGNlY4RWsyLWVxYVAwWllRci1IdzlpOXJTeUVDNjZQNHg2VW5OSFNnR2hKNUxEcEtCSEN10gGaAUFVX3lxTFA3YkFhNV9GUGpaVHZzeFlxQzJSS3pXUGkzX25uZHVnd2Y4Y2J6ZlBYdnZ6N1J3SklXS3F1N2lXTXZZbHp0UzJncnl6SVRtTmNJaE83LVcyUU5YMEwyUUFHb0tLZk1hNHp2LWh2YmZqZm5IaFlkVW4xZmY1dWpnS1RjWVkyWUFYUXZjM25jajI3RkdOZi01UnpNV3c?oc=5",
+      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "St. Louis scraps 2023 redevelopment plan and looks to purchase Cleveland High and Marshall Schools - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOTI3Zm91el9CMVh1SHpReHlHTnQwQ0RMcXEtcmpLMERVekEzcVp1dFlEVGhCNDdxRG1WSlJsSFZSaFNWTkdIQUxsRUNiSldzN08xOTI1Zk5uZXdXVmZSTC1ReTFzOTFTREJZY3JHZmpDRVlXMVNxQXhfT0lDNEdnS1dTYVRpT0lHNWgyenhaWW1xRUc4ay0wdXRmOXF4RzV3bEotM3BheWt3ZFB3S2I4c3M2OW5TTTA5bXVod2dYZ3Q3V3U5dGpmMUhjUUFjNlQ0OTFhYXl1bHVaZVE?oc=5",
+      "published": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "St. Louis Public Schools sells Cleveland, Marshall schools to development agency - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0dka1JvaWVWNFlZODE1b0p3MEFJM2ZSUzJYUll1OEE5cEVYNFNWZFQyNUhUSmZQY1dJY01IaHl3bnh0TnNiOW1wNWJMeWFwS3NRNHlnZm4xRVdCekhxalBaa1d0bFpZdlp5ZXlSTmQ2Z25iWnVxaXN6ck9XSGhJa29wQlpIM0w1S0J0WmI1czczYnllUmFEYnhiOA?oc=5",
+      "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "3 injured in stabbing at abandoned school on 15th Street - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOendlc2N4TkVnVUJEODZpN1dHSkJ0NFNsOWo0LWVERU93ZV85cWhqVkNxMHYxLU9qck5ONW5McXZkVXlha1RPaFlHeEJQYW1qS3VhUGttM1U0dzY4UVgxanVfUHFHYW04X1ZJaDBNUHVfZXc0blpmOWxxYVc4OWZjVnN5cjBFbGRNWDduNG9HUnlvR09uR2fSAaoBQVVfeXFMTU5HWnl6aWVOTkdvYVFvaW00aW1DenV6U3FENXYwZVZNbUxPTV9DTlU0bkRxbVhrcHFMcUl3MTVETVB6NXRZVzF2SHlLYUlMdG9LeGtLNWFWaW1rdEZJS0Z6bVZZeTJFV3JWNXAwWmc1SlBtZDV4d1hHOG1EWWNVNmZid0JWang2U1dYR3lCYWZXemx6X01SVDRGWVBKRUJiVE1FY2doM3ZOelE?oc=5",
+      "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Cleveland High School redevelopment to start in July - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkRiNkVvUXRSR1lOMlFVQV8tNnU5V1JMYzZDb1U0c25FTkk1R25SdTIyazNlLVVsaTIyVVQzSG9WRlJsREs0SlFsc3E4THI2MDE3bWIyc3c0WmdLTjh5ZThOb2RFR3JqaDk5bWpyb3JBUzQ3RWszSmNCRFJiM3Z2bzNHY3RkNlAybHpDa2liOHdxT2dMV0pNNEVqNHVqblEycW5JNGtsVFNYQzAwRXhpNFpLbWx6M2dZYWIwOW5McFo5Zw?oc=5",
+      "published": "Thu, 21 May 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "An Inventory of 70 Former Public School Buildings in STL - NextSTL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWJQODRBdU1LYjNJVDJCcmx6X282aFFma3dDYTJPSXBBeFh2cnpCQ0NoSlk3WlM1VmNGWk9LWkFWUGdDMHpNdE42bHNXYXFPUUI2cWE0RFpvcTNUMEtqek5jczdDRVNOMGxMWFd1cm5XZmFucjhFck1uNTM4bkVWUkgtLVNlOEVNa284VWZn?oc=5",
+      "published": "Sat, 23 Nov 2024 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Inside the Abandoned Schools of St. Louis - VICE",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVUVkWkEwVzI5TUFjcFVBLUJJSVNEVXp4U214YjFNYkZodDMwQ0NrNU1NRWtEZEd4UUJZTVdET2t4bXoxTUdsWlJ0Rk5iSm51TGZxZUUxVFV1eWhOSzhlN0VmUjN3YklOdnJYbl9xR2VkZmhnZFVSTE9VQlVZQQ?oc=5",
+      "published": "Fri, 21 Jun 2024 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Long-abandoned school in northern Minnesota town is a new place to live - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFk3VW5pWUxWYjJjTGtER25RYktzMkRKT0tQR3hFa3JtejlsM2dZUjlGU0RXRmJJNm5DVG8wSEpJZjl3eHZBRldIRklPcjRabTFkTGRVSVlvZVZLc3ZfTjJfbkE0UDlnMzBVRDBoRTZUS2NuNFN3bUd2R2FJcnRWTzhURDBmX0lsNjZ5Q3dXaTJ6TXhTd1IzX0h2cVo2U3FRcVAteGF6WE5SdzFkWGc?oc=5",
+      "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Photos: Cleveland High through the years - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUdvQngxdGlacWhSVlI0VjdBWHR4YS03bTdGRTY2dlpqLXdySW4tUGsyMFNWdGVhVlRGVDNVYk5OcGh2QzVyTmFCRzdldWtac2JzQmFSUDRnemEwMHN5Q0JpVUowUmpYSFlCbmp6cWpyRmJGZjdkZ3Z3VDQyQ1RIanRRakptMUg3X3ZHNlIzdGlsNEVWR3B0aWZ5dmlzRkNmTHRqSQ?oc=5",
+      "published": "Thu, 26 Feb 2026 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Abandoned school building in Fall River to become affordable condo units - WJAR",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaTYwVndTcWlfc0MzaEdjMnllcGF1a05NUzJrOU0xeHB0R3N6eDl2ZGd6SU80cU00NGQ5WlFnX3V5WnZTT3ktWExCRVdVbDdmRklvS0pnWjF2eU1MSlFLSFBROXBLSER0M09mN3o0M3VDR2hMZWFteW0ySkpMcDh1TmdqQXNtdnUxTnk4UEJDdXFVWU90OWhBSW9DOVp2QVNrWFl3Z2dqMlhueW5qYnkyWjJVQjV0QlpxVGtzMlNZYzZiS2JHV3lXZGJmSzZlTTEyRk5ObHlwWERpWUFNVWNVVTQ0NGZjTWlMR3VqN293ZU1kandzLUM2UEdoQnpGcTJYZ2RIYTlOQXIxdXRC?oc=5",
+      "published": "Tue, 25 Mar 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Watch the Incredible Moment When Stray Dog Trapped Inside an Abandoned School Is Finally Rescued - Daily Paws",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTmliSjc1elRyOFBYWndvM0NIN3BvTDZ0Rm1YRGVCVHV0VDR5N2pZZGc3NW0wWFAxWFUzRzNITXp3UVh0RlpXUlNFam1qd0FFTVJyVUtkdU1TR1hFLVllVkh0dU5lSXZhSUxMcGZJTm1xV05XOVVlUVVTSTc2elB5VnVfRENTSUh5NGtoV2JpS0J5R0p0QU95S0xRNVZ5WmVMU1dUdndydFo?oc=5",
+      "published": "Fri, 12 Nov 2021 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Dog Tied To Fence At Abandoned School Never Gave Up Hope For A Miracle - The Dodo",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeHp0QURYYUcwN0dFRzNoZjJhZ25pQXJQQnV2VnI5Q1YxeVhMbzU5dG16TFNoc0ZVVXkyUzc4ZjFKZGtmd0RGZEpFMEo5R2dtSHJXMUotMGhnaU9qU2VPcExtdWRKVFdRNWpjWEhxMWVZdVNyRjloLXY5R0NaTU1Ed0RtNm54NDNHalQxeWhSelJDMTVsbFVYZmI5d3l3VThqTzJKWmg0LTlHQXdm?oc=5",
+      "published": "Fri, 14 Mar 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Four injured after shooting inside abandoned St. Louis school - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTkFuakZsckV2NDRITnBOem5HZ0FTYWM3ZkFPMUpUR1NWRTFvd3lENko5Z2xNLXR5allSMHBkSFZyZjFtbk4ybXlDbHRjX0d4VTVmZENaYS10X3FjVWx5NVAxVFluWXRpejdhVWFFc2pCZmd5d3NFeHExMUJpakx5Q2VVUXZjaEhaLW9qT2Uyc3VhTWR1XzdsbTFhZ9IBoAFBVV95cUxQcHlZLVBpN1Jlc1hRVlRtVzcwNFRsYWZnUWJaUHRza1BrVU1yMUhQYkRrZmNkbTZYQ3FYWkNkRmJybHhrZktOZ0cxT25VSzhjbXc3WklYSDhTTzB2Sld3Qi1yRWJJdG00ZTZ0emZxTlkwMDVpX3FiVHM0LVZ6MGZid0pPNnNkZGVmN19jc3J2YmV5U0pxUVZhZFY0S0pFc2x1?oc=5",
+      "published": "Sat, 23 Mar 2024 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Shooting at abandoned Dutchdown school raises questions about city’s crumbing properties - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHJHWVVIVm5EQm5GQWdrU0ptUzZqekJ3R2o0MXBFVHNFeVNXaFhaeWRPR20yMmQwTXNJRHYtWnV4Q2htSlFUaHYzNUF6YzhJdHhacWJrS0lWZXl0U2xueVB3OEdoaHZiYXo3LXhSU3hrTlQxcHpaQ0VuWDJkTXFBaUhia3NYMlVNa0R5bkZ5ZVF5Y3MxcldNdTV3dU1vY0psc2NzVmhSeE5RNzlORERSZ05vMFBZN3htSHpseVI2MjZ6QdIB1gFBVV95cUxPQWtvbkVDOEJ0MmpJdXFZdUZmT1J2MEhjYmdabWdNblFpOFp4NjN4NVNMV0MwREQyTXRTTzc0NHFiT0xYNjBDaUhuU2VXc0hUS01hanVoUnpXMVhBaXI4X3FTQmxRdXFMd3RJZFFseEJXOVZrLTE3VmFwQ0ZCaUJGb09nYXFDVmlhNWdwbUFNREp4dmhJNDJfc29aYWRKZlNIeGZ1c0xUMHRjeklHWk85RWlROW01Vm5XbTJCdllFNmJFNzJodW9zS3F6LXk2NVRnWDFXbWdR?oc=5",
+      "published": "Mon, 25 Mar 2024 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Abandoned school in The Hill coming down; Townhomes planned - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHpmb3I3QTBaYTRVSmo1aVRPTFhFYmFaRzN1UGsweXJHMW4zdXhLZUZTQ1prUFRDc3pYVExwRG9MOVktM0VlOEtWSC1MV1l0ZGtlR3lFMU9PLW1KRG9wTHE0QlBGdnM2OEFPOWxURy1GZGV4bmdkRnJwbzJrYXNuM3JoTW0wRVl1Mk1qdVJEMHZ0bWs3ckYxcdIBngFBVV95cUxPa1BKMHo1dmRuZkM0VUdDNU5yQW8yQmtfTWYySDdnUXMxUHBmNjV3UjhfQ1F1bm1CcUNjQ25pN1NTMGhGMDI5bUU1MW4tQmp1T0JLTm1wQWY0Ry0wZkxTelVUMHVCSmtQaHhxNTZNQ1NfUU01VmV4b2VNY3NWWjBQSExpV2NKbThFS3hUck9GRXRKR3hLcFZzN0JlRzl6QQ?oc=5",
+      "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Teen shot in the back while trespassing at abandoned south St. Louis high school - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORG45RkxxZFR1OHJJaWVQV0lLUlI5WnRzWXJiOHJqc3Y5a25OMGZNLTlWUUZma2dKalk3ckEyZnhGQjNOMTlTX2p3V2JaM0NYdzRaTmZCNWtlbUhILWR0TzhmdVVsSHpCbVRkZVhJeXBucTBmYkJtRGJycUc1ZEpWYzhZaVlTZERPdlcxSWZLdHNJb0Jxei1pX3dWNGtuNnVyVDRfSVhqY09heElvc2JYbmEyakFCN0N6cmVZWmdGOU54a2xNZnc?oc=5",
+      "published": "Sat, 23 Mar 2024 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "After sitting vacant for decades, SLPS considering selling Cleveland High, Marshall School to LCRA - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVIzdkthX0JvRGxydXk4NkMyLXRkbFlmdUpuYTVfWDRfQ20xVGhQQ1gwVUVsYWljYjdMalh3MHVxTlA2QU5haWVMOHZEZFViWngtVmtvcnpWZ0dQSExFa3NFcWU3LUlxQVZJbGt5QWpkS0ZfQm5xc0tVSHNaTzY1ZTIwVTFzSGtYcDJ6NG16S01uWFp4dy1FRjNtSnNXa2lzeWhvLXhHSnIweHItYzlFUkppODA0b2hJR0xZRW9YQ0ZJZVVQNUxvUNIB3AFBVV95cUxPTWZmR21mZ3NQZGNCN2pLUGpUb1BMN2FMNXJiMmtvWVpJakhxZnZKeUFMVlFaZ19fdjB2MHRaV0wtX1pNRHNYM1lwMkdNZGt2QUZESDlQZE02M05vWGJBdDhFME1yU3JUTFcyTEtWRDNuR2piRnNXWUphS19GcjZWdHdLZkJUNDg1UlZPYU1xZWJXR1E5VW1BU0dUZlZjNmQ1M0YzbHUxXy1Kd1BhM3ZGNURfd2UyNmtoTWdTcnA4OUFJY0Q5M0JhWXlmOFFpS2psZGJCYjhoMFUxYnEz?oc=5",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Abandoned school torn down in The Hill neighborhood for townhome community - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzFKTWRVVUR4dm9FWDJVclFQbmMtc2ZIb0hucnFtTkw0YU1uQU1uOXVuMk9LMzFHZm1tMnd6MC1yeUJrSEJwYldOVEhBSW5LVUhDT1gyblNuc3FBRUY3Tm40amJ0cm15OW5KbTV6QmFpMHFCXzFRWmVwM1BhaEExLU5mU29Na08zc2NHMU0yNnh1aVc0OVFUTm1sdWJLclNoMk43Vk1R0gG6AUFVX3lxTE5CRWlnMVEwVFp5MXJ4YWZzeUQwb1l6SGx1STdiNm5iWkJ5MHJxdHRPc1FIQUJaeUQ3Q29Oak8tanVaRVdjZGk0UWxseU10WFRsS0pVTVlTdHNFRjZVUXV3SE1mZFVrZzBaVXd0VzBlT2ZDclFzME04S0FtTk5GcVFCbXJXNldoU1k4Sk92Z0s5c2F5YWl2WUhxWGVWSkxRT3NSWXdkRmZ3WUtJYzdUQ2w4cnkzMFBtRzVSQQ?oc=5",
+      "published": "Tue, 02 Sep 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "‘They’ve had 20 years to do something’: North City residents want something done with abandoned ‘Scullin School’ - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX0NYczhfQ0pwSGJzV2VKRmQxd2YyN2lmeUJXY1pBNGxqMWRyNTd6aDRRa0d6ald3UTBjSjRua2s1M3Y3V0ZnTTRsaUhUN0NhSE5TTTZhUWp0clVESDA3NkQwV0FVUjhSMEI2R3cwdi1pcVM0dWMwazZCSGhmcDJ3VVV2NGVqZlhTSDlfZm5hTW05dDNTcTlOMkVTa1J6dVBwQjV5elpGa3Q4akpNSFV5TzF6YTlJUUZnalBtUUdkaTkzV2ZPT3Q2M0pHT3Q2Mmg0eEpNT0F5VWI2WGvSAe8BQVVfeXFMT3ZUQzlhSkljUUhLSU1qUG1SNUU2OW1UOUZaMHNZYlV1Skx0Z3gwYmVBdzU2QzB1OTZpRUNPbGtaSkptQk1VUGU3T3ZLaEpmWktWSURxTHF1ZHJoYV8yT0pFWU9fSm81NGhoQVhUTWNQUXlxemNLcXhPVzdkdzYzSVFVMVEwMDFrWVF2dEV5UmN5Nl9WYm4ybkNXNlR3blF5bkJlNElKald1V2l3UjFoT2duQlpJNGZsNUFuXzdWa3RIZ252TE15TlJUczBtRndfTmJEODNVdWExWXBVVzh3czdNenNmc3IzY05qeVJMMDg?oc=5",
+      "published": "Sun, 22 Dec 2024 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Farragut Elementary faces possible closure—and it's not about grades - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMVc2QXNJWWpYc3N5YTlCNlpSWDI3dUFZcnhlLXhkd002TlBPVnB2WTU5LXBSVU1fNXdYbUV2UkFQOEwtcUwyVmlnS0NxZjdidDAxaWhBaEs5RzY4NE5Fa3FJUUVtbnd0QUFPWEctOVlaOW5kUEFEWUNGS0MxUnRES2xNcEhHaTFFVUdFbTE4U29zVk5FVHVzb2lhOXJSWjVhZ2JEZVJ2N2dmcUxrOExqb2RfWXN5N3lFdzhtRkkxNXNiYmI5TlZyNnVmQW5hbHZueXdUZlVXRHVZZFR3?oc=5",
+      "published": "Thu, 17 Jan 2019 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Fire breaks out at long-abandoned Carr School in St. Louis - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0NJeVdXNGhqZlRKN0I4blF1R3hNQ1pjVll3VHN3QU82RHA3cXNfSGFUQ254WkdHeWlBamJBdDlBaHQ4cl9oWk9mZUV2UnIwN3BISjM4SzRxZVh0SGd4bVRhTFB2YzV5Qlg4MFk2RXZma0tqaWlpakoyOURFd1JpZGV2Y1hFMzNiMUFRNjdSOUg5SFpacVVwbFNUcmpJYWNLa0ZNQUlwaFlheG1jcmhDVmF1NjdFTTA?oc=5",
+      "published": "Tue, 16 Oct 2018 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Starving Dog Rescued From Abandoned School in Heartbreaking Video - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS1hvS09Laml0Z09kSG03QnpZOUNsU3lXVmoydEhJc0RYTG9TYy1rS0N5d18zYlYwb2JpaVFHVXJiaFMyWV9icVctNnVSS3JDelpZQ29lWkVrLTBVeDJ2djdyV25rdnZVWDk1dTNPYjZpRXlScUNWdWZMOXhGOWV0dmd2V3ltXzJfSGVzY2tfY0xLdzMtR19JUWpCeVAzZFdfREt3Z0FiTzJ5SFExR3pTeDRR?oc=5",
+      "published": "Tue, 16 Nov 2021 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Take a Look Inside the Abandoned Naval Academy in St Louis, Missouri - NEWStalk 870",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45MzB4WXFtZEYyMDhuRDhhVm5QN0YwT1g3cnVPd1ZseEU5MksycWtZM3dRVU5wRzV6cnAtNXVoZHh3ZjdmUlNWeU82WE85VnVUbzJRc0tvVVRkZw?oc=5",
+      "published": "Wed, 24 Nov 2021 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Kansas City fire crews battle blaze at former Catholic school on Swope Parkway - Kansas City Star",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9memJxRF9sNFNaQ0dqZVBrSHJNVDZYUW9yUm4xekwtT3VZSGZmbTVXZTBlUVRWTkJSUjZXQmk0cko2anFFbk1uRkVvZHZ3cnYwaUZZalJqYzJrM2wzeW01YUxPS0REMXNNbGk40gFrQVVfeXFMTjkycmkzSURqVk5fWnpfVHVMaUZhYlBBME05SnREV0lJZmVtNWEza0s0Z1VnS2o2MnFMckZNVzEzWWdfeHNMNFNvZjlDcGpLY3dHd01XVTZmb3dxVkpRVnVFbDZ1UndXMDVqU1k?oc=5",
+      "published": "Thu, 24 Jun 2021 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Haunting Photos From Inside St. Louis’ Long-Abandoned Eliot School - St. Louis Riverfront Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnNZLUxWYmpKZHRJQ0FUSDFGNkhqa0hwUEJqU2ctTVRuTGZKV1dTQjZUT05ZZGJpbk5EWlUtQ0lCdS1YbG9pZjRqQW02aHRjSDc0RHVhNmNXZkxGb0xLSXJfYnZ5aW1EVXd1NE1oNllQTTh1N29GNmM4TlZxOUhicFNnMlRFdEJCeHhfcURhNVRCMVdSMjJKT2dtbnR3QQ?oc=5",
+      "published": "Fri, 11 Apr 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Inside a Weird Abandoned 120-Year-Old St. Louis, Missouri School - 101theeagle.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTTdhNHlvU2RnMFhXQVdnTnNEd3o0VVJlM1lSdVFwS2x2cng3TlRZOEpVVEQtMWdtNDlxdWpWYTJNZDNCZW45dzVrRGhlUE9HRk9tSlVva2N6VUI5ajZrLUROdjhwbkRwSGxNLXB5NW5ITnBHQ0VtWWtQdzFJMjNBZmhBWW1wLVNRMTA1aXVvclg?oc=5",
+      "published": "Wed, 27 Oct 2021 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Chilling Photos From Inside St. Louis’ Abandoned Schools - Riverfront Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM3BCVWVVWkJRYl9nTHVBb3ZtSU1adFc0UnZGU2czYjI5RFVDNkl4NWVJVUVEcFRWWG1YN3UtTm1IUHBhc2RwZEQyYUpYNm9zUl83RDI1WV93cXJNYzRDeFM1aHZfSC1EMldfdEVOa0U3a2g3b21iYTF3cVM4d3JrWTB5QmlxdTI2b2NJbUIxZnI?oc=5",
+      "published": "Mon, 24 Jul 2017 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Firefighters battle 2-alarm fire at abandoned church property amid intense heat conditions - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEdQNjVNZGFBc2Z4d2NJVV9PVG16dVBGamx6SU84U2p4alhkU1FQdlFIMWtjbEJJT0Zwb1JhTXdVR0FRbVJLRGc1Q2U2SkUzNnFLcTAtREpwM2JDME1qSzdGMVdNRERjbHh5TVFCdmxDTGJqSEFpNUUtTFIyMmJWS2ZfUGxnVU96UFhUQUFHR2lKLXZqYWQtZ2ttdEhwamJWTTVaOHlmbkJpWG1COFh5RjlhZ1liWnVFd2fSAc4BQVVfeXFMTVFuRlAtWUp5Z3BPSHdXZ3ZvV0c5LUtMMzU3WVdzeTc3cl9Lc1l1ME9kYlljNkxhWHNRZW5JRG4yd0g2enlTYnh6MFpJRFNsX2xBc0Naa0xsQXVnTldWaEg4SzRCQ05wMzhoNjFsamxxU3lZb0U3aGhYQ2hOVGxBU3Nmek04b1B5NDlNazNXS0txaTRoOHJRb0tYRW5vX1Z6d2hxVnRMcEtjS0xNT1FoWW9NTWdhU3RKX3pPckltdWR1UXg5aUlkVWU4R1NmNGc?oc=5",
+      "published": "Fri, 04 Sep 2026 07:00:00 GMT",
+      "source": "Google News RSS",
       "query": "\"St. Louis\" \"abandoned\" \"church\"",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
     },
     {
+      "title": "Move to Demolish St. Liborius Draws Pushback - stl.news",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kVUEyLWdGUmxkTHRpWk0yVDBReGd6cDFrRXFlN1ZZczVnZTBtNk5TWlVXSnEydF9IRVV1eGoxOXZqSEdsZUdLZEsxWGlNcjEyLWNtRHBKc0xEdFJYNVNlZDR5bDU5QW5lU091dnFSMjlfNXM?oc=5",
+      "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "160-year-old St. Louis church went through a fire, 37 service requests and 2 structural condemnations; af - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNODV5X21tWURoLVFNNEJNOWItZ3N6MkhIYTBENmx4VlRmenZ5NW5tMTFEcFMyaVFyWGpRSno5Ukt3MnBjdTZtOWtKX2VlNUJYY3I2eVhkUjZTVEdTbjVEZWF5NUZ4aGhGcS0tOUoweDJlaDhEUVRZUDRoaXNxaTYySm9QeHhia1JHSXR6bzZMRGZYc2ZhYVI5Sk1iSUNmbk0zaGg3VE0tb3hYcnEwSmdudG0wdTNmYkotRWNUQnJQYWsxa0x4NGRtWlJvVm5jU1lpNXFOWjBndzh3X2RCUHB3ODZNZjVCS3Ezb1FyLWl2RE1URHZUZGU2VG93V3lPaDhWSTJLQTJLdW9yRmNncDM4cEtuNWg1UDRQN0EzUzNINGU5cVRtckdlNkdxQUt3akx0bDZfQVlEbkxpSFpQMmR1Qkw0dTlqWV84MFJBa09XcnhUd3VKeTZiRTA2ZXlZSkQ2LWdOUVN5dXk0dWNiWWNWeUxnWdIB-AJBVV95cUxPTG1kc3ZnczNqWkRDOWVxMVlfd0hXNTZHRHk0eXlVZDNVZGZYRkhlQnYzNGpVQVZWakFvOFduUlExQ2lzQmRFcThTNmJaX25WQ2JrOVRmVDRQanktODFYZ2JHendIZnF3THJvcW5aQ1E0TGJodVJvYXRqVm93SEpwRXJrZ1Jta1ZSR2pzcTFwd3dScmlveU9MZGl3UGFRWk5BMmlnQ3I1YWZfTzNzNXF6Qk02OS1ybl80S3NHeGZkc1pBN2JEZEktZGRmOWtxM2FldnZ1SWdUZWN0ZEtnN2N6ZDlhS3czb2pTN25ncWI0bXlzclVJRENCQzdnS0ExdWV6dkpPWFdHQi1HMEFSdUxOMlVDQWxpSV84eU9WV3NnTU1EOTZaQm9CQlFTZUItYlptZW80YzUtYXNRZFRMejR1OUNjR1liOVY5VTF4bHMxU044N1F6SjdTOWdLejZRQXFHbGVaa1ZNbFNxcS1CMllEaU1iNWxvQXdL?oc=5",
+      "published": "Sat, 12 Sep 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Abandoned church turned into hub for Community Radio STL - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3ZDYXd4VDZLOEQ4SUFRdnRfYjJDbmhaN3hKY3lrR3JrX0haWUY0SVBSLWxEYlozUWNMSzFlVkZDMm9oaDBLSXk5azlvbEZaUG1ield4dFpMODl2NW1rRGR3VjB1TUtpYmJwaVctM2o5T3JoQldLcnM2VHNySmpBSHB1Ti1tbjg2YlI3a2pYQjI1OHY2bGfSAZsBQVVfeXFMTWQ0OTQ3bkZibjhMSExNbXh0RFRUeEtkejNxM1Z4ZHpVY0tsLWFadDZkVnloYkhuN1RLN0FES1J1SDI0OEU3TkVQYnY2SF8tMTN4Q0RnX2kyT0pfMVFIc3NRUG4yVnJ1SlZrbFJNZklHOENzRUdyRHl3VGtDTW9NYzExNHBkVEc3UzVfd3dfQzFMNjFVUUdneGh1Ujg?oc=5",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "A Church-Turned-Skate Park in St. Louis Is Raising Funds for an Arts Center - Hyperallergic",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVlwY0JPUzdBWGY5VmREblNqQ3pUYzQwQlU1Z1pucUk4UE9ibjYtYVEzZjNpVEVTaWdsUHBSUVZhT29Nc3ZZYVQzSHd4eGw4dnVBSXdHSXp4ekdGcWI3S1lBRFdWNGFlXzV1RTdhbUNWdXpYV0cyUy1hS1A5bXRsblVITjkzZ0RGUnR6dHIzWVRaRFU?oc=5",
+      "published": "Sun, 24 Apr 2022 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Mo. abandoned church fire spreads to 4 structures - FireRescue1",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbXlPT09QTHMwUGFJaUJKbGdKOG5Qb1pJZWVwNEUtQlJEaF9kdHlWMnNESzFfLWY3MGlZSmI1emFTZFdsYmZHMXB1UmJlRXZjVG5jT1ViMHNnRzE4aDhOT3FXUVdaQzhvRVlYUG5NMXo0dkR6SzM4d2cwUWVGUGJRTnF3dk8zOVUtMk8ySEREMVNZbVk3dnl0TVR4VmN6WHM?oc=5",
+      "published": "Wed, 22 Jan 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Opinion | We Turned an Abandoned Church Into a Skatepark. Then Tragedy Struck. (Published 2023) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM0xVcHp2eTBRckFuRmppUFdSN0tUdGRfMmpaMUxGSFcwTUhuTm1RUU5vS1gwYjZ3OG9kc1ZGSHh1M2dsNDBvNkFNay0wcm4yYXltTHlSdUQ5VjByUWVCUXRkZURWTnFpVGVtaHNXUVRNbGVYZVFVY0ZoNExBQ2tQZkRkTVdsWTFuNDRSQmtwTW8wQQ?oc=5",
+      "published": "Thu, 17 Aug 2023 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "The abandoned church-turned-skatepark going viral needs our help - SB Nation",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZjV4SUtEYUUwLTQxWi1OdzdqbEFCU1lSOUdyZ0NZZFRGdF9ScW1CbnJmZU1SWFctTmZnWm5KRC1GUmlOd19hWUZPOGYzSlVIeW5GWDRoY1BUWlVCZ2JQa0R5cC1KWTNxdGZ3ZF9KYjR6XzRhMGc1WlYwdGNMc1R4TmpBVTlIbGZQbTR5MFBQbUJOcmh5VncwTF8zMA?oc=5",
+      "published": "Wed, 20 Apr 2022 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Fire damages historic north St. Louis church - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQlozMnBKb1ZPTTc4OFJTekJabjRXOU1wTnBwUGVObUw1bHN1TnRicmJWUXo1S1NNUm8xTk9iWVZxRVRfMG44aFRUOXliWUpqM0ZlY1A3ZlF3RWNsOXZiREd4RWtCdi02LTM1d2QtTlJrS1Y3aFlJeWk3cXdienBmTVRNY3B0X0tfcE14ZHhXYw?oc=5",
+      "published": "Tue, 19 Mar 2024 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Historic Missouri Church-Turned-Skate Park Burns Down in St. Louis: 'This Is Not the End' - People.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ya2JtMGFuZy1vSF8zOGt5MEpjNWt4SnZkcUJnV1ZDYl90d0ltQzZDWkkzTFJJSmNjLU1adUFqWVptaG1kLVBTQmVOeUtiVGt3MWQxLUJ4TkxBaFZEQW44dDNvbDZfdlpYMUdTNEZTbWtDQXVsd2JqblRyY3c?oc=5",
+      "published": "Fri, 30 Jun 2023 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "St. Louis' skating sanctuary is gone, but the community forged in ash remains home - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGdqWXlnRnYtTHFJb0xMSFRkTjJyZGRxSDkxQ21CMDFnTzdMMUp2TlZfbWZncExaMDRmZ1BUS1BvTnVROFJNSmMxVlkzUnllT0lldnBvOENhekdKRGlfaGlKNU95ZDFCWWZWU0lVRDRIVkJLWE50Q2szWnE1Q0VGSG5CMkFZRzB2Y1F2NzJ3bjhtR2FnczhPS1JJMV8yWkpxV3pHYUhyVDczZHNvVUVTMGhR?oc=5",
+      "published": "Thu, 28 Sep 2023 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "A look back at St. Augustine’s Roman Catholic Church - St. Louis Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41bEF1Qk85U0Y0bUI0T2YtZVM5QmVfWGlIYXQxOEtQOUtaVEFhbC1NQURZNVhhTk5fYlJyeGgxMFpBQ1lJUmRTQzQyUVoxV0J4QS03UVVrR29TelZ3M0FVal9EaHJzWjg1bHc?oc=5",
+      "published": "Mon, 15 Jul 2024 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "How a Group of Friends Turned an Abandoned Church into a Skatepark - Men's Health",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMEg3d2tqaEk1MWJfby1scVVlSFVxQlZnNXFuX3ljZzVLTGlTb20tMk5nS3Q2dmpXeFBnVWlhSE1NV0N4Z21VTTY2eXZZekdfc1lLOUx2YWhuSG9FWEtyWG96VlE0Zjc1NDZ3MVc2OFpQdi1GM0tpYnlnSDNNWnViUFU4LWw4UjVIQlUtag?oc=5",
+      "published": "Tue, 13 Dec 2022 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "This abandoned, historic church is transforming into a skate park - FOX8 WGHP",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWUtfcGNjVm9od0dUQVBEYmQyYnJJbFJQYkxSSGVscUp0U2FvRXkwSW1laWdMdHRWY004QmZ4d2hpY0xobzQ2eUJlbFhaWV9GU0UxQmQzS2xwX2pLZERPLUNIelBic0dkWi1jMWNTb202bzRiNUVwS3VXblJCUGY2Mk9ZWFNHNm9VTmhNazVDQnM0Q2_SAZgBQVVfeXFMTUlTZVp5TEhBQ1o5Zkc1c1l2eTY5OTdNZEMzVV9JMzNfWVQ4UnlqS3B2YzdDYU1FaTZ0dEIxV1BKY3ZoVWwyc0lWdzJJWG1HSjlpRHY0RTBaZnh4TzEtaFlUVDdzZmY5LVFyTTlOOXJhN21kMTQ1aWY0ZjAweGVJX205U3hnY1hXdEZ1UjRyRzdCZTdqSFBqT1Q?oc=5",
+      "published": "Tue, 14 Dec 2021 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "How a St. Louis Church Became a Skate Park - Atlas Obscura",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXA4aUVTMG5UNjVWczFxdkpWZTU4MENpQVVCY3hVOTZWS2VsS1ZfTkxqSGZaZzdOa3JmQkJaZEdBZ01KSVpvNmROb3NNSjZzVWZfWUJ1eDhBcXdjUlpXcllyUmZEb0hJQVVOZkJSLTg1UWdsZ2ZlczJWMXBhYmk4aW5QenQ?oc=5",
+      "published": "Wed, 19 Dec 2018 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Homeless Man Dies in Abandoned Church North of Downtown - Audacy",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3VwUDFmM1NaWHV2anBrWFpldGJTVllTWXBMNHo3MElQcHJJVlVoUzcxMGRVTDNiclVJQXpfS0ZnYUNLLVA2S01xRWpWazBodGl6Y21jWmpnOW1pcGtXYlpfa3BHd0FZVjFuek9mNXYtaE9NMDc4aHJBdlNkeFhkWnVMaW5KaFE?oc=5",
+      "published": "Thu, 03 Jan 2019 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "For Sale: Hundreds of Abandoned Churches. Great Prices. Need Work. (Published 2024) - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yOVdfWDNzczJwcnZpTGFrQzZQTDB3aGZFbDhxMU14NGlQb3pxWGM4SFBNbXE1ZnVrMWxzdVJCZ1VWM3llbTlPTk1WdGZjSDhsR04zQVpUV0hESTJ5elhUekRxUHFOUXhSeGZkZzNRcFM3c3dWYUpOc0VaUUZ1QQ?oc=5",
+      "published": "Sun, 12 Jan 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Sister of woman killed in College Hill neighborhood looks for answers in her death - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR012TE04NVh3a3JQbUF3ZjNQUnVJbVZkUUJJSkhnM05LNDZBOFFVWllNWnkwOUdDa1ZjcFF4MWVkZGhGejFISGxrWFJVNFdLS2NWdmRtRjNqb3YtQlpsYVE2b2tIV21LdG1RRzJuNkdGYU1LSnozczA4clhQbWxaWWZGVmtpM0ROQWtoQllHUjlvRTVrMUhTelNVVWwtc0FuZVYxRFZnMGpuS0Q3TlHSAcIBQVVfeXFMTVJHVVBUSko5TEJyd3gxVTlDa0ZhTzRfeUZoQjl4MjhUTzlGbGF0UmdHOHlMQnVrV0RCczhBQzlJVFIyUG8tbWxhOTFhQjU1X3FfQjZyWWVWOGlsT3NjUUxzbkRvVTYteHNlOWZacVRTMm5TRm5PYTF1WjZMZ3JhYnZqWFFaX1RocnlqQlVnQlM3UDlZclY1NHpSQUN3WWtVZkpBQ2hEODlBRFNZTElXN2hJOXBvOVlWYVRfMHBWY3lFaEE?oc=5",
+      "published": "Wed, 14 May 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "From the archives: Frustration mounts as Oswego's St. Louis Church remains empty, deteriorating - Syracuse.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PbGp4bDZBUWN2UlpKQmJoQUF1VmFaVXhlcGlTNWUzZVFDdWZIdDZ2cDh1Rmg3SmFmMmg0NG1WQWxlUFRhZVpJT3pLVTAzUV9nc1NsR3JOSVhXdER6NElZeE1QZU5nejNrSjVsVUZ5RXZVYVFQbGNMMThCUHo?oc=5",
+      "published": "Tue, 27 Jul 2010 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "See inside St. Louis' abandoned historic Virginia Theater - Alton Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczhlNWptSHhMTTJwM2hTTmNVaS1QdW5rdldad3pwYmxjWXRibGFtOXUxbW05WmRSbldlMXNPaGhrSjdXSWN2Z21qQnZhdl85b0RSeE9pYXRGUmFxSTh6SGg4VDI3QTVuQ2FhSFhuRXFsV1V2eWM4Y3J1VFRRYjRFWThVdEFneDR2d3c?oc=5",
+      "published": "Thu, 24 Mar 2022 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Overgrown grass at former South City hospital mowed days after First Alert 4 story - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNWJRX2pORnRxeVppQ3EtcXNsOVBaUE9ITFFqcjZLNk5WQ2Jab2VYV01MeEFPY2ZwdHA0eFhmbkVwU0dtOUdfNUJkU0xVaUk2V3h3OHN0T2xLNmhlS2NxOGVDbVcySmR2UWRHVzR0SzE1TVFuMno2QXRNNzVKNGw4bzBIelJRLW1jR24wanlaZVEzWklOUkxsNC11aDVPQVNtOE1mR2ZRcTl3OGxQNUxmb01KY1RmeWFwSTBz0gHPAUFVX3lxTFBfQ01KcmxWVExOcEVQMGhTcGRlQUlmY2RoZHBCeU5BcDJxSDBmdk5yX2Y3NEZNckxpeC13bVdWTEM1azRRZzFlUzRXU1JNU0p2LVl0ZjNIREZZOG9ERlo4TlViRVQzSlhkdERpUzk3bkZBakhrUFNYZTZLd04tUDBLaWxsQXBWaXZJQTFfY1o1dlpac1drZnZyUWwxNU0xY3lCS0VHNV9TZ0c3aWlwNXVrWF9CLW1QTi1LLU5sWXRqZTREZ29GeWF5VVJYQmpkVQ?oc=5",
+      "published": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "source": "Google News RSS",
       "query": "\"St. Louis\" \"vacant\" \"hospital\"",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
     },
     {
+      "title": "Fed-up neighbors want a vacant St. Louis hospital cleaned up. Could a buyer come through? - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWZRS1UtbzZDUG82T1lVTDBnNEI5SG90dTBXMmxhRDNmTU14bDlWY0VyUUcwcG9wSFNoNmtPeVcwRVRqNnhFMC1NLTlwTzFGZ3ZUS0djQThuS1RjSjdoYmJjTW9hRHhQNmVvT2NGWlVSdzZfaE5MOWotWHB0c21CNkFvQWFrMFpzeUNsN2FYRU54TnNvVmZpRk9rXzJfam9mNDNUcWsxUl9lNEE?oc=5",
+      "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Part of shuttered South City Hospital headed to land tax sale - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObWtyN2g3YXpYVmxPc3FIdnMzN0dNaWRJVTZpZkZHZ1J3MzJDX3Y4OGdRTFo4WUVXMGR3MkpTMU9kVFJGbFQzcmgxZDF3dmFKd096dHlWR1VNRDBTbndRTlNRYjVSaDN6dFRUUlFYck5DTHVHUWhkaHhoMEVQUW8wNWFwWEZYQTBlS3UxZ1RpNnBpeW92VUtUSV9ZYjY1OXZHc0I4Uk9rY3h1bmxTN0Ftc0dRMFFPUEoydG5QQ28wc01zd0NhZjQ1VElvdTJ0dllxN2ptS2dCaEVQN3ZGZDFSSWVZc29FVjVDb1llQXlocw?oc=5",
+      "published": "Sat, 02 May 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Developer plans 65 apartments in, around vacant Central West End hospital building - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFJUTDBHcWFGaUFzYjJiZE0wNTVJZGlJdUpmU3FkLVRCdUhWOTV3cTkyMDFKaXV4V1pSQVhiQUluM0I3VFJxWG5MSmNKckJYem1sOFFSeUdfODB6bWMwTXRnYnBlNVJ1VVppYnZRSlNXWGRNaHZlc2ZQcWdJa3JhckRiSjNWbE1NQmIyZUx1OXhCTUd3dHg3RVdacnNyVEZOWEx4Uno2OA?oc=5",
+      "published": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Old Lutheran Nursing School headed to St. Louis LRA after tax sale finds no takers - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDFTUlR1LV9pMTNnd1JIc01vcllxd05hdXdBNXdhTkNnM2ZmLW5RRUxobGRMWHlwQXZZRm56Yml4ZW5wV0xaUTNoVTdjeUNSRkFrMGNESFZpVDJ0RVdUcXZMQzZ0UFItRUNrMGp2dEhMTDFwSWVTdTM1TEU1TG55c0pRNV9WVEI5Y0dVNWxzQ0RmYnQ5eUhhSWhUQmswZW9CVXFnbWhidGpfUQ?oc=5",
+      "published": "Mon, 18 May 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Gravois Park neighbors raise concerns over abandoned former hospital - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEo1czA5eFZ1TDJJOXM5OUlFNFVjVDVNTExjN2FrekxaYk43eV9BOVd3cko4ZXp5d0hqSGVNWmQ1djJ1S1pjYlJkUFpjZmVSZWw0Z29rVHFpWjJPVEhWQmJvbHQtb000NkZld1FtNHBZLVdvcjF2cHVJRy1zdkxPZ1JJQU00bHhfYXFJOE5zREFYVF96NkU1eXdnTkNfNXRtRk5zZzNLMTFCeGYx0gHAAUFVX3lxTE93T0xnQjVtN0x6UkxYeGotN3c0TFZ3SkIwNE9ZbEU2ZDJvOXVFZkJ6aWJNWFJpUjhELWhqQnAzQTN3dC1nWUhrX0lISkJXeE5FczdqdkVSbDJTcG16cllOSW96T0JJNDVaYktZd1lzYXB3ZVhNSDVBUjVBaDYyNUhoelVrbGZVdFJXQm9DQ3hIWmY3WUt1YzRFSmR3LUJRS21qVmZldS14ZDBuMjJVeDY3MFdDZi0zbWxLVW5fdEdyNA?oc=5",
+      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Big Names Have Big Ideas for Vacant St. Luke’s Hospital on Delmar - NextSTL",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0NRbVBJS1BTTEsxTEExTURNY2tMOV91VDhIT0NBc0NSaUZ4cDBpdjVBTGFmYmhtOXZ1U2JzXzFQN1JzMXMyWFJFZHRRUEk0QXJtRVJaS2Q1NTRYYUhia0NNeTFuZXhUcHp3MmxoczVsWWhZTDhTRTFVc3ZnZmJMM25QRHBTUlU?oc=5",
+      "published": "Sat, 04 Feb 2017 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Squatter injured in vacant house fire in East St. Louis - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFVwOS1fLUM0djJTYUpTMnA2c3kzV3pYRk9lS3lIS0ZxSjVEWFNKbzVRMmxvWWY1VWdRQkpzNUtMcE5kczJrbE5zSG4tUWZ2Q1owVXBBNE0wS2F5WmlOQVVJbEZsdUxpZjhFUGp3dlhLNmhsRHU1TTV6LW45a0hMYUdYcFFtSHhpYV9VRlJtTzIwRjM1VnpXNUZBMmI5TThHS00tckpFRjhkMHZfN1EtajQ2WGhtUHNGbHRZTjZR?oc=5",
+      "published": "Mon, 30 Aug 2021 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "SSM Health fills vacant president's post at DePaul Hospital - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFlRNUlmclhvcTBhdkRrX1ZRa2lVMHliNU1kSjZkMEpoeWxHVjJOWWhkQzM2ZTZEUGNZQlJKUTBLc3UtS05YVlF6ZWhwUDJtdjNsMzZMdjdna2lUbVI4aERQMnp3eUFvaEtjM192eXIzOHFTem1ONGJwY085V0pVa2FtUmtyS0l6QlQyUlctdnVnTjNRTWI5T1F6ZmhnMGFCTmtHeUZ5WE0?oc=5",
+      "published": "Thu, 01 Jul 2021 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Cotton Belt Freight Depot in St. Louis - Atlas Obscura",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbEVnMHJ6ei14WWFNUWc3UE1qT05xNXYwNW83VXlsN2dibDhLc0Vfa3lYS2xfb21zSDVnWmhELVh2M21hc2ZfbEtrd0xUZkpwMjVlazF3cjRuT1Q1YjBPUVphUTVueTQ4Z2pfUmh3?oc=5",
+      "published": "Mon, 04 May 2015 07:00:00 GMT",
+      "source": "Google News RSS",
       "query": "\"St. Louis\" \"abandoned\" \"factory\"",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
     },
     {
+      "title": "Missouri man executed for 2002 abduction, killing of 6-year-old girl lured to abandoned factory - WFSB",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGhPdlllWjdCS2R3dGhUalNXc1l3bWxtRmZqcEJvQUdZRFR0V1hmWWxtOVNhSDduQ1ZQeTZEbVN5T25iLU5VM2RrTENyUXJzNThKemRlaTVpMlp0Y1ZXbDJ3Qk9ZRVpfeFM5TkVTSnpud05wT3ZXZkFra1VBaEc1dllPeFlpYWdKdlZiYk52TVV2Rk1MSlFrMjBfUWRwU3M3bnpfRDRpc2lnTkXSAb8BQVVfeXFMUEktOTkzeVptUjJIU1c0dVFYd25TSUtvMjhZczFqMEpabzJmakRaV0p5RDczeVBoZzZaWm9hMnpJUnlMWnQ1a0NPOFZDSHg4dVBfeG5SWENjNXdJWHVDYTFfQmtXd0Qtd0hYWnNmYTlqdEhDdFkzbDdzMzdJcXkwdWtaZFJfUEVndnY0bGI0LWpMRkwySHFUYUljYVhyYkJFNG5Jc1MzdTI1WGhYdFRCSy16aHljLVBQVlYtMEUwaDQ?oc=5",
+      "published": "Mon, 31 Jul 2023 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"factory\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Fire engulfs old factory complex slated for redevelopment in downtown St. Louis - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlRodTFaQU95WEJ0bHd2RnVPZWhRTEk1LXlsZkdiR2RtT2VMOW1WV181WGZtS1lXbGJDSG05ZjFkaVFOVThTbEtsd1FKNzJWRllBUEpfMmdiS2NsM1VsQ2xJU1k1R1RZVkpoZlFaUFZ4UWxxTUdPVWlTeHZEcUQ3QjMwdkFWSU9GWXdjcm9YTGhxOHZ1ekVrUlRnYzhoa0k?oc=5",
+      "published": "Fri, 28 Nov 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"factory\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Fire rekindles inside abandoned bowling ball factory in St. Louis County - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa2lSZ0Ztd3Q2RHhuUWVyWWdMMlhhNEM3MHl2OGdBRkNmcWpDWnEyaXF0WGVxR3BvQjE2RHlqbUNoQnRxcW5EMko2V3Rxc2hkSk5lQ1VvUzFvaUZLOW8xZkJPR21jdTJIV09VbE93dXZTNzJKMnRDcWtZM1NNZVFmMkdtTWhuU2lJVFUxQXBURXhfWms1WTg4U0ZoTFBCeF9XMzcwR2lDVDZwSHExV3Y5M2hOYzVoZV9uQV94blA4XzdhcVpTUHdhTFIzVDdVaTlEZ3hxVTRQc040V28?oc=5",
+      "published": "Thu, 28 Oct 2021 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"factory\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Cementland in St. Louis - Atlas Obscura",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfcjBsWHJSdXNvTlRVVl91Z0ZuSXhuQjZReENmTnlFRTBFdlQxU0h4UERtZG5vSU11ZDBjemFxRTJacFJZTl9GZGVXYXhuVVJUcl9UczA5Mmo5cmpFWjJBdEZKY1Zvc1lBaEFpTQ?oc=5",
+      "published": "Sun, 10 Jun 2012 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis\" \"abandoned\" \"factory\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Crews battle vacant building fire at Page and Goodfellow in St. Louis - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWNKakFqekgtdWZ6Qm8zaGRVRE9CQkFuVDgxXzBmN21BbmdGWlpWMlVrQmVyd1NPaURnaTFfLTZLY0o3bG9KbG1MQTBfQnJqVGZvX083SzNudTVDMXNIa0hjdEpGX2RvdzFzd1BpZzQ4S1I2Znlvd3VGUkllNndEWU45UVpURTRNaU9PcWwtNTZYN09xVFQtQm5uMG5uUlh4ZTRldzRJZw?oc=5",
+      "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "source": "Google News RSS",
       "query": "\"St. Louis County\" \"vacant building\"",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Page issues halt on lease ne­go­ti­a­tions amid search for new St. Louis County head­quarters - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNREgwSnZLSUhhaU9FTmtQS2NTV3JDNU5WMDhWUTNLMkFST2kwclZzQXlYRmFyc0FTbThzc2FnWjhnSHotQjFsS2tOZ1hGSnF0cHdBcGMwcmV6cE05S3hwSXhtT0FueVh0M2JmaE5BbjdWeGNwcWZQdk9TNmVhYWg4bEpMcF9UMUhObWY2WEtQQTUzUHFJV1pMeTdCLTVzc0lBYklIdWVEcU1Iel9VRDBwSnE2eVBjeVdfcl83U0RLSWpiZy04MnU5VW9MUUlYeGFrUmpR?oc=5",
+      "published": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "St. Louis County moves toward HQ lease in St. Ann - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWWJOX1otTDMwdllqOEZ2UldMaUh1QndDYjRCQXMxOWJ4MHJVNTlZS0NnTXBsczFNN3NnRXVmdk5ibzBZbm5rRzJZZzg3NmdvZlBOOE13MERxcDA1OFFwTDI0SGk3TW1LZXJpUFo4TkZweldJSnJ2cVFUaTJhSVIzRFFtLVBRZVpLRUV4d1VndFRtU0tpdU5RTTRXU2JNOWZQVVB2bmtfeDg?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Vacant Creve Coeur office building could become 149-room hotel under premium brand - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVRxejFhbjdRLXFBbGFHMVB5RUhKdDlBUGY5Wm9HeHM5WEpoaV84VFVLeHNpNUJrR3JDdDRVbmFEZzdfU28ydTdaUzlfVFA2MFBEVHlySlpTRGxzWkRaYlJOb1k0bFpJSkRtV1FSRTVyM25tclh1ZmFkZC1KM0RUZUVMX0UzckZwUUlrR2RNaUY5NHYyOVZfNnlmNktBaE9Mdk9Qcw?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "See the latest on St. Louis County's headquarters search - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGJTSU1QN0hEd284STJ2TkhCZWhueXJsdGpaVUZHeG40b2p0cld6aTc0emVrWWVjdVBjMTdhcnp5NkhSeHVZT0g3SmlqYzBCYUdrRUFiYm8wS1Fwc2N6TnFReXN3ZUdTanNsMk5TNUJ1SWlwWlp0STlxanFzTTV3NnRjSGZHcVdxZVEydDY0R3ZZY1Bza2lPVkc5ZW5hejkyR2dRZG9LdHE5b3dr?oc=5",
+      "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Would St. Louis County Council buy old SSM HQ? Port Authority prepping just in case - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2dmTzFET0hNaDV2bDNrQmtqS1lSUTkxTk5RQksybkVmTm5TRUNIZG5VM1FWOUtTak44N3k2MmhUdTdOV2JxUnlmR1BLWmk2REEwQXZKbm9FZTZHbUdIS0w4SjdBRm9feVRRSS1WZ3FhNnJLLUdpVlRvSHBGRjNwUUMyWnRNM1lLRGthbU82QXhpemlIOWpjOHc2VUVHVnd3SDM2RXpDVXM?oc=5",
+      "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Vacant buildings raise risks, costs for St. Louis fire crews - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVXdHaFVvZ3VscXllZUl1MUFUWEF3Y2xna19kWnFoenNORVR2eTRjbkVnTmtkckd5ZjcwVnF6MEFRMkp0M01iMHdlc1hyVVVOZjdOYWxDOVZlekVjakZEcjF1WFJPUHlGX0MzNG1TRXNQV3h1SmZwMlF6cE1GT29jcEx2MWIwUlo5Q2pza3Zta05RempxZWxBZ9IBngFBVV95cUxQU2w0aE5IZ00wRHg2alNKUzdsajBJWU1yZUJKd3lfNVdTRmdaeTFpbkx6NldSYmxkck0zWW1MclBGVU5qdE5NWWdEQ05RZ1d0by1uZ2dKcFlaNnBPekxwLVpSdUxSd2xrQmx5UVR2ZURyNW9xTXduNTJwUmZ4clFLWk5UbzM5SFJ4d2VuVGFPb0lpOE9zelpDdG9hREtfZw?oc=5",
+      "published": "Mon, 08 Dec 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "County Council alleges breach of trust by Page’s office over lease negotiations - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVWtPd2I3ZXVrSTJCaE05MFRscl9lYnBidW1fYXZuaXBFWjBVQXlHRkFXemhiWEkxdGhqaFdnTjJkeWtLRFVQNS1zWS1SZk9aRmR4LUsxN3FfYjdDZXdMREJKeW1kOUtsN0pOQkpBOUNCVTNFeUxheklmSzcxM0Y2TmJlYmtPUkdGTWluMXVhZ3EtUlBNNHZ5MzJhVW9RVktsaVRxTVYydkxncFFDazJydHhSRjN1V2ZYQURiRTZCSHp3YXotRFNFMnF4NjhvZzRIQUd5R2hfZnF2YjBMTUlIMmJ4ZUJrUHlraTJmWg?oc=5",
+      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Council members blindsided by $6M building proposal amid Clayton relocation deadline - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0dERC1JX2FIWmdvcUExT2g5OS0xbnFuM2l2UEpvQm9XLUt5NHJ1WmVlcURVcm44SFFmX0UxeTEyYkJkT2hjMUJteDNKN0ZmdXBHTEY4cEJzZHdRS3lxZHo0R182bmtUYXJWdjA2RGo3eXZLZl9jYnJSUVBrTlpjVjlHaEpMX3FobVVuaEROdDJFaUtoVGtJb3RiMW1IY1FzQjFYWGx0SXE?oc=5",
+      "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "First Alert Forward: Developer bets $350 million that St. Louis’ largest vacant building can anchor a downtown revival - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb3A2MndCWVJfNTdnSkc2UzdiTWVqTy00WDFjZnR3QVo2MFVub0pqMXZGaFJVMjljU1BteFZhR1loR2gzTWEtVndXZTJmT2xXUVM2cDhQVGRCVC1LZXB0b2pwMVYzWDZfSVZvV0c3blJleFZkdzl6RkxrR3RFMmhNUE5LalpXU0ljc3JRMWpDQzJQR0FBWXFqeEVOekl4RFpuNTBkenBVa3ZTRGxxc2NHRl9DaTFQVGdyZjRmRFBTRmp0dFdsQTdLWE9mblJycWFVU1EzNkxuYjhYQnJPNHFrZUpBekYyZjTSAfsBQVVfeXFMTV8wUWp1dVQtRnNUa0hBcktsOUNURFhVY1lzN2JRVFlKV1Vwd0tidTR3NnRWNFYtMlRieDk2djktelZXUkFGeGVRRS0yOHFIVkhWQUVkNnJINEJiaGprWEdYbFYwOFhjVkNEaFM3VS13RkowaWJKRURZU1hpckQ2eldrSzFqX19YeU5iQzUtMkM1b3JFUUFacmtuSi1yOXFfLXBYXzlacVFDY05xaS1GZy1MMml0S0UzQmhtQll3REt2OWtSNVhvT1dXYTM4VS1ZUFgxbDF1VFpYWXhOMHk3V2VPVUk1NUNQRmY1TnR3cGJzTHUwRmd5b3hPTEU?oc=5",
+      "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Animal Protective Association plans to build new shelter in north St. Louis County - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbWNZdXNWUUtZM0pYdEdVeG9fY3d0RktoaFgyckFKa3gzYnZpcnM3ZWNpaHVqQ21lakhPMWdSRGFiNE1HRmgwWjVCQTBNalNTU1ozQlVIeXh0R3dfWXd0dXJuTDJOTGpacTJpeE9GYzdNN2pyYU9QeVdIMFdkWUhxTzFjS09CZnc2TzZOVEgtZ0pscjc0R0VhajN5dVZFVXVwRUsxZWlzenBRUGdiRmNIdEdmSHVwdDRFZm1RUWVULXlGOVRr?oc=5",
+      "published": "Wed, 18 Jun 2025 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "After weekend vacant-building fires, South City neighbor calls for tighter security at condemned properties - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdHN0eVdjN3FZMnRZT21KdmhiZGRMWGxmTDYxemNObWt0bDhmd0MzUXNSVWM2WVdyX1RQWTVsdHFlNFVfbkkwRVJLakFNVTdsd3RJMjY4OVdhY0ItT1pGLXJ6NFBtQ1Y3RUx0dk9hV2lCc2VuM2FlM05hazhzb2FGUk5Oa1luaVNHYmw0OTJza3BJVElMakFSQVlxWmRhekpWWGc4QjQ4aW1RNFVmbzloakh6SkpCMGl5dlZfX0k5SWYwamtjNVBmTGhPcFNQdmFRVjkwTEpB0gHqAUFVX3lxTFAzLXRGX3pfSjBPYWRZS1RTamhjTGlrYWRJQmctZnNyNzVCZWVKak1nWUtJUGVUclBvZ2ZBZGY1MkZ5NVpWaGdXS05adGdyeElIYmgxSlpnQ2gwYU04Y0E2N2pnUG9ud2wyWl80dzRvZmdOa3BaZy05Z3Jab2VCVDJHcmJkN0dreWFGN3AxRXRydUFIOExOS1RQZU8yM2g5RThycWJrVEh4b3J1VEtzLXRxaUQ4NkhHTC05NnBINGEwLUY1TERiVjBScURUalBZZ2p4MWpoWEE1Tkd5ZTJ6SXRLWV9MQU1jUTdrUQ?oc=5",
+      "published": "Mon, 15 Dec 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Page pitches purchase of Creve Coeur building for St. Louis County headquarters - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVJDTUNhM0RYVGdITXVKd3lOZDVJM2VJMUlDdXhqSnljdi1XYUZVeXUzN1NLYkN3cU04OG5PbFBmamZTLXlRbFlrMFNPUVN0R2ZxQV9mNHRjZzRqMXB0d1N0V0h5RzNmM2dHb0NtTEJnY1N2MTFzdE5ySzVIaVlEcExDSU9fZHB2OTVUZlJZMEgxSklyQjhGOTBLMmNGM3QwbnRkWG85dzM?oc=5",
+      "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "Old mall in St. Ann could become the new home of St. Louis County headquarters - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWngtRDJuN2R1anZqX0VNSkR1ZjNUSm5ld2EwcVlBVDBYV3BtMmFDZXFzUTFLZnlqMGZGS05ieHdMWlRCTkI1MzZOWURHT1p4THh2a0I1dWNBVldJUVpvQmxPcGhFcmhIMERYcHp6aEtHTWZDRm94bTdtQ1V5M1puZE9OTzFJVFNJcVhMV0lDN3N1ajV4YVB3bUZrYUZqUFVJUWJvZlZFQ3E?oc=5",
+      "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+      "source": "Google News RSS",
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
     }
   ],
+  "fetch_errors": [],
   "notice": "News mentions are leads, not evidence of legal access, current vacancy, or parcel identity. Reddit automated collection is not enabled pending API approval."
 }
