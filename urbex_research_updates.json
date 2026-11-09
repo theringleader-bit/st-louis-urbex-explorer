@@ -1,7 +1,7 @@
 {
-  "updated_at_utc": "2026-11-09T03:22:00.028933+00:00",
-  "base_property_count": 6034,
-  "news_candidates": 434,
+  "updated_at_utc": "2026-11-09T03:36:54.543483+00:00",
+  "base_property_count": 12650,
+  "news_candidates": 435,
   "verified_new_parcel_matches": 0,
   "existing_references": [
     {
@@ -2978,6 +2978,16 @@
       "title": "Abandon Churches - Reddit",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04bDNRWGhodXNGaU9BV2J0dzcyblVUZFVzS0dyRGxReHJ5aDhHenBiODBLSlV5dHoyTk40V3NwckM3SzgtR29vYUVyZk5TMHNDRHVPVGROb3BtZXI0eVF6VUlkQU5VUW11UkMzYXdpYmRQejk0NEE?oc=5",
       "published": "Mon, 05 May 2025 07:00:00 GMT",
+      "source": "Reddit (indexed lead; no API scraping)",
+      "query": "site:reddit.com/r/StLouis abandoned",
+      "candidate_matches": [],
+      "review_status": "Needs human review",
+      "access_status": "Not established"
+    },
+    {
+      "title": "If St Louis City and County merge into one city, it would be in the top 10 biggest cities in the US. Isn’t this reason enough?!? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamxmUFVrRjd5aXE1WGV3T1gwZ0luQkJGT0piSGtHTUhGLUdEYUV3U1lkQ3Uxckc0UmlhY21kc2JsNGVxQVVBN0dRZXdRYkp5R2pQTjdUSV9heEtrVURhNURXaUZ6OTZxaDAwMGVBOHJUQ2tjYU5mdlktcXRidFExSnZQTGFtN0s0aEhTV1p6bXNDZlA2LUVPbGh6elZVdGc?oc=5",
+      "published": "Thu, 05 Nov 2026 01:40:09 GMT",
       "source": "Reddit (indexed lead; no API scraping)",
       "query": "site:reddit.com/r/StLouis abandoned",
       "candidate_matches": [],
