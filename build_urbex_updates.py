@@ -110,8 +110,8 @@ def historical_illinois(rows, parcel_rows, approved):
                 except (TypeError, ValueError):
                     pass
             return None
-        lat = coordinate('latitude', 'lat', 'Latitude', 'LATITUDE', 'y', 'Y')
-        lon = coordinate('longitude', 'lng', 'lon', 'Longitude', 'LONGITUDE', 'x', 'X')
+        lat = coordinate('latitude_approx', 'latitude', 'lat', 'Latitude', 'LATITUDE', 'y', 'Y')
+        lon = coordinate('longitude_approx', 'longitude', 'lng', 'lon', 'Longitude', 'LONGITUDE', 'x', 'X')
         if lat is None or lon is None or not (37 <= lat <= 40 and -91.5 <= lon <= -88):
             skipped.append({'address': r.get('address'), 'reason': 'no valid WGS84 coordinates in parcel CSV'})
             continue
@@ -121,7 +121,7 @@ def historical_illinois(rows, parcel_rows, approved):
             continue
         found.append({'id': 'IL-' + pid, 'a': r.get('address', ''),
                       'n': r.get('city', 'East St. Louis') + ', IL',
-                      't': 'Historical demolition lead', 'lat': lat, 'lng': lon,
+                      't': 'Historical demolition/condemnation lead (current status unknown)', 'lat': lat, 'lng': lon,
                       's': 'il_historical', 'evidence': url})
         existing.add(pid.upper())
     return found, skipped
