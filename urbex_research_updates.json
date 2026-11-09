@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-09T04:38:19.242528+00:00",
+  "updated_at_utc": "2026-11-09T04:53:46.812095+00:00",
   "missouri_baseline_count": 12650,
   "illinois_parcels_for_review": 75765,
   "illinois_approved_entries": 0,
@@ -1255,7 +1255,7 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Shooting Victim’s Body Found Near Vacant North St. Louis Home - stl.news",
+      "title": "Shooting Victim’s Body Found Near Vacant North St. Louis Home - STL.News",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kd0l4RHg2b3NtdURYTW9pV3VMSzlnVE43ZWo0YjJySHFkZUs4U0lpMjVQdGU5cUZJMnZkektXUFBWMmsyQlJRdDhXZWlkUktKUFVhUUFhWVhaNXNKMGc4VjVxbm5YVzhRbXFyeFR0N1VPZlluOFRZWA?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
@@ -1445,7 +1445,7 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The Historic Visit by the Sixth Rebbe of Chabad to St. Louis - Chabad.org",
+      "title": "The Historic Visit by the Sixth Rebbe of Chabad to St. Louis - Chabad",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZk56cy1falV5amlJanE1T0M2TFZ5Y2ZvNWI5UlNYYUZHdGRkQWltTmJnVTZNTHVsNUVlYjV2NzFuQ0tnbzdsT29Gc1BDLWJqb3NlYmhvX01FOGh3ZzNFLVR6clVsRFljaW1jRWFIeml6dnRJcnNnOVlFYi1MUkZVX05KcFhQSk9SUUdERHVFeGNZM0M0VnhuWnk4dVpIcnJPZ2tlZVE2S0dNVXFEWXpNd1VfWkxaNVpWd1NDZkwtRV9LYVE?oc=5",
       "published": "Tue, 04 Jul 2017 16:31:11 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
@@ -3341,16 +3341,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Planet Hollywood in Niagara Falls, Canada - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG9MQ0xIQm00dHlKNG9saHZGd2s5NDBjTnlKZzkweThYREZjaWJiRWYwUUpLRVhsLUpvX3VjODAzb0ZqOUx5OERPVF9xblFWdU1CWDRDekhmaHVCOTFyTG5yZmFVQVlydlRnN2gzMDQycE5HT3ZfTFRLNld0MDZmcE1SQ2M5SnBtbjBSdDBSRG1UWTZpSk1GYQ?oc=5",
-      "published": "Wed, 07 Aug 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Gary, Indiana after sunset - Reddit",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVNqZ053Vlo3OEdBT0hGZGplR090TkNqVkJjRDN2YjNrTDZrQjI2eTFsM0pmcUJEMkhqUnRhU1NFcmtfaDZaU3ZHb0dOYUlPaE9wMHpGQkV0NHYxbGxSOHdDbTc0SVdrWi1vUnFYaHBTYnVVdTItZ2NieTl2WEs4R0pCMnE?oc=5",
       "published": "Wed, 19 Jun 2024 07:00:00 GMT",
@@ -3363,7 +3353,7 @@
     {
       "title": "Abandoned subdivision (OC) (Illinois) - Reddit",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQlhsWGFVX3AtVjdlM2xWdXVlZ09mdFgwOTlsN3hnQ1EzQ0NWcmpJNnRXTVc4Nnl1MVdhU3ZKOXpMdmZmV1VhdU1fdHdvMzFWREE1YmFYdnhvYk1MZy1LY0lFN1phcWVSYkliSF9POElnNUZReEkwa01mLVdpa2ZzWER1SGY1VXhtQU1NWDJ4bw?oc=5",
-      "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+      "published": "Sun, 12 Jul 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3443,7 +3433,7 @@
     {
       "title": "Searcy Hospital in Alabama, where thousands once lived and many were forgotten. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUhQRnRQaWZVeXFZd1BNSDFLQ19jTkNCRW1VZHpSclowckdBYV84czBrZndINEoweFVNczUyWnkxUUgxdGxvZUdWLUlBOVExSDlGZmp4d3c3bVF1S3E3RnhNQllLc0pRRUlBUlp3aWdKeXFaZ0xtbThuYy1nX0hUTlp5MWFFS2N2N1dwZkg2dGVSOWd6eVItczdZMmgwVHg3dUE?oc=5",
-      "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+      "published": "Sat, 25 Apr 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3474,6 +3464,16 @@
       "title": "Downtown Gary, Indiana in 1993 by Bob Jenkins found in NRHP Archives (part 2) - Reddit",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWVlOUlRbEk4RHlvME4xeUlsNDdjN29mZ3phYkprejVXMk81NFhtTDVHLXM5NnpRdWpUMGZYSFVuR29aaWczM3lLWVJleTBTenpVUnl5VEtTMHAwMGx1MzJLcnpaVEF3am9aWThzOEVYZTRBMkRBOTBHbVVEUmVIdnlNWjdMQnZIRHpTNWIxRlRONm1zM2pEZ2hGSjZmQQ?oc=5",
       "published": "Wed, 06 Nov 2024 08:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Century old cement bridge, 1907. Cement City, Michigan. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzViMkxNS1hpSUhtNE9FOGoya3RFYjFvNkxtQ3VldGpGU0dSdG5vdUJkVWVITnNCT3VjR0lleE5LdExkbHUtVG9hWjlkeUZZWGJTWU1DQUZPa2JTNmE4OW9MajdzOUtFRFEtb25uR0NSa1NLTWNqckQ2QzV0WnczeWFJR0MwUkJ4TDFkZ2xDZmgxXzJ1NkRxYUdEVQ?oc=5",
+      "published": "Mon, 01 Jul 2024 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3561,6 +3561,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "St Lawrence Asylum - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CV2ZEc25jLUotZk43bjV3OWgwbmpEbmpBUzlWeTNZVU0wRWt4SlpZLUpqY3BzQV9kT3h3QVJIbUhUbE1XYzNPakVzMTJseFpJb3ZmbE9mYmZYODE3bFdRdkVqTnVRdGJPZnFGWTJnVlVVVUZmem1rYkZwMA?oc=5",
+      "published": "Sat, 17 Aug 2024 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Carrollton Subdivision was a 2,000 home subdivision in St. Louis destroyed and abandoned for an airport expansion. All that remains are empty & unused streets - Reddit",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObGZkcFZoTDRFZ3k1WU1CYm1mOGc1R21wVXNzVFVfdU41cENLRmNLUWMxbDIxQThWOVRoSllxNUgza2RkcVB6R1ZEMmRCN2NKYUdDTzYzX2FHbjlNZkNscGhHXy1WVzkzTGgzZTZqNnpPZ1FUSHF2em9GTHBzVW9SUlQzMTVybG01MHYzWU5lSTBWT1NlcFE?oc=5",
       "published": "Fri, 20 Feb 2026 08:00:00 GMT",
@@ -3621,9 +3631,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned hospital in eastern US - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3RDVFpkS2VSemxXUF9rOWhxTFpXSUhHQm1RRGVzYUZJeGVFaUNnWGZtS1RQeEJac19DamZtNlk0cHdfQmZ5a05XdVY1RERDeEY1RVVhaWoyTWtTeWFlVHd1aGV0Y0l1d1R0NE9aTE1VMlFoVTFFLUY4TE4zbXhSazNWTmRXUWZRZ1o5WElB?oc=5",
-      "published": "Sat, 16 Nov 2024 08:00:00 GMT",
+      "title": "Abandoned va hospital Denver co - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEppM2R5NkNlODFLMjE3OGlnVklnSGxxaXAxcUxJS1JENGVWRUdZa1dOUkwxa1RMN0ZVc29IUFJzX0hWcFJvdUdHODBySDBLZlN1bTh0YWZZOHpnUzJPRUI2YlYzeHotSXJWSDRjVFl6aE0tZjE2VnJXNENRZDlUdnZKVFFvZDBKejJtYg?oc=5",
+      "published": "Wed, 05 Jun 2024 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Abandoned House on Route 1 in Saugus, MA? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzZSdFBGb0ROX3pYcENLNEhOYm40ZFpZSFVuM0R5dlVzUE94ckdOWWFFT0RQNnpQTzJzZmFReGs3WU9TWGYtLXRNbzNjbDhGNnA1bFhEa2lJUExkcUlPSllWOEFRYnBIYlRWeHktbDJRV19PaFZIQ0NNVTlXOGVmY0EwcVhUSC1jMU5oSWY1ZUdHVUgxd3U0?oc=5",
+      "published": "Sat, 30 Sep 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3634,6 +3654,16 @@
       "title": "Broome County, New York - Reddit",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3hXRGN1TTlnNG1NN0oxUXFIMFJPRFl2VlREUG95R1JEM1g5TnpRX1RPcHVveDhXNGIzOEtGR3daVWJSLW1pNVZYZ1hENExsd1A4MV9FLUwwM3RDOWM1YURRTVI4eHN6a090UFdlOHkyMm01dU5NUzc2MVg3aXU5ZA?oc=5",
       "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Abandoned hospital in eastern US - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3RDVFpkS2VSemxXUF9rOWhxTFpXSUhHQm1RRGVzYUZJeGVFaUNnWGZtS1RQeEJac19DamZtNlk0cHdfQmZ5a05XdVY1RERDeEY1RVVhaWoyTWtTeWFlVHd1aGV0Y0l1d1R0NE9aTE1VMlFoVTFFLUY4TE4zbXhSazNWTmRXUWZRZ1o5WElB?oc=5",
+      "published": "Sat, 16 Nov 2024 08:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3721,16 +3751,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The rest of the photos of the abandoned hospital where I got yelled at by a ghost :/ - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjdDYXp3dkZXQTF2NjVPNkt2UzExS210cUFGMHctWV8ta1BYNGRzT2ozMERzYS1KZ1lPWWlrS3ZpZFMyXzJPaFh2bmdKQlF3dHJiNUdmbW4zenVObExSUlNqTURJeDR1Q3ZlZU4xUV9fNHVJeHM1N2tmQXdOSVp4cnhSS1VoX285UExnaVlZNjJKYmx2b1pjYndEQzJ6NkFuR0ZJ?oc=5",
-      "published": "Fri, 06 Nov 2026 00:14:31 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "St. Louis Abandoned Asylum (Marthasville MO) - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2ZGSWg4T1Jwazl5RDVJUHpGTFVIeDNvZ3JkUUFqSjNsLWdfSW9PcG5KNDhpV3JfRmNySE1pdUJpcV96dzdZN2xLSFBaRk94dFFreGp1TTlxTUZjU0hiYXNiMWh4a0JiN2VwUHdjWFNlaVVkVDdzc3VDOEdzMjdvT1JUb3RTcGdxXzRkWHdJcUdDY1dDZHNraW9n?oc=5",
       "published": "Thu, 28 Mar 2024 07:00:00 GMT",
@@ -3761,9 +3781,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "I explored this abandoned church from the late 1800s - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDJFQUtRLW9vaUljYTJsaGRmZ3VSX2QzaUQyQkt5MGtvOExnWjFtQ2FJYzZfam40QUVWMExjcGFRQ2s2VTRHblhDTTRnTDdKM1kzcmFIRkxQS2p1T1FxREl6bVdXdnZUZXNESE00ZmxOeHFiSjVTT0dJdThMY2twNlNSQWRVNExTOWZTYWh4cXhaTHhyaDB2VEVXZlJoZ2Ix?oc=5",
-      "published": "Sun, 21 Apr 2024 07:00:00 GMT",
+      "title": "Abandoned rosewood center in Maryland. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMmZnY0tPWm9IQll6QUpESGE1XzlVVWU1VjQyVk15ak9lVFo2RVZlMzlKWUljd293R0ZIaUU4Vzk2dXA1SmpNejdvWXhGTHVkQzVPdmFyd0laUFRsVndzM0tWcXdkR3pYdS1VeVpCS0E0VC10V2dNRzRMbndTSlNLdXJHSmxuaTVBbTZrY19OS0dpX1E?oc=5",
+      "published": "Thu, 04 Aug 2022 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3831,29 +3851,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "ABANDONED UNITY HOUSE RESORT IN THE POCONOS - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWM4T3p1NVBDS3dMazVrZ0lvdjVSb2FBOTBlMHVfaWI5R3dwZ3lBcHQxVnVaVEg1NlZ0ZGFZcnJFZWl1UTlQa3BVRDMtVHRxVzVMU1FwbjdrME1rZ2hqdmZiWUVPc29pWTFCWmJzZzNlYkpKbWRFOTU5eC1qVXdXMFFiZEtCVVlJZDNKVi1jcTdLWlQ2Y2NaUXA5VQ?oc=5",
-      "published": "Wed, 01 Mar 2017 08:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Abandoned fire department training facility in Detroit - Reddit",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS09CY1JDQ0QxS25tTm1VcHRKM2x1aHo1eTZXU1BKN2EwRUJPRl9LLW9tTGJVMjJaeGNnU3NsV3ljdWFsZTA5dzB0V252VXdCbTkyRXdZZWJqWGU3aFBPUjdOMzZ4SmszeGZiNXhuMUVyV3ZmUmFjMGdwTkVMX2I1R0pkQjFaTDJ4WmlTVDBCMG9nekF4U0FTRmhqUDB0MFdK?oc=5",
       "published": "Sat, 25 Jan 2025 08:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Pictures from some of the many abandoned schools in Detroit - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS05TM3NwY2kzcXpmYnpJQzRSNldJLVRaaUx5ZWFZVzVuVXNYNm5jTUxmVjFaZ3pmYm5Cd3l1ODVTVlNyS2E4b3o0Nmt4a2FWenpJZlFwSFdIQWQtMXJnMTdNQ1daZ00xUzdSajdoNFJCTmRSSC02ak9uOGF0b2l4N2Rxa2xlY3dhN1hfNUd6YWFoMG9LS0tjSUhtak1CRzEyaWlJ?oc=5",
-      "published": "Tue, 16 Dec 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3871,9 +3871,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Northville state hospital - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYldUX3JMN3NSNnJ6RUY3YzlqY0FrUTIwcGNBT3ZPcWhac25sbmhKZ0pWNTllRFl3U2ItalJzT3lTdl8xLW4yWVNZbFF3ZGMwaURVUmlfVERJdHFLSjFKMy1nNktfOFk3WUVxWktfRGpvMENhblJOTkJHbXpqTXJUMDJGXzk?oc=5",
-      "published": "Fri, 04 Jul 2025 07:00:00 GMT",
+      "title": "ABANDONED UNITY HOUSE RESORT IN THE POCONOS - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWM4T3p1NVBDS3dMazVrZ0lvdjVSb2FBOTBlMHVfaWI5R3dwZ3lBcHQxVnVaVEg1NlZ0ZGFZcnJFZWl1UTlQa3BVRDMtVHRxVzVMU1FwbjdrME1rZ2hqdmZiWUVPc29pWTFCWmJzZzNlYkpKbWRFOTU5eC1qVXdXMFFiZEtCVVlJZDNKVi1jcTdLWlQ2Y2NaUXA5VQ?oc=5",
+      "published": "Wed, 01 Mar 2017 08:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3884,6 +3884,16 @@
       "title": "Abandoned gym in a high school - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2NyZ0tGWTUtcTZhN0FzeGt2WW5FVkdVMTM5U09QQ0pHenBfZ0ZiNnB6azFDOU1YdlBMVWlaUnpuVFp3R2Y4ZFFzU0tobGk5eXRHM2pMdEt6dXEyTUxWZDYwTkJZSEFsS0czZkp3c1A5WE4zMy1zZXpBMXJhbllpOFRib1p6OElubm4w?oc=5",
       "published": "Wed, 04 Oct 2023 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Northville state hospital - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYldUX3JMN3NSNnJ6RUY3YzlqY0FrUTIwcGNBT3ZPcWhac25sbmhKZ0pWNTllRFl3U2ItalJzT3lTdl8xLW4yWVNZbFF3ZGMwaURVUmlfVERJdHFLSjFKMy1nNktfOFk3WUVxWktfRGpvMENhblJOTkJHbXpqTXJUMDJGXzk?oc=5",
+      "published": "Fri, 04 Jul 2025 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3994,16 +4004,6 @@
       "title": "Exploring an old abandoned Chicago Police Station - Reddit",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZzQtLXVfbXgwZnJMaXZxeFl6dXc5RjdLY0VwdGoyUkZoZU03dENGRDVzYUxiZmVaWGRiX242SG8yT2pqX0JyVUlRZXgycVZfbExfM2pKRmdnWElNcWVqSWFOdlE5Y2R4RGFrVldPTG1kVzgyaXJSWHY4Q3JoeUxDaVdLNUw5VUNDaEVQMWs4TFlsNURlUkhTSUpKaXlJTG13SHBuSw?oc=5",
       "published": "Thu, 17 Oct 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Abandoned Singer Mental Health Center in Rockford Illinois with inside footage. - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEFYRndGMGRKYjBsdlZjRmpfSUg0b3ZqN2R2S1dmVmwzVE9MTUY1aTBpMER5VVhLVk5Ba0VxR3dxcGtHcGd2OE5WUjRlNTdmUFFyWkZFN1VQRDExYmJjcXVIdEZPa3FqcUx2MWt4WW1CMF9FQzVncWJ0U0NPVk5iejMySWtYNnlSZVpaaTg2MVNXV0hFQnlSRUxWaUJMOXo0bGtZ?oc=5",
-      "published": "Mon, 27 Aug 2018 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -5444,5 +5444,5 @@
     }
   ],
   "fetch_errors": [],
-  "notice": "GIS parcels do not establish vacancy. Search-indexed links do not establish physical access, current conditions, or legal permission."
+  "notice": "Parcels and indexed links do not establish vacancy, conditions, or legal access."
 }
