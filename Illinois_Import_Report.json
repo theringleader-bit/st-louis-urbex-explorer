@@ -1,7 +1,9 @@
 {
-  "run_utc": "2026-11-09T04:04:29.249251+00:00",
+  "run_utc": "2026-11-09T04:38:19.135758+00:00",
   "town_counts": {
     "EAST ST LOUIS": 7,
+    "E ST LOUIS": 450,
+    "EAST SAINT LOUIS": 31775,
     "WASHINGTON PARK": 390,
     "BROOKLYN": 131,
     "FAIRMONT CITY": 276,
@@ -11,7 +13,7 @@
     "SAUGET": 136,
     "BELLEVILLE": 34233
   },
-  "unique_parcels": 43541,
+  "unique_parcels": 75765,
   "errors": [],
   "note": "Parcel records only. No Illinois vacancy records verified or added to map."
 }
