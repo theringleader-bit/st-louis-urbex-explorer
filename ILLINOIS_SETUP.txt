@@ -1,0 +1,20 @@
+Illinois expansion — Stage 1 (St. Clair County)
+
+1. Upload import_east_st_louis.py to your GitHub repository root.
+2. In .github/workflows/update.yml add this step AFTER dependency installation:
+
+      - name: Import Illinois parcel review queue
+        run: python import_east_st_louis.py
+
+3. To save generated files, existing git add -A / git commit / git push step can commit the CSV and JSON.
+4. Run Actions > Update Urbex Research > Run workflow.
+5. Inspect Illinois_Import_Report.json and Illinois_Parcel_Review_Queue.csv.
+
+IMPORTANT: This collects general parcel records, NOT abandoned properties. It does not
+modify index.html or add unverified locations to your public map. A subsequent
+step must cross-reference official vacancy/condemnation records or independently
+verified historical locations before any Illinois pins are published.
+
+Coverage: East St. Louis and selected St. Clair County municipalities.
+Madison County (Granite City, Madison, Venice) requires a separate import.
+Source: https://arcgispublicmap.co.st-clair.il.us/server/rest/services/SCC_parcel_map_data/MapServer/29
