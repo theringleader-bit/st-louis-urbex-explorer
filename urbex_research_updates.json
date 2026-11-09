@@ -1,0 +1,120 @@
+{
+  "updated_at_utc": "2026-11-09T02:49:28.816790+00:00",
+  "base_property_count": 6034,
+  "news_candidates": 0,
+  "verified_new_parcel_matches": 0,
+  "existing_references": [
+    {
+      "title": "3149 Lafayette Avenue",
+      "url": "https://www.reddit.com/r/StLouis/comments/1x1pfbv/neglected_building_action/",
+      "published": "2026-10-09",
+      "source": "Reddit",
+      "summary": "Poster reports deterioration, boarding and a 2023 demolition request. Current condition unverified.",
+      "category": "Historic church",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "Former DePaul Hospital complex",
+      "url": "https://www.reddit.com/r/abandoned/comments/1uk1eqr/a_look_inside_st_louis_historic_abandoned_depaul/",
+      "published": "2026-06-30",
+      "source": "Reddit",
+      "summary": "Photographic exploration and historical background; current status and access not independently verified.",
+      "category": "Hospital",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "Cleveland High School",
+      "url": "https://www.reddit.com/r/urbanexploration/comments/1sshdic/me_and_my_friend_robbed_at_gunpoint_cleveland/",
+      "published": "2026-04-22",
+      "source": "Reddit",
+      "summary": "Unverified firsthand report of armed robbery while exploring; treat as a safety warning, not verified incident.",
+      "category": "School",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "Former school near Clark Lofts on Union Boulevard",
+      "url": "https://www.reddit.com/r/abandoned/comments/1rtve1n/downtown_st_louis_part_2/",
+      "published": "2026-03-14",
+      "source": "Reddit",
+      "summary": "Photographs of historic architecture; location is described imprecisely and must not be auto-matched.",
+      "category": "School",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "Various St. Louis churches and schools",
+      "url": "https://www.reddit.com/r/StLouis/comments/1kf59rd",
+      "published": "2025-05-05",
+      "source": "Reddit",
+      "summary": "Discussion mentions churches, Carr School and Cleveland High School; includes unverified safety observations.",
+      "category": "Multiple",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "Unidentified abandoned St. Louis school",
+      "url": "https://www.reddit.com/r/urbanexploration/comments/1hvu8o6",
+      "published": "2025-01-07",
+      "source": "Reddit",
+      "summary": "Photos of unidentified school; cannot reliably match to a parcel.",
+      "category": "School",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "Unidentified abandoned St. Louis school",
+      "url": "https://www.reddit.com/r/urbanexploration/comments/1bsudkz",
+      "published": "2024-04-01",
+      "source": "Reddit",
+      "summary": "School photographs and discussion; no verified address.",
+      "category": "School",
+      "access_status": "Permission required / unknown",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    },
+    {
+      "title": "St. Louis urban exploration locations",
+      "url": "https://www.stlmag.com/news/the-top-urban-exploring-spots-in-st-louis/",
+      "published": "2016-01-15",
+      "source": "St. Louis Magazine",
+      "summary": "Historic guide distinguishing some public sites from privately owned locations; access details may have changed.",
+      "category": "Multiple",
+      "access_status": "Check official visitor information",
+      "parcel_match": "Unmatched — no verified parcel-level match",
+      "review_status": "Previously curated; parcel not verified"
+    }
+  ],
+  "news_review_queue": [],
+  "fetch_errors": [
+    {
+      "query": "\"St. Louis\" \"abandoned\" \"school\"",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "query": "\"St. Louis\" \"abandoned\" \"church\"",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "query": "\"St. Louis\" \"vacant\" \"hospital\"",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "query": "\"St. Louis\" \"abandoned\" \"factory\"",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    },
+    {
+      "query": "\"St. Louis County\" \"vacant building\"",
+      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    }
+  ],
+  "notice": "News mentions are leads, not evidence of legal access, current vacancy, or parcel identity. Reddit automated collection is not enabled pending API approval."
+}
