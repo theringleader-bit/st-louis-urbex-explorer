@@ -7,7 +7,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 BASE=Path(__file__).resolve().parent
 ENDPOINT='https://arcgispublicmap.co.st-clair.il.us/server/rest/services/SCC_parcel_map_data/MapServer/29/query'
-TOWNS=['EAST ST LOUIS','WASHINGTON PARK','BROOKLYN','FAIRMONT CITY','CAHOKIA','CENTREVILLE','ALORTON','SAUGET','BELLEVILLE']
+TOWNS=[
+    'EAST ST LOUIS',
+    'E ST LOUIS',
+    'EAST SAINT LOUIS',
+    'WASHINGTON PARK',
+    'BROOKLYN',
+    'FAIRMONT CITY',
+    'CAHOKIA',
+    'CENTREVILLE',
+    'ALORTON',
+    'SAUGET',
+    'BELLEVILLE'
+]
 FIELDS=['objectid','parcelid','parcel_number','siteadr1','siteadr2','sitecity','sitest','sitezip','landuse','class','bldgval','status']
 def query(params):
     url=ENDPOINT+'?'+urllib.parse.urlencode(dict(params,f='json'))
