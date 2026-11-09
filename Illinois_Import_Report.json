@@ -1,0 +1,17 @@
+{
+  "run_utc": "2026-11-09T03:58:50.679567+00:00",
+  "town_counts": {
+    "EAST ST LOUIS": 7,
+    "WASHINGTON PARK": 390,
+    "BROOKLYN": 131,
+    "FAIRMONT CITY": 276,
+    "CAHOKIA": 7687,
+    "CENTREVILLE": 409,
+    "ALORTON": 274,
+    "SAUGET": 136,
+    "BELLEVILLE": 34233
+  },
+  "unique_parcels": 43541,
+  "errors": [],
+  "note": "Parcel records only. No Illinois vacancy records verified or added to map."
+}
