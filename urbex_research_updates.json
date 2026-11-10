@@ -1,5 +1,5 @@
 {
-  "updated_at_utc": "2026-11-09T09:52:37.584912+00:00",
+  "updated_at_utc": "2026-11-10T09:50:47.613640+00:00",
   "missouri_baseline_count": 12650,
   "illinois_parcels_for_review": 75765,
   "illinois_approved_entries": 0,
@@ -47,29 +47,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "East St. Louis Air Quality Index (AQI) and USA Air Pollution - IQAir",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTckY5Q1FVQUlRTjQzdkI1WjhpU0p6N2ZKOE9xM0F3eUFDTjQ1djBHaDdJSzJ1TzY5TFk4cGY1MGRDVll6UHJxN1VVOERFX0UxMDg1TDFONHpKNmFwelMyT2l2V0htWnhoYXJUQw?oc=5",
-      "published": "Wed, 24 Jun 2026 02:04:17 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "ID of man found fatally shot on vacant lot in East St. Louis is released - Belleville News-Democrat",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fOVVQVlFkWmZqUlBrcm1uWThKbVVPaU1ic25Sak53c0JwQmJNQXpTU21xM3Z2eW44SmtyenY3Wk9CWmdWVkt1Y1hlcHM4MEdZY3BFY2tKYTRwOWlKZWd6MFJWby1MWndXRVHSAWpBVV95cUxQZFdIa0JzM0hRVUxyZEdOdDFDa1FwS2lnNHVyczJ6WWI0VDFMajdWQlA1eWN1MFRsZHdiNHc5THBXUDhqWU9BMF9vYldLYjFrUE5wUkVOMGs0bGlsS1k0bGp2UHJLaVJHb1JR?oc=5",
       "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Massive East St. Louis fire began at abandoned building: Officials - FOX 2",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjdRaWJWSG5UVGNTT1FmaVU4bmF0RFRLd0E2NWdKTTJzdVE3dFQ1QlV1OWpZRzVpczJSbG1haTVUZ01qbm9YRlhTak5FN2ZOemQ5cW55XzM3blVFbk9RMHF5OVVXaERNRW5BdU5KRUdmY1d1LVhFU3lmVmdtb1V0cTdIdTQ0QzRYTmfSAY8BQVVfeXFMUFRta1lkeThvMkVuaC1NSlEzcE8xT0xUVWZ5Z1ZtOWtEM19sTVFobHNUT1hSeVlaUGJtYkp4QVB0VEtHMTYwcUllMlBNQjJ1eW13ZnFZUXZnWU5IV1N1d2RUOFc2OHZ5MFJfSXEwU3o5YzVxYlNxT3Z2Nks5c1NXUmNQeFVkQ3puaXgyQWlmTFE?oc=5",
-      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -97,6 +77,26 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Vacant house fire spreads to occupied home in East St. Louis - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEl2bUFYd2U4c0FDS0t1Rzkxb0hiNmMwT3kzemNWSzZhUmhWQVR2UnZzOFBNLVAwdkthbnFHUm1OYjFIazZZUGlDZXEzOFZqQUFMSXJUN0Q5b1hZbE1HanpyLVJaRUV3cnZ0b3BocGhHYkVPUWw0OXJfYTRDSndpbHRnaldsWDlLTjRyWDJUWWNwQ2ZmUjRSZGtlUm5xbmswNm9Qc3o3VXdqQmVueFU5X29ZQUJFOElpNWVHa3JXX181QkVINThLdUtXSmxDRXk1alcw?oc=5",
+      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Massive East St. Louis fire began at abandoned building: Officials - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjdRaWJWSG5UVGNTT1FmaVU4bmF0RFRLd0E2NWdKTTJzdVE3dFQ1QlV1OWpZRzVpczJSbG1haTVUZ01qbm9YRlhTak5FN2ZOemQ5cW55XzM3blVFbk9RMHF5OVVXaERNRW5BdU5KRUdmY1d1LVhFU3lmVmdtb1V0cTdIdTQ0QzRYTmfSAY8BQVVfeXFMUFRta1lkeThvMkVuaC1NSlEzcE8xT0xUVWZ5Z1ZtOWtEM19sTVFobHNUT1hSeVlaUGJtYkp4QVB0VEtHMTYwcUllMlBNQjJ1eW13ZnFZUXZnWU5IV1N1d2RUOFc2OHZ5MFJfSXEwU3o5YzVxYlNxT3Z2Nks5c1NXUmNQeFVkQ3puaXgyQWlmTFE?oc=5",
+      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Historic Hotel Becomes Affordable Senior Housing in East St. Louis - HUD User (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE85U3dsRTJWbGhncWdlN0ZUa0tkbnZKelotdVlRck1RTlhzdFEwOWFKaGNub2gxTnNSS3hDbTc0bVcxckFjeFlVdU5IQkdBcUJXbUlxNEhoUUhOYU5BV2d1bWJpbnBiUW1wVmpuMkVqSkZzRm1pbGttd3N3?oc=5",
       "published": "Thu, 10 Jul 2025 07:00:00 GMT",
@@ -117,9 +117,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "East St. Louis hopes to save one of the nation’s first Black public schools - Belleville News-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSkM2bTFpSG45b3FlVlBCM05oRWZvVVBfSjJaWFFDS2s5R3Fnb0NfNFVKWTE0MHBvUWFKVTdkdmdMdDJLYWJWZTZiVHhTcTBvdTRlUnd6ZXFHcGlMMW5KT0FR0gFiQVVfeXFMTjlzMi1INkFFWlFvYW42NHR0bXk0MVRFbkIwZzhCX2hqMWI5MlNkVmlVRzBWdUFnMXhMN201TWYwQ19JXzRVS3ozZHJ6aU1YcVdKaWE0Yk5IMmdYckVkZHk4LVE?oc=5",
-      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+      "title": "Historic Illinois places are in danger of demolition or collapse. Here’s the case to save them - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTBhM1N3TXFadjhqUnd1RGFsM3ZfN0ZRMXVNNERiOTlqODJ6Rkh0ZTRxQ21zTnNENmc0aVhKa1dwNTVIamJIcWFpckNYU3plRnF0R1RzM0EtaEJkZ0ZvcmxoZ0RFaV8xQU15WFlFLVV5bWptUGRyTXpuVG5ZVEgyTUZCZE0wM21KSDY1dHVtMUI2QldyZlNLREc2eGhEWHZkTnVjQmptU1prSjNqTDUtWEZmVkVVVHZfR29LMUp3VQ?oc=5",
+      "published": "Thu, 15 May 2025 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -127,9 +127,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Historic Illinois places are in danger of demolition or collapse. Here’s the case to save them - STLPR",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWTBhM1N3TXFadjhqUnd1RGFsM3ZfN0ZRMXVNNERiOTlqODJ6Rkh0ZTRxQ21zTnNENmc0aVhKa1dwNTVIamJIcWFpckNYU3plRnF0R1RzM0EtaEJkZ0ZvcmxoZ0RFaV8xQU15WFlFLVV5bWptUGRyTXpuVG5ZVEgyTUZCZE0wM21KSDY1dHVtMUI2QldyZlNLREc2eGhEWHZkTnVjQmptU1prSjNqTDUtWEZmVkVVVHZfR29LMUp3VQ?oc=5",
-      "published": "Thu, 15 May 2025 07:00:00 GMT",
+      "title": "East St. Louis hopes to save one of the nation’s first Black public schools - Belleville News-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qSkM2bTFpSG45b3FlVlBCM05oRWZvVVBfSjJaWFFDS2s5R3Fnb0NfNFVKWTE0MHBvUWFKVTdkdmdMdDJLYWJWZTZiVHhTcTBvdTRlUnd6ZXFHcGlMMW5KT0FR0gFiQVVfeXFMTjlzMi1INkFFWlFvYW42NHR0bXk0MVRFbkIwZzhCX2hqMWI5MlNkVmlVRzBWdUFnMXhMN201TWYwQ19JXzRVS3ozZHJ6aU1YcVdKaWE0Yk5IMmdYckVkZHk4LVE?oc=5",
+      "published": "Mon, 02 Mar 2026 08:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -147,29 +147,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Firefighters battle vacant house fire in East St. Louis - KMOV",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFlaOWxRYmNKLTAxbDJfQ0RSaDMxallTZ0UwYVZIMXFHU0dNSngtVWFwbUdaZm5yZWoySXlUSF90N2NmZ0FvOHhURGZDR0lQT1FCU29EVm8xTW1tUzVVOWk4MmRxaU4xQ3FQenQ5SklZNFcxTXh3eFVVMEFCVVhiMzFFWWRZN3g2Y1duc2gzNXRtNTNWcHc?oc=5",
-      "published": "Mon, 11 May 2026 07:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Vacant house fire spreads to occupied home in East St. Louis - KSDK",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEl2bUFYd2U4c0FDS0t1Rzkxb0hiNmMwT3kzemNWSzZhUmhWQVR2UnZzOFBNLVAwdkthbnFHUm1OYjFIazZZUGlDZXEzOFZqQUFMSXJUN0Q5b1hZbE1HanpyLVJaRUV3cnZ0b3BocGhHYkVPUWw0OXJfYTRDSndpbHRnaldsWDlLTjRyWDJUWWNwQ2ZmUjRSZGtlUm5xbmswNm9Qc3o3VXdqQmVueFU5X29ZQUJFOElpNWVHa3JXX181QkVINThLdUtXSmxDRXk1alcw?oc=5",
-      "published": "Fri, 21 Aug 2026 07:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "After a $44.5M renovation, historic East St. Louis hotel gets new life for senior living - STLPR",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSjJTSXFpWXNMTlpUUlJ0MDk2ZEdYcURoMzJxVW95bjM4a2Rwam1UNmlkUmkxVnFqZ2l1RWJOZmRybWNCYlRpYjFSUzRNOVFFTWtPSGNPcGNyWVVhQXVERzByZExLV3E4NW1YQTV5NVc3aVl3QXl4RC1uV3lmdHZ4V2JvQ0xUWXV0aUZSamFoOWRBY29ucnFQbTJqVDRBZG1xc0tCdXZ4T2R2S2dzeXROOU1iUjhwRFoybW92VUtWZG5LSzc2ZldSb1RjWTBDZGc?oc=5",
       "published": "Fri, 28 Mar 2025 07:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Firefighters battle vacant house fire in East St. Louis - KMOV",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZFlaOWxRYmNKLTAxbDJfQ0RSaDMxallTZ0UwYVZIMXFHU0dNSngtVWFwbUdaZm5yZWoySXlUSF90N2NmZ0FvOHhURGZDR0lQT1FCU29EVm8xTW1tUzVVOWk4MmRxaU4xQ3FQenQ5SklZNFcxTXh3eFVVMEFCVVhiMzFFWWRZN3g2Y1duc2gzNXRtNTNWcHc?oc=5",
+      "published": "Mon, 11 May 2026 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -187,9 +177,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Building fire shuts down several city blocks in East St. Louis as firefighters respond - KSDK",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcmxpSHNOTlRHbENGdjVuUm9hbVM2VTU0OUI4ZXpNakxveUMxVkJQRUxyaFB4V1ZIalh0Si1kNDgxVUNwTXhKNFFmUVhiYzBuYTZuaV9qWGhTeXRQOWZhRloxT0pIblluN3J0b0RFeVY4R0F3VDJ6c2o2TXIzRDE4QmpRUWVjWUM5dDhEZUJMTTlvZ1Ffc3EwVWJWMTVreHVMb0tMQmNsd1dpUFYwQUNQSTRlS1JNQlplUWdEUkxvR2k5NUl6OUdGdVpTSXpGejdfaW1VaFh1ZXNYdTg1enYyR1N4dEFyRzFZaFpvSzMtM1U?oc=5",
-      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "title": "East St. Louis Downtown District Awaits Listing On National Register Of Historic Places - STLPR",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVndCRktsRGloZTByamtGLUk0TWdwVTRRRmJENGZCRFFyMjJpeEtQZWRqcmdWLTZVZEUwaDJHTWJONllOcko4NHllUzZ2QmZ0cEd6Snl6WmxDX1QtdC1kVWh4ZGpqY2V6Ui1JelNMZXl0Sy1qLXdJckMxd1dDN29WR2JfZlEycWc4RXZYVWdrU1RjLUc4UG9MQVpMTFNSVVg4UEVGc0tWNTgwWG5GaFVBM2ZWajRUcVZUUWFBdlBHMDVUZw?oc=5",
+      "published": "Thu, 11 Sep 2014 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -197,9 +187,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "East St. Louis Downtown District Awaits Listing On National Register Of Historic Places - STLPR",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVndCRktsRGloZTByamtGLUk0TWdwVTRRRmJENGZCRFFyMjJpeEtQZWRqcmdWLTZVZEUwaDJHTWJONllOcko4NHllUzZ2QmZ0cEd6Snl6WmxDX1QtdC1kVWh4ZGpqY2V6Ui1JelNMZXl0Sy1qLXdJckMxd1dDN29WR2JfZlEycWc4RXZYVWdrU1RjLUc4UG9MQVpMTFNSVVg4UEVGc0tWNTgwWG5GaFVBM2ZWajRUcVZUUWFBdlBHMDVUZw?oc=5",
-      "published": "Thu, 11 Sep 2014 07:00:00 GMT",
+      "title": "Building fire shuts down several city blocks in East St. Louis as firefighters respond - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcmxpSHNOTlRHbENGdjVuUm9hbVM2VTU0OUI4ZXpNakxveUMxVkJQRUxyaFB4V1ZIalh0Si1kNDgxVUNwTXhKNFFmUVhiYzBuYTZuaV9qWGhTeXRQOWZhRloxT0pIblluN3J0b0RFeVY4R0F3VDJ6c2o2TXIzRDE4QmpRUWVjWUM5dDhEZUJMTTlvZ1Ffc3EwVWJWMTVreHVMb0tMQmNsd1dpUFYwQUNQSTRlS1JNQlplUWdEUkxvR2k5NUl6OUdGdVpTSXpGejdfaW1VaFh1ZXNYdTg1enYyR1N4dEFyRzFZaFpvSzMtM1U?oc=5",
+      "published": "Thu, 04 Dec 2025 08:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -257,9 +247,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Man sleeping in abandoned Metro East house dies in fire - KSDK",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXA5NjRGd3JnbEdUTnhlSTljRnVWOEtiY3otQVhqbDdNeGFVZl9QM0N5bEtoUVlPNU10RVVkdGhmX1A3bGFJMGllMVhYYUd1b1RUaXBDVU12YkpDX3cxSmxIcXA1amNZSjFNVC1kMTYyX3V2R09Ed21FRUJvemZnd19aSzlYWjlzVmlzS0NibnFadmQxQkN6NXh0a1R6U2xleWswaUZIMzlkTG1fZ2s5cUM1MFVGelN6YURPMjdJYU4?oc=5",
-      "published": "Tue, 07 Mar 2023 08:00:00 GMT",
+      "title": "Two Metro East sites named among ‘most endangered historic places’ in Illinois - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzM0bUtHclhNcVcxTDZ2d3lRZVFOUjdXZzIwb2x5Umx6aVlQMWJ1Q3lkZTc3RHJ6UjBnWDdiUEpFT1QyemhvMFl3WEtLeUZpYjliR3hZRVZVVENmRlpNQ0Q0Vkh5dzItNDRYM2tHQjZETWExZmIzZVVLdVRuMG5nZnlBbDFtV2tkWmc1Z0xqRDJYU0N0WnpiNHI3VjVOZWVjM0FxajdvQVk5a2Y2ZHIzedIBtgFBVV95cUxQTmdfM2lqMlhjWXdYU2RMbnZna0VHTlFoSEJvZzR1OElGNzIwZnRmTjNWTGNiLTItcTMyOEMteGVIX2JSSjZqUW5idFprazFnWVBwVF95bEZ4R2NJZVRUZDZLY19FSjZFb3ZhSDB6dHRnS2V1OUVVWDROS2hjVExGbmV1UE1YRHU4X3N1RklDOWtubjdIZEFSd2F3cDhEM0NLTW9oQzhudXNvMHl2ZHVsYXRPTXpTQQ?oc=5",
+      "published": "Sat, 11 May 2024 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -267,9 +257,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Two Metro East sites named among ‘most endangered historic places’ in Illinois - FOX 2",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzM0bUtHclhNcVcxTDZ2d3lRZVFOUjdXZzIwb2x5Umx6aVlQMWJ1Q3lkZTc3RHJ6UjBnWDdiUEpFT1QyemhvMFl3WEtLeUZpYjliR3hZRVZVVENmRlpNQ0Q0Vkh5dzItNDRYM2tHQjZETWExZmIzZVVLdVRuMG5nZnlBbDFtV2tkWmc1Z0xqRDJYU0N0WnpiNHI3VjVOZWVjM0FxajdvQVk5a2Y2ZHIzedIBtgFBVV95cUxQTmdfM2lqMlhjWXdYU2RMbnZna0VHTlFoSEJvZzR1OElGNzIwZnRmTjNWTGNiLTItcTMyOEMteGVIX2JSSjZqUW5idFprazFnWVBwVF95bEZ4R2NJZVRUZDZLY19FSjZFb3ZhSDB6dHRnS2V1OUVVWDROS2hjVExGbmV1UE1YRHU4X3N1RklDOWtubjdIZEFSd2F3cDhEM0NLTW9oQzhudXNvMHl2ZHVsYXRPTXpTQQ?oc=5",
-      "published": "Sat, 11 May 2024 07:00:00 GMT",
+      "title": "Man sleeping in abandoned Metro East house dies in fire - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYXA5NjRGd3JnbEdUTnhlSTljRnVWOEtiY3otQVhqbDdNeGFVZl9QM0N5bEtoUVlPNU10RVVkdGhmX1A3bGFJMGllMVhYYUd1b1RUaXBDVU12YkpDX3cxSmxIcXA1amNZSjFNVC1kMTYyX3V2R09Ed21FRUJvemZnd19aSzlYWjlzVmlzS0NibnFadmQxQkN6NXh0a1R6U2xleWswaUZIMzlkTG1fZ2s5cUM1MFVGelN6YURPMjdJYU4?oc=5",
+      "published": "Tue, 07 Mar 2023 08:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -307,29 +297,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "SIUE professor wrote first book on historic 1917 East St. Louis race violence 60 years ago - STLtoday.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkJMMjdocW5xa1g5RXhWLWJmakNmWW1oTDJXMHhmaVpJRHR1SVJrRGg1QUNnQ2VLckstVEZBY0NGa3Q3dExJZXh2ZGZnNGxmN3lsTXNLWVF3d0g4MmhDWGZJaFJDX1U3eEFjelJEMTMwVks2OFFhNVhpSU9HZGFqSGk5SlpiSzhOSDN5UkNCb3hETDA0MGd5WFl1T2dWelA2RUcydWxGWnk?oc=5",
-      "published": "Fri, 28 Jun 2024 07:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "'It definitely appeared to be vandalized': Historic 1917 East St. Louis Race Riot memorial damaged - KSDK",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZWdFaGpNaWRWSFdxbThraTEzeDViekhYZ3huVHVLMzY1aDREUTlUSHd4OVprdWdZZmpIbld4UkNrM01tdHg4dFVodGE1dmQ0UkktQ2hveGRuQ2lKQ0VBWkg2V0VORGFVSDV5ci1rT01CWGt6ZWVjR2JJMlNmTFdpY1RSU3hZZ05TTnF0N0hxSmdTRnc3M0Z2U01zSnVtRVVROS1pWDFYSGU2V2ZWbTVpSHNTWnMtMjJHX2hJY2dTMHlIVUE?oc=5",
-      "published": "Wed, 27 Apr 2022 07:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Belt announces a $1.5 million project for East St. Louis - Illinois Senate Democratic Caucus",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVlndUpNXy1qTmhEODJNM1ZRSTlNZ3pGVVRuMUVUNnBBRU1JblRtYkdiT2FaMmUtRlhBWFdMSWYwaUhQVHM4LWY2OEl5aGU3RGFteUNQa2J3UmlHOFFzcWkwMzVyWlpySTdRZG5DZTF4aTVBZm4temgzNmVVQldvQ1dTaTZ5Rm1RMTZSSXN4MjN4RXJudkxYcFVQcjVjQ2JEb0djd2IwNFk0LXZFUDdUY09GQVl3aXdub3Vrc3gzS0cweTVtc3RBRzJFNnVlSGFNMU0xejFfMA?oc=5",
       "published": "Thu, 25 Feb 2021 08:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "SIUE professor wrote first book on historic 1917 East St. Louis race violence 60 years ago - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTkJMMjdocW5xa1g5RXhWLWJmakNmWW1oTDJXMHhmaVpJRHR1SVJrRGg1QUNnQ2VLckstVEZBY0NGa3Q3dExJZXh2ZGZnNGxmN3lsTXNLWVF3d0g4MmhDWGZJaFJDX1U3eEFjelJEMTMwVks2OFFhNVhpSU9HZGFqSGk5SlpiSzhOSDN5UkNCb3hETDA0MGd5WFl1T2dWelA2RUcydWxGWnk?oc=5",
+      "published": "Fri, 28 Jun 2024 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -347,9 +327,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Environmental Racism In East St. Louis and Surrounding Areas - ArcGIS StoryMaps",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoTVd5MVZKMnV2TlUzLVBhWHdYa1BEdTd3dDRqYVpCZHJkRXZ0SlY1YW5iRGhYZzl6V1EyLTFxdmJ2Vl9yRFE2NldGeU5kODZLMXg4cUdZWjhwSDRzUmJjZWU0VkZKSzIwd2hraHhONHVzd2JSZUxvTQ?oc=5",
-      "published": "Sat, 25 Nov 2023 08:00:00 GMT",
+      "title": "'It definitely appeared to be vandalized': Historic 1917 East St. Louis Race Riot memorial damaged - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZWdFaGpNaWRWSFdxbThraTEzeDViekhYZ3huVHVLMzY1aDREUTlUSHd4OVprdWdZZmpIbld4UkNrM01tdHg4dFVodGE1dmQ0UkktQ2hveGRuQ2lKQ0VBWkg2V0VORGFVSDV5ci1rT01CWGt6ZWVjR2JJMlNmTFdpY1RSU3hZZ05TTnF0N0hxSmdTRnc3M0Z2U01zSnVtRVVROS1pWDFYSGU2V2ZWbTVpSHNTWnMtMjJHX2hJY2dTMHlIVUE?oc=5",
+      "published": "Wed, 27 Apr 2022 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -367,29 +347,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Environmental Racism In East St. Louis and Surrounding Areas - ArcGIS StoryMaps",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoTVd5MVZKMnV2TlUzLVBhWHdYa1BEdTd3dDRqYVpCZHJkRXZ0SlY1YW5iRGhYZzl6V1EyLTFxdmJ2Vl9yRFE2NldGeU5kODZLMXg4cUdZWjhwSDRzUmJjZWU0VkZKSzIwd2hraHhONHVzd2JSZUxvTQ?oc=5",
+      "published": "Sat, 25 Nov 2023 08:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "$10.9 million in demolition, renovations planned for East St. Louis public housing - Belleville News-Democrat",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DSXRQU2dYUUU4Q3RrSFJZVkJ0WWkwc1BmbWhnYmJRUGtDSnoyNVJUTU5DUzhGcTdSR3NWczZTcUpMclRrUVBPczY4SzU5NE1HcDZrbjVscnR2N1lheHgwX3Bn0gFiQVVfeXFMUC1pcXJKYmRrbmswRUJvMGpwR1ZYSzIzWU1vaG5tYUJOMk1CdHZjdjBBRTJBck5Ca29uS2Jwc1ZsMzZrYlpjUlZLRmhlUzVMekh0VmlKZlliSVQxSXdyS3YxMVE?oc=5",
       "published": "Fri, 07 Dec 2018 08:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Part of downtown East St. Louis added to National Register - Route 66 News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm5ZM0dYaGpUSUdaMUdpQVUwLXNMUnZ1czFUNGlZYzFBaGNHeGpGZExENHJQeHFxbUhqalBLUE5fWUtpLTFOa3BicGhxc05wczhSWHEwZDIzdk9vd3VLVGFNZGRqMVFqcklfRmNMME9aREQ4UFA4c2YtN2VVYUNNLVNGa3dIRTlLb3lnTnhlNjdvZHVnUnc?oc=5",
-      "published": "Sat, 27 Sep 2014 07:00:00 GMT",
-      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Spivey Building, tallest in East St. Louis, seems destined for demolition - STLtoday.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQU02R2hESnRaeUxpY09fYmhieE85dHBONG84c0hPeDViUDgwc1RJUjduZloycGFfVDBoZ2FKcTFpaXVqQ3M2QVhvR004dThnZDhmYmUzeGhaWEo4Zjg1LUE1T1RNZVlUSjJRZm02Z21VVUpXaXZwU1VidEZyeEpvdDNQRVIxeW44a3BSLUNJNDg2MVZWV0ZzZVhlMjdOQVJWQUw0ZlQ4a1ppWTZEWW5YakpVMW9ya0FLWmZvQ3RNU3JpV1AwTlRVTnZVOUlDOFg2V19xdXEtRmxHZGNOb25mOERGNmFxTG1ERU80Um9kczJqWi1OREY2QQ?oc=5",
-      "published": "Mon, 18 Jun 2018 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -407,9 +377,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Massive fire destroys historic church in East St. Louis - FOX 2",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZG9CY244VWM2andoakg3VWZaOVVMMFZmMHpYazZib1dZbndEU291UndJT1dxbjR1YV9YaF9SWHppSUY3SUljczdfY3p2VHNLb1V3NDRjUk0tYk5qYjZVNnlBYWFVaVVEcmtfRHhuWmpJdm5YTWpjd3p0N3VYVE5JUFYyX0hpUnPSAYwBQVVfeXFMTVBaSFdXVHJkc3JsRE1udGJab2pMVldqZkNNeTRNZjdsZHRNN1RFRjA4RUV6UzNZVzlCd1J6VWxBN3U3ZFpfMlM2eGJvejBEOUpPX1VVdDhOS3c2Ymh0djI1Z3BWQzFLQW5uekFGNDBEXzZCemktYTd6Y2YzOFpNaFlRcFNteFlreExlOVI?oc=5",
-      "published": "Sun, 15 Jan 2017 08:00:00 GMT",
+      "title": "Spivey Building, tallest in East St. Louis, seems destined for demolition - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQU02R2hESnRaeUxpY09fYmhieE85dHBONG84c0hPeDViUDgwc1RJUjduZloycGFfVDBoZ2FKcTFpaXVqQ3M2QVhvR004dThnZDhmYmUzeGhaWEo4Zjg1LUE1T1RNZVlUSjJRZm02Z21VVUpXaXZwU1VidEZyeEpvdDNQRVIxeW44a3BSLUNJNDg2MVZWV0ZzZVhlMjdOQVJWQUw0ZlQ4a1ppWTZEWW5YakpVMW9ya0FLWmZvQ3RNU3JpV1AwTlRVTnZVOUlDOFg2V19xdXEtRmxHZGNOb25mOERGNmFxTG1ERU80Um9kczJqWi1OREY2QQ?oc=5",
+      "published": "Mon, 18 Jun 2018 07:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Part of downtown East St. Louis added to National Register - Route 66 News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm5ZM0dYaGpUSUdaMUdpQVUwLXNMUnZ1czFUNGlZYzFBaGNHeGpGZExENHJQeHFxbUhqalBLUE5fWUtpLTFOa3BicGhxc05wczhSWHEwZDIzdk9vd3VLVGFNZGRqMVFqcklfRmNMME9aREQ4UFA4c2YtN2VVYUNNLVNGa3dIRTlLb3lnTnhlNjdvZHVnUnc?oc=5",
+      "published": "Sat, 27 Sep 2014 07:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -420,6 +400,16 @@
       "title": "Murphy Building in East St. Louis being torn down - Route 66 News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXIwUC1BYWFSRFBGLUJXUk4wVU5FbGxFYXJRU0steXJSaHV3LXZXVWZ2VmZzaVBqbm1HVzh3ZkhTVVF3VHZKNkktVk1PNlcxZndUMFYxS3ItNlVDRzg0ODdnMnhWYzRxd2QxbjNIdi1mUi1qQVpFb3F2d1ItaTBacGJmV19aWEktcWM5X0FyN2NUUQ?oc=5",
       "published": "Mon, 04 May 2015 07:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Massive fire destroys historic church in East St. Louis - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZG9CY244VWM2andoakg3VWZaOVVMMFZmMHpYazZib1dZbndEU291UndJT1dxbjR1YV9YaF9SWHppSUY3SUljczdfY3p2VHNLb1V3NDRjUk0tYk5qYjZVNnlBYWFVaVVEcmtfRHhuWmpJdm5YTWpjd3p0N3VYVE5JUFYyX0hpUnPSAYwBQVVfeXFMTVBaSFdXVHJkc3JsRE1udGJab2pMVldqZkNNeTRNZjdsZHRNN1RFRjA4RUV6UzNZVzlCd1J6VWxBN3U3ZFpfMlM2eGJvejBEOUpPX1VVdDhOS3c2Ymh0djI1Z3BWQzFLQW5uekFGNDBEXzZCemktYTd6Y2YzOFpNaFlRcFNteFlreExlOVI?oc=5",
+      "published": "Sun, 15 Jan 2017 08:00:00 GMT",
       "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -447,9 +437,29 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Look Inside An Abandoned Bank Found in East St. Louis - 97.9 KICK FM",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3QzY0I5RFZjWHlLOWNJVm82YnVXaFFLUWZ2Wk5lQkg3LVJ6Umw0RElmdUNOWmI5S2pYclpBVlFibjQ5alNZZVRDanY0aXdLakJKdDY1X0hMSGFPYzQ1S2JWS3lkWDdBaFZhODdzSXkycUxsaUNnOGVFdmFjNFZqcw?oc=5",
+      "published": "Fri, 21 Oct 2022 07:00:00 GMT",
+      "query": "\"East St. Louis\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Pit bulls get their kicks near old Route 66, killing men in Illinois & New Mexico - Animals 24-7",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkFFQVh1Z2U4X1htUVZkQnJ6ZmpCUjZhZ2p0SlFYUU9QeF95NTlBTVZ6NUk0Skc3UGdpWkhIY25qaEwzNTJzV1I4XzlWZ3JTMGRYYkMwOHZsUWN1RVJCZVQ1LXhlLTdCcFIxUW83M3VsVENsa202UGlqN09oOHpmMHZvSGNQNmZuODB1dV9fbkE3TDZPNEN2Zk5NZDZRMzRWV25uNkZEUFVJTGIwcmFfUTlmQnhiWDkxMkE?oc=5",
       "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "query": "\"Washington Park Illinois\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Volunteers invited to help remove invasive species at Washington Park - Illinois Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnVXRVdHM3V2aEZJVFA3blNRaEtnalppbnpnMkY1UnZkeFhxNjIwcTJFc3NTTlpTbi1WUk4xVE1Kemg0b2JYbVliTDQ2cVQ4dXdTaDJGNlZGcU1tUi1NeFNxdXVQNmN5UjAzM1AwMXFqQmFhS1VyT093VnltLUluWkthQzZleEtlRF90M0tMSEdNMFl4YVNfczFqUnZ5QTZfZ2dKSThPZ1Q?oc=5",
+      "published": "Mon, 09 Nov 2026 22:57:45 GMT",
       "query": "\"Washington Park Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -497,9 +507,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The apprenticeship solution - Construction & Demolition Recycling",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTE1qQ2w0M1VEekxXMUV1bTFBOGZIa0xhelV0QzVqQm9XRllVSUR4blJ6UXRmanFxTVNmWWtwUldtb0hZR014M0l1bW9JT2FodTRkcDM2RndmMVBSWkZsaXBTWjdkNWc3dFJobC1XRUM?oc=5",
-      "published": "Thu, 21 Jan 2016 08:00:00 GMT",
+      "title": "ISP: Washington Park homicide leads to officer-involved shooting and crash in St. Louis - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbldEQjVxS21iUnRCQTZnVUdvOVpIRE5od3RhdDdwNUxqZ0FjdlZ4aHI4QWN3eVNScWJMSEQtNXExXzRaYi0yVVJ0TnU1czc0NHZNYkdiU3RuRWN0NGhXT1Bsa0hsaF9rblQteVhmczFjRVJEUUxmQzdWVHhzdEZMdzNqejJnYkJ5eElDYjVfVXJEUExYcHhTVTVCdE43SGloMmxyVDRzSXdKTjlHWHltZThHaVNBZVlDcjZRQVRNY2Y?oc=5",
+      "published": "Fri, 24 Sep 2021 07:00:00 GMT",
       "query": "\"Washington Park Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -507,9 +517,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "ISP: Washington Park homicide leads to officer-involved shooting and crash in St. Louis - KSDK",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbldEQjVxS21iUnRCQTZnVUdvOVpIRE5od3RhdDdwNUxqZ0FjdlZ4aHI4QWN3eVNScWJMSEQtNXExXzRaYi0yVVJ0TnU1czc0NHZNYkdiU3RuRWN0NGhXT1Bsa0hsaF9rblQteVhmczFjRVJEUUxmQzdWVHhzdEZMdzNqejJnYkJ5eElDYjVfVXJEUExYcHhTVTVCdE43SGloMmxyVDRzSXdKTjlHWHltZThHaVNBZVlDcjZRQVRNY2Y?oc=5",
-      "published": "Fri, 24 Sep 2021 07:00:00 GMT",
+      "title": "The apprenticeship solution - Construction & Demolition Recycling",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTE1qQ2w0M1VEekxXMUV1bTFBOGZIa0xhelV0QzVqQm9XRllVSUR4blJ6UXRmanFxTVNmWWtwUldtb0hZR014M0l1bW9JT2FodTRkcDM2RndmMVBSWkZsaXBTWjdkNWc3dFJobC1XRUM?oc=5",
+      "published": "Thu, 21 Jan 2016 08:00:00 GMT",
       "query": "\"Washington Park Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -779,7 +789,7 @@
     {
       "title": "Fire erupts at a large vacant Sauget, Illinois building - FOX 2",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR3EyVzlIRkVBV01RQjhuTng5c1FDTVROY3ktM1cyRkpPQXJidFNmejl0OG83NnhFSGpyTHp2WVRGLWFHSTBGMmxHQTVORW5zS3M2OXZEd1cxS2ZRb0d5RVNOVnRTRGcxWVZjZndmR1BLYmozaHdCdkt5SVY1YU5MbTJhVklQT28wYmoycGpUenVGeUlM?oc=5",
-      "published": "Tue, 11 Feb 2025 15:21:35 GMT",
+      "published": "Tue, 11 Feb 2025 08:00:00 GMT",
       "query": "\"Sauget Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1077,9 +1087,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Southern Illinois Roots Fuel Tyler Reddick’s Historic NASCAR Start - World Wide Technology Raceway",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzVEcUpuLXVyODlkNmRncGlWS3NKcW5wQVVGdmh0Tzd4VU95bHVYa0FleThZdElDVU83V1o2aGZERDVjc3BGWjU0UGJET2tiQ1p4akJIQ1VnTFBPMU54ZDFvdksySHhuQ3lzYzYyMktlVTZxU2EycmNaV0QxOHhQV1lVZU9JUloxTW8yZkxiYlZVTGM?oc=5",
-      "published": "Thu, 05 Mar 2026 16:30:17 GMT",
+      "title": "Future Secured, Josh Berry Takes Historic Top-10 Cup Streak to Gateway - Catchfence",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVNBSmhCdFRpeFBzZTNDc3Z2SmRRMVVKM2kyTERXY1FqeUZLem9ka0pfYVhRdEx5eXktYXJ3OGdRZ2F2MTZpYkFyT1ZFaDF6SzF0T2RKUTJFdkY0Zk1ud0daWjRFZ0JlN1pDWkh6ZUw3MlFWSjFqRlhkd0V6ZDRYTjItcFVCSFU0dW9ZWThnQjJGeWJvQkN5VFpoWXZUa0YzYUpFNjJHaS1OSFlTTnZrNkVOS1BVckJQR0Jr?oc=5",
+      "published": "Sat, 12 Sep 2026 07:00:00 GMT",
       "query": "\"Madison Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1097,9 +1107,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Future Secured, Josh Berry Takes Historic Top-10 Cup Streak to Gateway - Catchfence",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZVNBSmhCdFRpeFBzZTNDc3Z2SmRRMVVKM2kyTERXY1FqeUZLem9ka0pfYVhRdEx5eXktYXJ3OGdRZ2F2MTZpYkFyT1ZFaDF6SzF0T2RKUTJFdkY0Zk1ud0daWjRFZ0JlN1pDWkh6ZUw3MlFWSjFqRlhkd0V6ZDRYTjItcFVCSFU0dW9ZWThnQjJGeWJvQkN5VFpoWXZUa0YzYUpFNjJHaS1OSFlTTnZrNkVOS1BVckJQR0Jr?oc=5",
-      "published": "Sat, 12 Sep 2026 07:00:00 GMT",
+      "title": "NASCAR Enjoy Illinois 300 Preview: The Chase Heads to Gateway - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWk14UFJmMUlkLTBmYUdQVldjMDRYWFF1U2NiU1Y0Rm5uZ0tUQ3Rick9zVURfU0piWjljb25sbnExNmFxT2FxZ2dtZ2p0cnlpMGFwbUVoRHFuSnp4RTFpX2hYQmdVLTQwaVJkZDNUcS1zLVp1UDR4TjRWay16MGl5eElMV3FtbW8tdHc?oc=5",
+      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
       "query": "\"Madison Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1107,9 +1117,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "NASCAR Enjoy Illinois 300 Preview: The Chase Heads to Gateway - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWk14UFJmMUlkLTBmYUdQVldjMDRYWFF1U2NiU1Y0Rm5uZ0tUQ3Rick9zVURfU0piWjljb25sbnExNmFxT2FxZ2dtZ2p0cnlpMGFwbUVoRHFuSnp4RTFpX2hYQmdVLTQwaVJkZDNUcS1zLVp1UDR4TjRWay16MGl5eElMV3FtbW8tdHc?oc=5",
-      "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "title": "State troopers investigate shooting involving Madison County police officer - Belleville News-Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yd2lvTElOMzBhNGJjS3RJZUF5U0JSc0RwUGU1V1hJb1hUU3Z1NDJwd2I0dTZ1bnJlOElmQWtLTWlYZFFxZUdYdG1kZldRSEpGYmNVbE1LYkFQeW1nNDlqbTdHd1Bvb2d5MFHSAWpBVV95cUxOVFFCV2lGbW9NTy0ydkhfclJMTTMxV1RqNmZUTVBJbFEwV0RPdHpQVjlTSmhTRkFvV3Y0QVQ0aGNBVmVtaTJ2eXhPSDhJOVFIMHFFWDhkTjBBYXRkOFBTbC1XZDh0QzhSVTZB?oc=5",
+      "published": "Sat, 06 Jan 2024 08:00:00 GMT",
       "query": "\"Madison Illinois\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1267,26 +1277,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "St. Louis: 10 Claims to Fame | Food, History, Facts, & Architecture - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DNWphS0tUNFp2MFBDQzZXNEFWQTlSamJqaTg5M2kyYWRzeVo4NkZ5ci1JckNGczRaZFZEOHo3WldrSHJiZnh1Smxmbk1hSkszVjhnQTlUaXBCemRsRjJzT1VVV2hUc2RCbkE?oc=5",
-      "published": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Shooting Victim’s Body Found Near Vacant North St. Louis Home - STL.News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kd0l4RHg2b3NtdURYTW9pV3VMSzlnVE43ZWo0YjJySHFkZUs4U0lpMjVQdGU5cUZJMnZkektXUFBWMmsyQlJRdDhXZWlkUktKUFVhUUFhWVhaNXNKMGc4VjVxbm5YVzhRbXFyeFR0N1VPZlluOFRZWA?oc=5",
-      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Can St. Louis Make a Comeback? - City Journal",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVHVydUc5M2RPNEU5MHB2QmcwRVNubEpfclNmNDRHRnZiY1FjZUxFVTBxTDBFZFZuZ1o0OVJncFJsV2N2dzlMVnpHbVljd096QWlYbjlIcUJjV28zcXBCeHlJMVFqTzZFSFBVcHZDb0doV2lUUWJNOEg1NG9pNTlJYkRqMTd2Rm1NaHc?oc=5",
       "published": "Thu, 19 Mar 2026 07:00:00 GMT",
@@ -1367,9 +1357,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "St. Louis moves to seize historic Railway Exchange Building, eyes tax breaks to support $400M renovation - KSDK",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOW9SVHlxUjNlTW9oRXd3U0JVZDJjYV9WcWc3RWd5ejZteGdmdWtQODloejZiWndIY1J4Wm1QaUZuOERvM1lQQk80VnFXNjVYME14U1FNdHdwUlBwTmpPSUdIQTdrbm1hd042NGRkam16X3BxMm1oeU42djhjS2tkV19raDBsMXNnZkRRazVKMTNYaUZxSlV4VjVWT2wwRmRmVHpMaVJfd3QxSDdFUUQ2TllzR3hRallISnE1clNjUkFOaVl4Y25faW9vempUQ09rWC1fZ2lycjBrN3dnZTZScWFYQ296Ungzb0E?oc=5",
-      "published": "Tue, 31 Dec 2024 08:00:00 GMT",
+      "title": "Seven spots no longer serving as St. Louis-area malls - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa0Z3V0U4dFFjUDdaYzNzbXhvY0hpVEU3QXdCYzc4Z2NrTW1UaE9HZ0FXSVI5bW5OWEZFVzBEc0NlYWphSTdzT3NqWEdhN3pSYkxScEh5Q2lBVWdNXzBIRTVhb1JLeEtCUEl0bUFrLWttRlpUZTZ0azl5clNvRTBSNnlqV1ZtXzVaSGVaNGdvaGHSAZYBQVVfeXFMUG9SamcwUDhtNTJjZ2FCSm95Tk5MRk81S0l1NVVJLXRndHRKWWtHbzNPYUwzeU15d2RfLXBwN205c3hyT3otc2Mtc3Z5WHhHaE1iM2lyY1lpb0h6MGx4c2dQMlhwOFFIV0dYdUxCc0QtckpiMFlfVkFJV3FoWmwzT1FIVXVZMVJuVEp6cGJoc0I3bzY0dFRR?oc=5",
+      "published": "Sat, 26 Aug 2023 07:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1380,6 +1370,16 @@
       "title": "How St. Louis’ streetcars of yore shaped our present-day city - Ladue News",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUEFmeGhVT0ozRWZ5NG1GUmZ6SFZBYTNjaHNaRjdxZDA3UndUNk92cFlSd0llN1NrbUY3aE5WcXlXd0NYNVliaFlNX3pjVUtzNE1WUjRaczVpSjRnNU1BUzd4ZVFBSENZdTVfN2ZVNjR3bmYwUG5CTV9PdE43eEVtMFA2TjZCeVpMMDE5cEZFVWtocm1xZFhXZk5ZZkhDNDZZM3ZEZnk0NXNsU0VnTjAtN1JPc2tCTjR4WEhpdHNCMTVvRzEzaVRaM1RRa3RNZkVWRTFiT2luMjBzSHZoZDFUQ1Ryaw?oc=5",
       "published": "Tue, 24 Dec 2024 08:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "St. Louis moves to seize historic Railway Exchange Building, eyes tax breaks to support $400M renovation - KSDK",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOW9SVHlxUjNlTW9oRXd3U0JVZDJjYV9WcWc3RWd5ejZteGdmdWtQODloejZiWndIY1J4Wm1QaUZuOERvM1lQQk80VnFXNjVYME14U1FNdHdwUlBwTmpPSUdIQTdrbm1hd042NGRkam16X3BxMm1oeU42djhjS2tkV19raDBsMXNnZkRRazVKMTNYaUZxSlV4VjVWT2wwRmRmVHpMaVJfd3QxSDdFUUQ2TllzR3hRallISnE1clNjUkFOaVl4Y25faW9vempUQ09rWC1fZ2lycjBrN3dnZTZScWFYQ296Ungzb0E?oc=5",
+      "published": "Tue, 31 Dec 2024 08:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1407,16 +1407,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "A-B Brewery named Missouri’s most historic landmark by Reader’s Digest - FOX 2",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOC1uY2xhOW5OaEVNUGJqTkNfSHFTM1NCQTY5LThiUTJsWFBNSGt6Z1ZqUUNlR1pFZFhzZk5Ha0Nya0FaUmM3VHI0clJLWk5DTzBjUDRaOUVXc2x2M1A0anV0aTI1cEV4dGRIcVZKX05uSm5aRjF1eUJfcGxoclh0M0U1RHR4Q2tjNm5Id0JiMF9hbGZ4VURrWm9FZTVleFI0UTFLQXd30gGrAUFVX3lxTE8wa19kSnp3SVpycnVmZW5yZDBNekFTLUVUTGY0ZzdBVEp6dlNnWjY4TGFSalFmUUc5OEE4akE4Zzh2MXJHQnRaM0R0RnlUVG9SS0NBbUNha1Y2eHNtbmJ2SXkzNkI5cTl0QnA3Unp2R0ZNQUNMR3VaYk4tUVAzYnZzYTlVTXEzRmlQTllhRHBUZ09pTVdzZXpFTjNnN3NBNGJheUIyMlpkVElxNA?oc=5",
-      "published": "Thu, 17 Jul 2025 07:00:00 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Gateway Plating Superfund Site, St. Louis, Missouri – Fact Sheet, October 2022 - U.S. Environmental Protection Agency (.gov)",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSXhtVWJUR19GUVdpamlQYUd6cGpmbUZ3eHhyNE96a1p3Ukl2aUVtZVVSS29iRHlObzgwdlFwdDloaEdONDdyX0FOTXFWVUlQTFVxb2EyVWlYMnlCTWF5Y09vN21tcmNFbGV0NlEzSzRmWTE2eEhEX0pFMkh2TFlYOWFzVEhDZ1FldEZkckd1Uk84NUFadEpjOFJrQQ?oc=5",
       "published": "Tue, 18 Oct 2022 11:32:19 GMT",
@@ -1430,6 +1420,16 @@
       "title": "Exploring St. Louis - National Park Service (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlUHlheGJYZnh2bmhxYXViSGRWNU13UGpsSUdzdDlvbzMzZm1ZZTlJREFNcndIalV5ODdKbTdFS05ZcHBRWlpwTlVjbjFhRjhVMWdnT2VxWXNwekdQUGdydVRpQkRHS3ROcWNqRE9DVkxpQlQtamlwMnd3?oc=5",
       "published": "Sun, 06 Jun 2021 07:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "A-B Brewery named Missouri’s most historic landmark by Reader’s Digest - FOX 2",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOC1uY2xhOW5OaEVNUGJqTkNfSHFTM1NCQTY5LThiUTJsWFBNSGt6Z1ZqUUNlR1pFZFhzZk5Ha0Nya0FaUmM3VHI0clJLWk5DTzBjUDRaOUVXc2x2M1A0anV0aTI1cEV4dGRIcVZKX05uSm5aRjF1eUJfcGxoclh0M0U1RHR4Q2tjNm5Id0JiMF9hbGZ4VURrWm9FZTVleFI0UTFLQXd30gGrAUFVX3lxTE8wa19kSnp3SVpycnVmZW5yZDBNekFTLUVUTGY0ZzdBVEp6dlNnWjY4TGFSalFmUUc5OEE4akE4Zzh2MXJHQnRaM0R0RnlUVG9SS0NBbUNha1Y2eHNtbmJ2SXkzNkI5cTl0QnA3Unp2R0ZNQUNMR3VaYk4tUVAzYnZzYTlVTXEzRmlQTllhRHBUZ09pTVdzZXpFTjNnN3NBNGJheUIyMlpkVElxNA?oc=5",
+      "published": "Thu, 17 Jul 2025 07:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1457,17 +1457,7 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "St. Louis flooding: 1 dead as historic rainfall triggers flood emergency - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXliYTVBTGNxLTFFbFNzRWRidllGNEU2NC0zd01YR3ZxdnJmZmkzSWZCdkZVQjRyTlZXUnFhclQ2djU4cUJadUFsUUszYm9uZm1aNUlpME44TU5tWUM1cEdNdGR2OS0tQzFUenhiOHpzSEdrQm9seHFNcGdzbXkxWFd5TnF0aDVmclM1dGw2Tm1uTjgwUDkzc2M2X0RyamsyWENsMm1LZWtfYW40aWYwWEln0gG3AUFVX3lxTE9aam9MelJLSE0yVXlxREUyWFdaVjRsRzZZVm1tUTdyeElYRUtkY3haMmpuRXpSV1BBSF9ER3ZWQW92cWRad3FMaHpyNE4zMDhQZzQ2ejc4Vndld3JkUnpsT1pvSmI4bF93T2VKcnhkZ2MwWUxtNmFKQXhpcXpueVZHYTRQZ09zakhjUDJFX05XcnlGOGlfc3Z2LTVDUHdtWTVYNFZiMHowYlF5N0FUWlIweTdmWEZVNA?oc=5",
-      "published": "Tue, 26 Jul 2022 07:00:00 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "The Historic Visit by the Sixth Rebbe of Chabad to St. Louis - Chabad",
+      "title": "The Historic Visit by the Sixth Rebbe of Chabad to St. Louis - Chabad.org",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZk56cy1falV5amlJanE1T0M2TFZ5Y2ZvNWI5UlNYYUZHdGRkQWltTmJnVTZNTHVsNUVlYjV2NzFuQ0tnbzdsT29Gc1BDLWJqb3NlYmhvX01FOGh3ZzNFLVR6clVsRFljaW1jRWFIeml6dnRJcnNnOVlFYi1MUkZVX05KcFhQSk9SUUdERHVFeGNZM0M0VnhuWnk4dVpIcnJPZ2tlZVE2S0dNVXFEWXpNd1VfWkxaNVpWd1NDZkwtRV9LYVE?oc=5",
       "published": "Tue, 04 Jul 2017 16:31:11 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
@@ -1497,9 +1487,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "7 Cutest Small Towns in Missouri - WorldAtlas",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uczh4akZRaExkNzZudWV4VjJsaE5nTkNNaE5YRHhYS3BRekN2YndCT0NBcmVUMG5LNHNITjdKSk9SWEcwSl9oSHV3dEgtdFhnZ093c3BGSWg4d296bmFaWTdmUm9NZUkydVA4ZjdyVTJ4Q0txeVJvV0lPZw?oc=5",
-      "published": "Fri, 07 Apr 2023 07:00:00 GMT",
+      "title": "St. Louis: 10 Claims to Fame | Food, History, Facts, & Architecture - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DNWphS0tUNFp2MFBDQzZXNEFWQTlSamJqaTg5M2kyYWRzeVo4NkZ5ci1JckNGczRaZFZEOHo3WldrSHJiZnh1Smxmbk1hSkszVjhnQTlUaXBCemRsRjJzT1VVV2hUc2RCbkE?oc=5",
+      "published": "Wed, 15 Apr 2020 16:48:45 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1517,39 +1507,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "7 Cutest Small Towns in Missouri - WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uczh4akZRaExkNzZudWV4VjJsaE5nTkNNaE5YRHhYS3BRekN2YndCT0NBcmVUMG5LNHNITjdKSk9SWEcwSl9oSHV3dEgtdFhnZ093c3BGSWg4d296bmFaWTdmUm9NZUkydVA4ZjdyVTJ4Q0txeVJvV0lPZw?oc=5",
+      "published": "Fri, 07 Apr 2023 07:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Cahokia Mounds State Historic Site: World Heritage Site - National Park Service (.gov)",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1hkbW9mdXlBdHcwTzA4QnlPODJtQmpTZWdnVXRRNmNKaXQ1WFFfbGFRMjlRU3F1dk93ZDZQUTBYbF92bGRHcy1ZaVYzRU9Sd2RZdU1sNVo2OTFyYVdXY28yZEtwUHlzQlFBYWRuUVZfeHRWdG1qbGdSTGRuS3IxQVVmV184Q2htSGVnVVBXQk1zekxyT2c?oc=5",
       "published": "Thu, 23 Jul 2020 07:00:00 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "One Missourian’s historic recognition of Israel carries long-reaching business opportunities - CTech",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMndUY3Etb2kzUGdFeDI5TjJOeVlhTUJDSkNNd0loTmNReEdic0JmYTFuZ2FLd2d1YzVPT1R3QlBZSzVDTVd2VmhwZWZQQ2s0TllzVENjb2FSQW40cndBcDlncDc1ZUE?oc=5",
-      "published": "Sun, 24 Sep 2023 07:00:00 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "I-70 St. Louis — #thisisCNU - www.cnu.org",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXV2dPUS1IaDdTZEpnbllHOGI0STBtMkEzQ2NON1V2SU5mZllzRWNNU1RsbElRTXd3RVVJN3dVREVTci1tUEVSekZybjJOSVFWLW9HNFh0dnNSYlZEUGdwTFBHSS0xWURpbHpnMjBvWTQ?oc=5",
-      "published": "Wed, 25 Jul 2018 05:54:10 GMT",
-      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Cotton Belt Freight Depot in St. Louis - Atlas Obscura",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbEVnMHJ6ei14WWFNUWc3UE1qT05xNXYwNW83VXlsN2dibDhLc0Vfa3lYS2xfb21zSDVnWmhELVh2M21hc2ZfbEtrd0xUZkpwMjVlazF3cjRuT1Q1YjBPUVphUTVueTQ4Z2pfUmh3?oc=5",
-      "published": "Mon, 04 May 2015 07:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1567,9 +1537,39 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "One Missourian’s historic recognition of Israel carries long-reaching business opportunities - CTech",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wMndUY3Etb2kzUGdFeDI5TjJOeVlhTUJDSkNNd0loTmNReEdic0JmYTFuZ2FLd2d1YzVPT1R3QlBZSzVDTVd2VmhwZWZQQ2s0TllzVENjb2FSQW40cndBcDlncDc1ZUE?oc=5",
+      "published": "Sun, 24 Sep 2023 07:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Cotton Belt Freight Depot in St. Louis - Atlas Obscura",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WbEVnMHJ6ei14WWFNUWc3UE1qT05xNXYwNW83VXlsN2dibDhLc0Vfa3lYS2xfb21zSDVnWmhELVh2M21hc2ZfbEtrd0xUZkpwMjVlazF3cjRuT1Q1YjBPUVphUTVueTQ4Z2pfUmh3?oc=5",
+      "published": "Mon, 04 May 2015 07:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Stay on the Sleeper Car at These Historic Train Stations-Turned-Hotels - National Trust for Historic Preservation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHg4bDRBN1pKQ1lOWTJlbTBkdEpsWEVfQklqZ25Fd21WZDdRakFXU0xJQzRCN1VwaFpTa1E2MklfZ1hyOTdHVjB0YWMzR1gwUUJpSnBJSHAweUNaT1pVSU5ZZ3h4XzBRSEhhOXMtNGwyeUlwcDA0aEx0REFYSDhZR3NiUGJMWWNsV1VKR1RaYmo3ODA3R2R5U3JRVUFZR3VBVmFFQnV3?oc=5",
       "published": "Fri, 30 Mar 2018 07:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "40 Cool and Unusual Things to Do in St. Louis - Atlas Obscura",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tcmFnRnNLY1FQWFNWeWlLQ1RkMW84VUZxS1BsM1Y1dnVQbHIyTVczS0R6UnJKYlBwMFpjQjhFTUVIcVF4WS1jNlNvTkt2UlRXandnVHFCQXE0WWl1c0NNLVV2N3MwanU5cDNn?oc=5",
+      "published": "Thu, 19 May 2016 13:23:42 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1597,9 +1597,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "40 Cool and Unusual Things to Do in St. Louis - Atlas Obscura",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tcmFnRnNLY1FQWFNWeWlLQ1RkMW84VUZxS1BsM1Y1dnVQbHIyTVczS0R6UnJKYlBwMFpjQjhFTUVIcVF4WS1jNlNvTkt2UlRXandnVHFCQXE0WWl1c0NNLVV2N3MwanU5cDNn?oc=5",
-      "published": "Thu, 19 May 2016 13:23:42 GMT",
+      "title": "10 Insider Tips for Your Trip to the Gateway City - National Geographic",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWxxQW1RaWVUSC1rclA2a1Jacmd1U0JWT2RIRjB1UXp6UlkzMU1Ta2IzdXNVb3FhNTYzaTFTVTNmaXQ0TmJ5bC1rd2tGbEIzbEV6cHJOY2N2ZlA5WGVpaTY1eEgzVVI5NFZlQzB6VTNwN05wSG5Wd2h2cEJJX3NJT2RwM29kMzFT?oc=5",
+      "published": "Sun, 01 Jul 2018 07:00:00 GMT",
+      "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Inside an Abandoned Missouri Nursing Home Frozen in Time - 101theeagle.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wQ1NOc2JsZTBCZFhRc0ZRUHZYaklKeGFiMmxHYk45ZG9pa0hQbkJkclBxZlZzY2hsbEpTNkdyMHFRZzM3cEdIekpfZ05tcWRmRzQ2UmNpYTNRMEJ6a1lleV9OeVhadVk?oc=5",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1611,16 +1621,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQm5FQjU5bHB3RU1NUzBJaFp5UHBDRGxvVmdhNTNfNy1XQnRoQmNMREdQTzRCTGZKR2NlSWwxNWM2bmZZMHVwTjZDajRsVGM1Rnk3SjRId2w4MEg2NDZyTXk2c1dnU2EtQ2hyaU1VTmRoODVIdG14S3BWeVJqTExWWTJCZ0NacXM?oc=5",
       "published": "Thu, 19 Dec 2024 08:00:00 GMT",
       "query": "\"St. Louis Missouri\" (abandoned OR vacant OR demolition OR historic)",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Has anyone done much St. Louis Urban exploration? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzNUWVllTWhvWkt5MnJFaF9udXF0cWdXb1M5TnBxb0RLczl5YTMtSVVwNDlqUUh0MnBaaHpHNjh4Sm8wZko3WmhzdmU0RFdSOW5ZSjJ5TzljT2dpRjJYSjRRUWM1ZzAwQ0o3RERON3JLOE5rNnVWcmZhdml6UjJ3RVZ5ck95c3RDMEFjWVRBNFpXMnh1SGRFcVdwVWM?oc=5",
-      "published": "Sun, 18 Mar 2012 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -1697,6 +1697,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Has anyone done much St. Louis Urban exploration? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYzNUWVllTWhvWkt5MnJFaF9udXF0cWdXb1M5TnBxb0RLczl5YTMtSVVwNDlqUUh0MnBaaHpHNjh4Sm8wZko3WmhzdmU0RFdSOW5ZSjJ5TzljT2dpRjJYSjRRUWM1ZzAwQ0o3RERON3JLOE5rNnVWcmZhdml6UjJ3RVZ5ck95c3RDMEFjWVRBNFpXMnh1SGRFcVdwVWM?oc=5",
+      "published": "Sun, 18 Mar 2012 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Aerial photograph of downtown East St. Louis in the 1950s - Reddit",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDE2WFRtNXE5R2h6cDVGckhjcjNrS0RIQkh4Y20wS0hJb3dJeG5kbFJPQlZDaHZtYnVna25MRk5ENHBPdG1lT2JibHpNd0JvdDlCVFNkOHF2d3ZsdXhFTGM1cnk4dHp1TnZFaUczSVBfV3ZRRU9lSmhtbTNKWEZoZlc3dWdZZGNyV0FGYzRQQU1IVExtYnFjSlVHRGlWQQ?oc=5",
       "published": "Mon, 08 Dec 2025 08:00:00 GMT",
@@ -1747,9 +1757,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "What’s the coolest old undisturbed place in the St. Louis area that most people have never seen or been to? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTEzdzk3U2VTOEVrYlhXb2h6UHRNS19LWTIyZDctVi1hTkNRNnUxRWtMeURGcmVHODBZNXV5MHJ2d2hwVW4xYTJlNkJfSlhtcVBKVUFQWWVzOVZQMHpsVWRIeFVDMUNDUlQ3c3BOcnpPRGhsR255QlZqd0l1QWJza2pSaF9SOXpvUGlULU4zR1VlaU85NzRCb05KUUdCUXJSU1E?oc=5",
-      "published": "Tue, 10 Oct 2023 07:00:00 GMT",
+      "title": "In your honest, educated opinion, what happened to East St. Louis and what can be done to fix it? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEh0emp5dlhuNzYxTFZneFlCaWpaOUM0TjUwTl9lWWdQbDFGU2o0NGlOSjVvc2U3UHpXMjdDYVZqVlozT1ZlUFVkTWt1d3BLcDRmYWluc3p4c2Y4RzFtcjIxODRYeTcxMmo4dDdVRVg2dmVKd2txaUQ2eGF0LWlNUDZ5dVVEVXlrOG1oYjJ6WGlNOHVDcVpwalotWEVGb1Et?oc=5",
+      "published": "Sun, 16 Nov 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1767,9 +1777,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "In your honest, educated opinion, what happened to East St. Louis and what can be done to fix it? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEh0emp5dlhuNzYxTFZneFlCaWpaOUM0TjUwTl9lWWdQbDFGU2o0NGlOSjVvc2U3UHpXMjdDYVZqVlozT1ZlUFVkTWt1d3BLcDRmYWluc3p4c2Y4RzFtcjIxODRYeTcxMmo4dDdVRVg2dmVKd2txaUQ2eGF0LWlNUDZ5dVVEVXlrOG1oYjJ6WGlNOHVDcVpwalotWEVGb1Et?oc=5",
-      "published": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "title": "Why Does East St. Louis Get Such a Bad Reputation? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWV4WGoxM0dFS2g2cHp5TTM2enBKSDBnV0o5NGFfQnNUQVhtWmRzSEtRa0tGZ1BIREZHdFBDRVR5am9wZndkVG85TkszbHZWNGpDdHZwQXk4QlRBMlZyaDZPcDRXbDRNQWpGbF9PWlRTdTJPMzNMSHJBd3lMTkFGMUFpeVZMSS1iWGhfTFNNNy16UFAzV1NnTThwQUd4dXRi?oc=5",
+      "published": "Fri, 12 Jan 2024 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1797,10 +1807,10 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Why Does East St. Louis Get Such a Bad Reputation? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWV4WGoxM0dFS2g2cHp5TTM2enBKSDBnV0o5NGFfQnNUQVhtWmRzSEtRa0tGZ1BIREZHdFBDRVR5am9wZndkVG85TkszbHZWNGpDdHZwQXk4QlRBMlZyaDZPcDRXbDRNQWpGbF9PWlRTdTJPMzNMSHJBd3lMTkFGMUFpeVZMSS1iWGhfTFNNNy16UFAzV1NnTThwQUd4dXRi?oc=5",
-      "published": "Fri, 12 Jan 2024 08:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
+      "title": "What’s the coolest old undisturbed place in the St. Louis area that most people have never seen or been to? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTEzdzk3U2VTOEVrYlhXb2h6UHRNS19LWTIyZDctVi1hTkNRNnUxRWtMeURGcmVHODBZNXV5MHJ2d2hwVW4xYTJlNkJfSlhtcVBKVUFQWWVzOVZQMHpsVWRIeFVDMUNDUlQ3c3BOcnpPRGhsR255QlZqd0l1QWJza2pSaF9SOXpvUGlULU4zR1VlaU85NzRCb05KUUdCUXJSU1E?oc=5",
+      "published": "Tue, 10 Oct 2023 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -1811,26 +1821,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOXkwb1VMWm5aNmVjTEdiNzRscWlwX1dWZWRaZ3pibEhMOEFwME9VQ3d6V0RlcmRVS3ZtUEtUajBwaVdwZjlNLUI4YjhNX3VlVExXVjlONlRBYktxTFhRLTZIdGxoMHVONDEwQkdUcDhXaExyQWM1Z2toMDhXRjhSWmtwR0J5TWNhODdCdXdqWmVjdXlDZkFLWWVXdmhnRjZEQkE?oc=5",
       "published": "Sun, 22 Jun 2025 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Carrollton Subdivision was a 2,000 home subdivision in St. Louis destroyed and abandoned for an airport expansion. All that remains are empty & unused streets - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEtncDU3dnNIMEk4dnVqblR1X1lxOTB2aFhpSVp4OEZqVExxZXZFcFpJLWZpZHEwaEJZWE5yT1FnbkVMUEdZSzJ6UnlwUmZKUjlFOXc1cFpqbFlwNW92SVA0S0tlOUFxcDF1S1ByYTFDUGpJQ3MteDZqMFpuSjZJVXN1MjZ3OVRoYWJSLXR3di10R0E?oc=5",
-      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Can someone explain the north side of St. Louis? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTN0OGlWNnZMaEZobUEzZFJRY3NsYkR0aC0xcDFWYmxuU1ZaNUx5QUVSck84Ry14eER0d0N1RUoyYnU3cDh4XzBFYXhUa0d6bEhuZWRNaU4wS2lpTmN3cTY3LV9udWdBY1BQdTNnTXU0YkJQMFpHMXYwT0tIRmVnMHVIZVNCMUF1aFBVck9XNk5ibW1mMVAyaktoTjhFQQ?oc=5",
-      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -1857,9 +1847,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "St Louis Abandoned Malls! - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NzR0QzJHVHFjTklFNzFNY3ZsWHg0dHBQQjhFZy0yOU4tY3pTcVNwMmRsem9hcUVkVThfZERkdHc3aW9yRjhtazFjQWsyNHdrajZuNUpMVlkxUjRvSDZHeFpseFhkRVI2b3RwVGlvOGtORGd4Umwwby05OHMtakk?oc=5",
-      "published": "Fri, 19 Mar 2021 07:00:00 GMT",
+      "title": "Carrollton Subdivision was a 2,000 home subdivision in St. Louis destroyed and abandoned for an airport expansion. All that remains are empty & unused streets - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTEtncDU3dnNIMEk4dnVqblR1X1lxOTB2aFhpSVp4OEZqVExxZXZFcFpJLWZpZHEwaEJZWE5yT1FnbkVMUEdZSzJ6UnlwUmZKUjlFOXc1cFpqbFlwNW92SVA0S0tlOUFxcDF1S1ByYTFDUGpJQ3MteDZqMFpuSjZJVXN1MjZ3OVRoYWJSLXR3di10R0E?oc=5",
+      "published": "Fri, 20 Feb 2026 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1867,10 +1857,10 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Why is there such a cultural stigma associated with the Metro East in general?? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEdyOEZ2V0E3VkRGbmdzTV9Pc3RXMmp6VVd0Ty0xcEh6R1QwZlZTN0F3YlFNd2NKQUFFYWkzcnV2VE83TkVBLXV2UWhNR3g2TFJxRm5aWFE4TVRPWDBzNDZoaVAtdEl4UEFWRFRidUU0c2stVU1qZXNzYXdqV0N4Y0FkRTM0LVNQREtNU21zRWFHOG5QMWlyOXpvMDQ?oc=5",
-      "published": "Sun, 22 May 2022 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
+      "title": "St Louis Abandoned Malls! - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50NzR0QzJHVHFjTklFNzFNY3ZsWHg0dHBQQjhFZy0yOU4tY3pTcVNwMmRsem9hcUVkVThfZERkdHc3aW9yRjhtazFjQWsyNHdrajZuNUpMVlkxUjRvSDZHeFpseFhkRVI2b3RwVGlvOGtORGd4Umwwby05OHMtakk?oc=5",
+      "published": "Fri, 19 Mar 2021 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -1887,9 +1877,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Cleveland High School was built in 1915 and closed in 2006. The incredibly detailed building has been abandoned for over a decade and is listed for $2.3M. - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUs3REdPT2pfdHNyTDBhMFlQNTVHSng0akx1OW16bEI3cV9laWxjbTFxRWxCRTRHQzBGNFU0OXFRTUQxUWdudTR5RmdIVk9ncmNyc0JXOUdGQnpYZmRFRnVfTTlDNlVkcFN5WEI4T0IyMEx2MENya3FiX2ZCZ1N6Q3NYMHB6NDFzd2lEXy1RX3UtdlMwQU9zUg?oc=5",
-      "published": "Sun, 30 Jan 2022 08:00:00 GMT",
+      "title": "Why is there such a cultural stigma associated with the Metro East in general?? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEdyOEZ2V0E3VkRGbmdzTV9Pc3RXMmp6VVd0Ty0xcEh6R1QwZlZTN0F3YlFNd2NKQUFFYWkzcnV2VE83TkVBLXV2UWhNR3g2TFJxRm5aWFE4TVRPWDBzNDZoaVAtdEl4UEFWRFRidUU0c2stVU1qZXNzYXdqV0N4Y0FkRTM0LVNQREtNU21zRWFHOG5QMWlyOXpvMDQ?oc=5",
+      "published": "Sun, 22 May 2022 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1907,16 +1897,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "What are some sketchy places/people/things to avoid in St. Louis? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDQ5Q2Q2TWlXV0d2TEl4VmotVzY2OFBkN3VMbkcwRGl3TDFSclVfSWRDR2xVbUFpYi1jRW0xYnY5RW9Pei1lcEprQlpTMThNajhsWHhxbTB0b0taNzVWeFE3cVdsZTZmSWdTaHBfSFZYbFc2V3E1Y1NBSzgxQ0pjdWZXd0VJN1EyYlhXb29WdGFrbmZrREd3emZrX1Bmc0RqM0E?oc=5",
-      "published": "Mon, 08 Jul 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "When did North St. Louis get it’s bad reputation? - Reddit",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTGViZmx4cENKN3FTN1pwZ2xuLVU1bTVhUHE5WkVDbXdXdjNLdk1JMkNWM3hOMjBJcXJCWWd6T0h3bjhpNXNkdFk0NWZIV3JmeG96VmxManc5UFVtSWh6a0pvZk01TDlkSjBzdFZ3ZEE4RUdBTE1SbXFGc3pqVDR1QlJBbDFVMU9GWnVQWldhOHhUUWtUT2FLTXFBM2d3dw?oc=5",
       "published": "Tue, 28 Oct 2025 07:00:00 GMT",
@@ -1927,9 +1907,39 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "What are some sketchy places/people/things to avoid in St. Louis? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDQ5Q2Q2TWlXV0d2TEl4VmotVzY2OFBkN3VMbkcwRGl3TDFSclVfSWRDR2xVbUFpYi1jRW0xYnY5RW9Pei1lcEprQlpTMThNajhsWHhxbTB0b0taNzVWeFE3cVdsZTZmSWdTaHBfSFZYbFc2V3E1Y1NBSzgxQ0pjdWZXd0VJN1EyYlhXb29WdGFrbmZrREd3emZrX1Bmc0RqM0E?oc=5",
+      "published": "Mon, 08 Jul 2024 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Cleveland High School was built in 1915 and closed in 2006. The incredibly detailed building has been abandoned for over a decade and is listed for $2.3M. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUUs3REdPT2pfdHNyTDBhMFlQNTVHSng0akx1OW16bEI3cV9laWxjbTFxRWxCRTRHQzBGNFU0OXFRTUQxUWdudTR5RmdIVk9ncmNyc0JXOUdGQnpYZmRFRnVfTTlDNlVkcFN5WEI4T0IyMEx2MENya3FiX2ZCZ1N6Q3NYMHB6NDFzd2lEXy1RX3UtdlMwQU9zUg?oc=5",
+      "published": "Sun, 30 Jan 2022 08:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Nelly Abandoned Mansion in Missouri Has Sold. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVQtcUJCVXFFN3Vtb2tPalRnUjZVTW5tQnhnYml5SXJvR2xrSC1sZjNRV1c2UHhuUzEtTGgtN1RLcVpXMWRCR2ZYMFlJUzVtX0pMdERzQTh3alNySXFPY3pVTGljSU5YTGNDN0VRY1U3VlBPdTg5SEdfdEVKRU1ybFBsaUtWRENOdXdRS1dCT1c0b0JMQ0sxYzF3?oc=5",
       "published": "Thu, 09 Jun 2022 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "St louis Urban Legends: Seafood City - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDBxQThuMVVxOGx6OFB3N2p1NGhiMnNFbXB2SzRuVktZMTZlVTNIMTV0VUc5dUhnYkZQcXpPbktqaXF2Nnh3X29CaXJJQmZPekxKeVdNRTN2VzUyQnNKd1kyRE1YZWs1WExQdE1iVHVEd3dUWlZEQXNMSXc3Z29zY00zUDlPYlhYeW1XRHJpWQ?oc=5",
+      "published": "Tue, 24 Jun 2025 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -1957,20 +1967,20 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Some photos from North St. Louis (O’Fallon and College Hill) and East St. Louis 05/30/2026 - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3dTam9nandHbnpSQmVwTUNIak5OVVhYbEwyc21rUmsyMXdnOHJ4aUhJOHZCci1QYjRUMENtUVZPMTFzbUFBQzg5Wmc1QXh3VHZTN3Njc2VCdlNDZE9zQm5ySFRhYXVBMkhqNER1SFRiRE1PZl9tdFl6T1hrX3dtYWVsVXo0QUdwaTdoZFVseHB2NXVnamR2SzhR?oc=5",
-      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
+      "title": "What are some of the hidden gems of St. Louis? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdndWVHRRR2g0N0wzWkdCODJ3eDFlX1hQLWNKWWQxbFdnaHpjQm5CUmg4WDhZeGdrcG45VmhGWm81YlVzQlpRTDVta2htWS1tYW1odmE0QTNBa0NWMUVsWmMyc05mMnB2QWtTQTZmRHBadXNQSUpGX01QSm5Va3NEMTJ1TXBCYmRZMnhlYnI3M0RMWERsT3dqVk13?oc=5",
+      "published": "Wed, 21 Dec 2022 08:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "What are some of the hidden gems of St. Louis? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdndWVHRRR2g0N0wzWkdCODJ3eDFlX1hQLWNKWWQxbFdnaHpjQm5CUmg4WDhZeGdrcG45VmhGWm81YlVzQlpRTDVta2htWS1tYW1odmE0QTNBa0NWMUVsWmMyc05mMnB2QWtTQTZmRHBadXNQSUpGX01QSm5Va3NEMTJ1TXBCYmRZMnhlYnI3M0RMWERsT3dqVk13?oc=5",
-      "published": "Wed, 21 Dec 2022 08:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "title": "Some photos from North St. Louis (O’Fallon and College Hill) and East St. Louis 05/30/2026 - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3dTam9nandHbnpSQmVwTUNIak5OVVhYbEwyc21rUmsyMXdnOHJ4aUhJOHZCci1QYjRUMENtUVZPMTFzbUFBQzg5Wmc1QXh3VHZTN3Njc2VCdlNDZE9zQm5ySFRhYXVBMkhqNER1SFRiRE1PZl9tdFl6T1hrX3dtYWVsVXo0QUdwaTdoZFVseHB2NXVnamR2SzhR?oc=5",
+      "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -1987,9 +1997,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "What are favorite most missed clubs/venues? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjlFWDVUbmJoTnlFZElMbWFDSjBRc0NLZ1dpZmNMRXdvbHNtajlfOGxhMFVrdkc0TGk2VkJnOExVN3E3UFpnUW9YM3BCc3Jqb1RLYnhWTHpjSGdqOEtCRmlNamZzVVhtcS1pc2xYbHBNZ1hlc1oteTluaHg3ZnlWZ0szXzZxaUlkTS03OGpRUW51a1lhdHZv?oc=5",
-      "published": "Sat, 03 Feb 2024 08:00:00 GMT",
+      "title": "Cahokia Heights - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqazVlSkdkdGxZTnZoT25RdUdCVXA1WHJocTU4OXFsRU9LTm1NVWwxTG93UHNBcG1YQlB5SDVpcFBqSGNsZVdXSUdCZm1ndkJIMHR6amxoNjBqRUxoSGhlV29INnBMN1ZxQTN0LUxCQ1QydXVZ?oc=5",
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2000,16 +2010,6 @@
       "title": "Built St. Louis - Historic St. Louis Architecture - Historic Preservation, Demolition, Restoration and Abandonment of Old Buildings in Saint Louis, Missouri - Reddit",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaWtmWWhhazlsOHhZc1BqUkZlWk4tWDdyeU03VGp3TjBoRHNvYncydVhWY3pMamFlekFRQkR1T1JJLUJBT0RiR3JPNnE3eWNJU2pKWl9qcVR2Y1daRnJwTmxnX3JSUl90OXh2bTFQQ0hsTy1jMnFYeDhYak5KUmEzVElNOENkYS1WU2VMYkJoTDdEM0EtWmU2UFM2LVQ?oc=5",
       "published": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Cahokia Heights - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqazVlSkdkdGxZTnZoT25RdUdCVXA1WHJocTU4OXFsRU9LTm1NVWwxTG93UHNBcG1YQlB5SDVpcFBqSGNsZVdXSUdCZm1ndkJIMHR6amxoNjBqRUxoSGhlV29INnBMN1ZxQTN0LUxCQ1QydXVZ?oc=5",
-      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2047,9 +2047,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Inactive high school in st.louis city. - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWNwTW1fVXJzYnplQXZFRHRzay0yal8tclZQaHpWak42Z3dXaVZmWG95dlpkZlkzUm5WLW9lUjZQUk1uTG10YWtlLVByVnRKUk04bC1GZi1FZXZEcDViajVuN0hJTlUtRE8wQ28wY1ZmWXNXdVgzazlHVHhrcXJuSzViTFRLVGV4cGw5R2UzY18?oc=5",
-      "published": "Sun, 28 Apr 2024 07:00:00 GMT",
+      "title": "St. Louis’ Abandoned Radioactive Apartments Poisoned by Coldwater Creek - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREpHY2FUdnNRbVd2YUdYcVk3Sm1rbDctQk1lY1M3RS1OYnRmOXR6aExQTXViSDNiVjZSemVQVHJoMHh1YTNjYVZhbmlfNTgyM0g3TzFiS2RkcXZUNmR6ZW4xbDU0RmFEbHl6T3dQOUtaUUVueE5DTFlXM3gydXhhU0MtY0NXV3FqMk1aVVBBWVhFNEtZYUxv?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2057,9 +2057,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Panelized home construction could yield new affordable housing in St. Louis quickly - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLS1tcnJMdTYxWWJRdHVTQ3BYMDdiRDlzc2UxRFpCV3BiSjlTWXM5Unc0bDh0YW1IcjRBTThzQk55QXJvUVEyeFJNWkFsTkszV3BnM1N4T3pGRTh2ZGZYQnRwSDZjTmhmSTlHdFByYmFFNVNuTEtkTUc1OE42WkQ3YnYyaTJ0WEJpNm1nVEZkLS04QmVzTmJUVmdR?oc=5",
-      "published": "Mon, 02 Nov 2026 15:50:19 GMT",
+      "title": "Inactive high school in st.louis city. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWNwTW1fVXJzYnplQXZFRHRzay0yal8tclZQaHpWak42Z3dXaVZmWG95dlpkZlkzUm5WLW9lUjZQUk1uTG10YWtlLVByVnRKUk04bC1GZi1FZXZEcDViajVuN0hJTlUtRE8wQ28wY1ZmWXNXdVgzazlHVHhrcXJuSzViTFRLVGV4cGw5R2UzY18?oc=5",
+      "published": "Sun, 28 Apr 2024 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2087,9 +2087,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "North St. Louis - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OWk1jZThzRTFGLVNJUkpCTmNlc05jOXI3bFlnMDhKNkdsSmJRYV9nR01WRFk3RkpxRmkwVjJMajlVYloyQkpIR2hVUW1zQi1lcUZadC13YS1ITEdha1h6VGhvb2RGcEFoT2tRV00zOENMdw?oc=5",
-      "published": "Mon, 26 Mar 2018 07:00:00 GMT",
+      "title": "What Happened to Millionaire's Row in St. Louis? | Nathan's Neighborhood History - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVklIQVNxU0R2dF9SdXhnczhCNWx3dUQzVXdDNHVuVEx6MHowLWtvRFd5RTlmd1FEbnFidFo4S0tuNlZBUzV1YlRsOGRIWEswbjZTUTRzQi1JYUxCWGJtWUpza241bmFjaU5HeFpwU2N6VjFKWUxVUWprYTRWcy1yM1RkRVN4c21YcVJjZTNZSEh1VXZOMWEzd0RhMFA?oc=5",
+      "published": "Mon, 13 Jan 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2117,9 +2117,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned St. Louis Church - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUi1EWmRKQUZlMjNOUXJ6TmIzREZaUFpUU29lMFJ4LXJ3WnRNSlhkVElXNDdyWjRrNG1fRGZNQW9uOGZoekE3RHZrOEdoSnNqQWFHUnV6MEhIUEQwdkRaQ01PU2JuUUg3RVdxN3BuTHlwa1hpcUNLOWlhTzdWWWF2Rw?oc=5",
-      "published": "Mon, 09 Sep 2019 07:00:00 GMT",
+      "title": "Exploring the abandoned Famous Barr Store & Railway Exchange Building in St. Louis(not my video) - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHI0MmRGVnVjNzZscERockhmSVNVMEw2b3hYSXk4N3hKTnFEakdER2txamktTC1iNmJwX0RGOGhzdlExRWJlYnVMQXNDTnhJSXJURk5MYVNBcU1oYjJxUktlNXpQYlRjMnVHUnU0TjJtQW1uZTFBbGdQN3BSSHp6Z1FrWlBtMVVOMjNzNzJtcXkteUNSWHlldjFoWUYzUUxpU2c?oc=5",
+      "published": "Sun, 02 Nov 2025 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2207,9 +2207,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The CEMENTLAND Documentary about Inside St. Louis' Unfinished and Abandoned Adventure Park - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUxDMUhLMi1mcWRJZ0IwMU5QdnZWUFd3R2lJSktzTHd5RDRxaWlnQ1htOFZhVXYzNDRPVGV2a1FXQkdaRWVueUw4dFhSbzFKY25hMXVEZm1oMmM2WmRlOFVMNHQtTFVEOFIzT0ZDLXFTS01VUlhBa3p1akxKMl9VcFNPRndQOHlFMlRBZ1BNUW4yay1vOU9uVUVGbXBnTnhL?oc=5",
-      "published": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "title": "Top 10 Abandoned Places of St. Louis, Missouri - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2tISlU3ZVZJU0FBZ3YwUlJiejVfVGJEc1JKT0FMLTJ6b3FFZ045VTgzb3RyVzZZeUs1ZWZ6aGstTEhJV1BIOW1tYTVaODZhUFJqcGx1OVVUczdQOWo1R3NtelJNaTR6aXRFc3FKdnFFOG1ocm42TWZJWmx4bVBsWVdKVnJTVG9MM3ZYd3FFNzkzS3Nna2N4UE5WSQ?oc=5",
+      "published": "Sun, 02 Jun 2024 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Abandoned 1.2 Million Square Foot Mall - Jamestown Mall - (St. Louis) - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2h3WWNOREp1S21RRndMWmtYdTdsc2ptNkVLTUNiUlgtVG11R3NsQ1pKWjg5LXotNVZKMkNWQWhlYmRlVFN4S19KOXZwUzhla1BQa0V4Wi1NVzQ3UWZaVnBjUkpNbnhDdFJGNkliNW9LdHRBY1pBTXBfNFNJSkVZOXUzUkZ5T1VMeGJhVUJVWnB2aExELWcxQ0wzeHFrTFk?oc=5",
+      "published": "Wed, 27 Dec 2023 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2280,6 +2290,16 @@
       "title": "Why did St. Louis decline? - Reddit",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZFRBNHY4aEUtaVJFckYxc3lLeExBZ1UycHZvWVREaGJHcG1sWjZPc1V2ZmdYOEU4YUhqazNEVWV5aG95SnljTUp5TG1FcTZuVTF4RmxIa0YwNklHdHFYTWxCNTVjWk5rZmZiekxCdWlPY1h4RFRNeVdJQVhfM1E?oc=5",
       "published": "Tue, 01 Dec 2020 08:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Can someone explain the north side of St. Louis? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTN0OGlWNnZMaEZobUEzZFJRY3NsYkR0aC0xcDFWYmxuU1ZaNUx5QUVSck84Ry14eER0d0N1RUoyYnU3cDh4XzBFYXhUa0d6bEhuZWRNaU4wS2lpTmN3cTY3LV9udWdBY1BQdTNnTXU0YkJQMFpHMXYwT0tIRmVnMHVIZVNCMUF1aFBVck9XNk5ibW1mMVAyaktoTjhFQQ?oc=5",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2383,16 +2403,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Working on a YouTube series about urban decay, visiting St. Louis in mid July and looking for tips/interviews - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3hWcGhXV2tFNl9jQmVUMVRSTGxjYmlwSGVNOTNyRGRiWXZmMkV1YmE1NzRUODZLQV81NV94OUdtdlN4eDVQNXlBSEdDWnJxTkZYZUV5WGpZTTllUElGTU9zdkladzJnemtHX1FLekVpZnhxVDlLcGpYb2cwcDgyLTZNUTQ4d0JzLVUtVDFLalJBbElYaU8wTUkzODM?oc=5",
-      "published": "Fri, 09 May 2025 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Hi! I (27F) love to explore abandoned buildings and places in St. Louis. I’ve been doing this for several years and love learning the history of the places that get left behind. Lmk if you are down to explore with me! - Reddit",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1pDM3VXUldBMzhzWGVGQ2VyaFdRUlNMWGh4V0pULUc3MDBWMDJrNTVLS253S0FNckphZlFub09yR2pQMTdPcFVOeEpnWGR3TGw5aHhmMFA2X2tkUnEwYzhWUnhCd2VkSWpUU3VpZF9Cb3hjME8yUVNDS0l4enRGclZnWE5qVkc0Vmx2aVlBeUVLLWxIWU5yU2pndVAtVnBv?oc=5",
       "published": "Sat, 18 Jul 2026 07:00:00 GMT",
@@ -2423,9 +2433,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "STL and Abandoned Vehicles on Highways - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXV3ZERDNVBMZXNyS2NaUVBqRUZ5SVNFMzJvcEF3NXV3NjA4YkwwTE9VWWw2bjFMbGt5UjhMNUYtTEh6SDZHMmpiSW01M01TSXJ3MmdFN3kwUnBRRExrZjVUSlBTd0hOMXd4elJNWkJ5LTZZeElmaGtpcldVaUJlQWE1MjVqcTg4RHUzcS04dmt4dw?oc=5",
-      "published": "Mon, 14 Aug 2017 07:00:00 GMT",
+      "title": "I haven’t been back to St Louis since about 2015. Is downtown really a ghost town? And is baseball losing prominence here? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON3RPSkdTc19XTXZjeVNrOHhDUjZ0TktmRGw2VHJJVlpkYmw2M3gxS3otWVpXSFpXZF9CVHNlb21wMWNJM290QjBMQ21SOG9YU05LRXNTblk4ajA3X3ZYRUNqMlgwbGt2Z21BYmdpREFITkJmVjF3SGN0RG1SeUNYTXE1a2tsaldRWU5jYmVYTURLSnpWVU5ObVJCeG12Qm8?oc=5",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2436,6 +2446,16 @@
       "title": "The 44 Story, 588 foot AT&T Tower is St. Louis, Missouri is the tallest abandon building in the United States - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcmxYWUc2NEhnVHJfQzhGaFQxSXJEdno5aEtBTzlXWkRkQjh6TGJ0X2tWVFdtcFpjenlZbGZDdlNlT2dlV1lzU01NYmw2MmFWRi15OUxJZzMyM0FWRHRKYnFWc1FqQ1hreHhjQl9OdmVqX0VKQ3RVLVJwZVFkZ2dyX0FHenBzcHB4R0laaE9XUTE5Z3dTMlc3MFd3?oc=5",
       "published": "Tue, 24 Jun 2025 07:00:00 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "STL and Abandoned Vehicles on Highways - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXV3ZERDNVBMZXNyS2NaUVBqRUZ5SVNFMzJvcEF3NXV3NjA4YkwwTE9VWWw2bjFMbGt5UjhMNUYtTEh6SDZHMmpiSW01M01TSXJ3MmdFN3kwUnBRRExrZjVUSlBTd0hOMXd4elJNWkJ5LTZZeElmaGtpcldVaUJlQWE1MjVqcTg4RHUzcS04dmt4dw?oc=5",
+      "published": "Mon, 14 Aug 2017 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2483,16 +2503,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "St louis Urban Legends: Seafood City - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDBxQThuMVVxOGx6OFB3N2p1NGhiMnNFbXB2SzRuVktZMTZlVTNIMTV0VUc5dUhnYkZQcXpPbktqaXF2Nnh3X29CaXJJQmZPekxKeVdNRTN2VzUyQnNKd1kyRE1YZWs1WExQdE1iVHVEd3dUWlZEQXNMSXc3Z29zY00zUDlPYlhYeW1XRHJpWQ?oc=5",
-      "published": "Tue, 24 Jun 2025 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "What was this neighborhood back in the day? - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTmlMZzd6ME5NVUVfRHFpYlRsY1hUQ3dlVDBNbDZ5TXlKdy1nZ2V3X3IwQWZtR2JxakJpYlpDdm43QjNEYy1BaU5JdEdJc2xxNDZjVnhSOW5FRllBYmI4dG4xWUVHejU4UnprZXZuc1N0SGJ5bURPaVRncGxRM3RGc3IyNGNDX3NWZHdQQUxEMGtwUGFZWGxUVw?oc=5",
       "published": "Thu, 13 Mar 2025 07:00:00 GMT",
@@ -2513,9 +2523,29 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "It’s All Gone😢 RIP Millennium Hotel - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3dqMDlTOUtGS0VxNzZ4eVN5U3NLMjBrd3lXdXVyNEo1YjlRQkF1elByejk5SHh2T0NlZ2hkM0RGNzlmdG5vOXBKTlJvLVc3QmM1UXdBNXVmUVJmWG5heFhFanNRX1RtQ2k5V1FjMzNJRDVHOG5sOHA0TmxVbU00QkV4cUlINkhzNHhNSQ?oc=5",
+      "published": "Thu, 05 Nov 2026 22:52:59 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "If only Bob could have finished….. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRjl6bWhYeC1mdXFMa25NS0hnWDI5TFZaRFJRUHZBR2F4MmFqRTlRWFhVWFNQdWVLUWxIR0J2TGN4RTMxVEd3SDBOR01KTllreU9hRkpyejhrR19tYVlKby1PZERMNDdsRjVJV0lkeEJuOTBmMzN0bUlBVzEwc29tOUprZ2ZodFIzNkE?oc=5",
       "published": "Sat, 07 Nov 2026 23:22:05 GMT",
+      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Say No to BRT next April - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYldDWlFGbzhOakNlQVhDNm0xekZZYWl0ME5vRVNWZ0tyMDA2bFZwNTBHNGFGSE9lWjdKbFZUUVZnRDYyNEltS1phTlBHa0NQck5ERTlJR3YxZFVHeUYySXFOaFVCODBEY2VaV0dTZzdvT1lHLVJLVUN5Y29uTG9rTQ?oc=5",
+      "published": "Fri, 06 Nov 2026 15:36:47 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2533,9 +2563,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "St. Louis’ Abandoned Radioactive Apartments Poisoned by Coldwater Creek - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREpHY2FUdnNRbVd2YUdYcVk3Sm1rbDctQk1lY1M3RS1OYnRmOXR6aExQTXViSDNiVjZSemVQVHJoMHh1YTNjYVZhbmlfNTgyM0g3TzFiS2RkcXZUNmR6ZW4xbDU0RmFEbHl6T3dQOUtaUUVueE5DTFlXM3gydXhhU0MtY0NXV3FqMk1aVVBBWVhFNEtZYUxv?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "title": "If you think Mr. Wellman should choose new leadership, please sign the petition. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWsxUnc5czBTTTUtMlN5SFYzbnN5ZmY0MlpIazV0aExCS24ta0xTTkpCaTk3NllhY09HYWRNREh2WUlKNTdrWkRMbTR2eC1FSTRBNmFNdFZFNTJaaTRLcWJIR0VWc1lFT3IzMG1xWkJaZXI1MlhxS3BPRXJaTVladTBJUGJLd0hLUnVpM00zNGhKRUUyd2c4?oc=5",
+      "published": "Thu, 05 Nov 2026 19:18:59 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2563,19 +2593,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "I’m a social worker that does outreach and case management with homeless youth in St. Louis City- I also like to explore abandoned schools while I’m out and about. This is Carr School in North City. If anyone finds this interesting I can post more, unfortunately - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHBDZFpJcm9IeWlxTm81cWYtTy1XSy10NVR3N19vTFBucXg1V2hXcHluYk5XYm1vcjZjbzBKS0l6UzhscG1WTDRXT3lDYjB2cHM1VnJ6dmZQYWFFTEt2czFrdWo4UXRkVUNkRDhvMlFNLXZoQ1JvVHdLV29vZzVuQUpDX09nWmkxR0JKN05FZ2RvZ3RhRDR2TlllRE0?oc=5",
-      "published": "Thu, 15 Apr 2021 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Exploring the abandoned Famous Barr Store & Railway Exchange Building in St. Louis(not my video) - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHI0MmRGVnVjNzZscERockhmSVNVMEw2b3hYSXk4N3hKTnFEakdER2txamktTC1iNmJwX0RGOGhzdlExRWJlYnVMQXNDTnhJSXJURk5MYVNBcU1oYjJxUktlNXpQYlRjMnVHUnU0TjJtQW1uZTFBbGdQN3BSSHp6Z1FrWlBtMVVOMjNzNzJtcXkteUNSWHlldjFoWUYzUUxpU2c?oc=5",
-      "published": "Sun, 02 Nov 2025 07:00:00 GMT",
+      "title": "Abandoned St. Louis Church - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUi1EWmRKQUZlMjNOUXJ6TmIzREZaUFpUU29lMFJ4LXJ3WnRNSlhkVElXNDdyWjRrNG1fRGZNQW9uOGZoekE3RHZrOEdoSnNqQWFHUnV6MEhIUEQwdkRaQ01PU2JuUUg3RVdxN3BuTHlwa1hpcUNLOWlhTzdWWWF2Rw?oc=5",
+      "published": "Mon, 09 Sep 2019 07:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2613,19 +2633,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Top 10 Abandoned Places of St. Louis, Missouri - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2tISlU3ZVZJU0FBZ3YwUlJiejVfVGJEc1JKT0FMLTJ6b3FFZ045VTgzb3RyVzZZeUs1ZWZ6aGstTEhJV1BIOW1tYTVaODZhUFJqcGx1OVVUczdQOWo1R3NtelJNaTR6aXRFc3FKdnFFOG1ocm42TWZJWmx4bVBsWVdKVnJTVG9MM3ZYd3FFNzkzS3Nna2N4UE5WSQ?oc=5",
-      "published": "Sat, 01 Jun 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Abandoned 1.2 Million Square Foot Mall - Jamestown Mall - (St. Louis) - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2h3WWNOREp1S21RRndMWmtYdTdsc2ptNkVLTUNiUlgtVG11R3NsQ1pKWjg5LXotNVZKMkNWQWhlYmRlVFN4S19KOXZwUzhla1BQa0V4Wi1NVzQ3UWZaVnBjUkpNbnhDdFJGNkliNW9LdHRBY1pBTXBfNFNJSkVZOXUzUkZ5T1VMeGJhVUJVWnB2aExELWcxQ0wzeHFrTFk?oc=5",
-      "published": "Wed, 27 Dec 2023 08:00:00 GMT",
+      "title": "The CEMENTLAND Documentary about Inside St. Louis' Unfinished and Abandoned Adventure Park - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUxDMUhLMi1mcWRJZ0IwMU5QdnZWUFd3R2lJSktzTHd5RDRxaWlnQ1htOFZhVXYzNDRPVGV2a1FXQkdaRWVueUw4dFhSbzFKY25hMXVEZm1oMmM2WmRlOFVMNHQtTFVEOFIzT0ZDLXFTS01VUlhBa3p1akxKMl9VcFNPRndQOHlFMlRBZ1BNUW4yay1vOU9uVUVGbXBnTnhL?oc=5",
+      "published": "Wed, 24 Dec 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/StLouis \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2703,29 +2713,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Lucky 13 Drain, St Paul - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWFONnBZLVc3UEpTN3RMbVJkRURvQ3FZMGktUEpSMzF0djdFbTRiUjJfQllZUVB5M3U3Nm1nSUEwV3FobUNZNzVCc0tjcTJqZnpwaXcwVUlWV0VlQmhrYUdtLUlEaXpiTzYwVGU5RjhDQWt5Wm5la0Z2T0pYTE1ncTlNSjZhZ21o?oc=5",
-      "published": "Sun, 05 Nov 2017 07:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Schools in Gary, Indiana keep closing. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVjY5QlY3RU5zbEkzNUVJT0lSQjFSeHRGOFZiMVZBd2hYWDd0R29rQ1VGV3dzZ0pKS0F2S1NPS1hheDBRSHZvdzl6TE5xOVMtbHJVemNFZFlMVE5yRXpmWFRPSDI3UUlYTWtZVVhKMGx3OVFlSUlZdkpreVhrMl9vNTdDTHUzcnZFMjM1Rm1WbVp0M21RZUFIUEYzQQ?oc=5",
       "published": "Wed, 10 Feb 2016 08:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "The Chicago Theater after it’s renovation in the 80’s. - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW9QYzFEUWZjcnYyX1U4bDFyOVJqZ3FIcHh6cDU3czhlS1FnVXVlMmJiMVp6eVhmOGJid0Y4ZVpnSUVNQVpHYTVWc2ROSEJSYkZGc2EzVFlCRnMtNlFUWmd0QW1jZmVpcVBmRmtZWFgzMlNFSlpLajlrY2NwX0x4ZEI3OVp5aWFTWl8wTThRX2xYZFFzVUVpNXVZT2VJUlNnX2RDVTJGLUFWZw?oc=5",
-      "published": "Sun, 19 Dec 2021 08:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2737,6 +2727,16 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd25XX0FMVUlfajBMN2dycWVsTl9DaWlhX2dFSmdEQUNMekREMWZJeUg5ZlN6TFE2VFBhWXRITnlnVE9zSVRZX0hqUFJiSENzLThyN0xIc3AwaGZ1T0Q2UnhXaXBqU3FGcEZIUWt2dUlrTFJoUEhKc3FUeXlIMnF6T0ZlZVh2UFhJM05Zb29LeXBCUQ?oc=5",
       "published": "Mon, 15 Apr 2024 07:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "The Chicago Theater after it’s renovation in the 80’s. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQW9QYzFEUWZjcnYyX1U4bDFyOVJqZ3FIcHh6cDU3czhlS1FnVXVlMmJiMVp6eVhmOGJid0Y4ZVpnSUVNQVpHYTVWc2ROSEJSYkZGc2EzVFlCRnMtNlFUWmd0QW1jZmVpcVBmRmtZWFgzMlNFSlpLajlrY2NwX0x4ZEI3OVp5aWFTWl8wTThRX2xYZFFzVUVpNXVZT2VJUlNnX2RDVTJGLUFWZw?oc=5",
+      "published": "Sun, 19 Dec 2021 08:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -2873,6 +2873,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Inside St. Louis' Unfinished and Abandoned Adventure Park - Bob Cassilly's CEMENTLAND - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTZUTEZFLWY5RWFKbW5MV2dWOXFkWUhwVE1hWmlmS2pSYjRLREwzMURSczB1SGFFUjRiMEpyMEVuUV8zUlg0X3RaUTRnSVhQOE1jZlN2NHU0T2U0R1hXZDMwWFFRM0l0SE1wd3lVZzZpX2RFTnd3Yy14RnhCYllFb1AtYXZ6c3VMeHVOTEd1QjlsMks5Mk5VRzhWdGNwaHpWUUE?oc=5",
+      "published": "Sun, 21 Dec 2025 08:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Abandoned Hospital in Hannibal, MO - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONkYweTJxVnlNaHIyWXppd3daQm10dWIxVnpJY25VZEFnXzNmTXhyZjVHOWJTckJHd0xfWE04ZVBGcEptV045eTJtSkFpcXVCOHBfLXlfUzVzWnozLVZKOGVMbmFOTHhLQ1pZaDZScWVZMEs2dkZLZm9tazF3alJHekxSSXJPZU5HNWFvRE44ajVxTUhxN0NhRw?oc=5",
       "published": "Mon, 02 Sep 2024 07:00:00 GMT",
@@ -2893,9 +2903,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Inside St. Louis' Unfinished and Abandoned Adventure Park - Bob Cassilly's CEMENTLAND - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTZUTEZFLWY5RWFKbW5MV2dWOXFkWUhwVE1hWmlmS2pSYjRLREwzMURSczB1SGFFUjRiMEpyMEVuUV8zUlg0X3RaUTRnSVhQOE1jZlN2NHU0T2U0R1hXZDMwWFFRM0l0SE1wd3lVZzZpX2RFTnd3Yy14RnhCYllFb1AtYXZ6c3VMeHVOTEd1QjlsMks5Mk5VRzhWdGNwaHpWUUE?oc=5",
-      "published": "Sun, 21 Dec 2025 08:00:00 GMT",
+      "title": "Abandoned Limestone/Dolomite Tunnel Quarry south of Saint Louis - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHVpMmhQaG9LVWVwNTlIZlktWngtZEVkTzZBeWhMQjk4di1Jem9lMTljTURCNjJzU2dMRjU1UTEwSUpTWWt5b0o5YXlFc0t1MHdRMF96QjZZQkN1dFlBUjhDQm1JRGhWY29TTHFrQkRBbFNIZkxjenlMUTE0T2J3VXVjTjlpdjZaazlsNWNuLXJjd1ZWVm1nWmFEQUxnNG05Z05IeTIySjZwUQ?oc=5",
+      "published": "Mon, 06 Jan 2020 08:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2943,9 +2953,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Tunnel from 1875, St. Louis Missouri - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlcyUVlwTzA2dlFucHJneGl0MTM4bnZiM05rcktoaGQ1b1pQMmVFaDJPLTlMQTFuMzlNcmplZUNUTU1LTGhhVUNKREFtQ2s2cS1MempfcGpvVjJ5cmdCYWZXZllycU1KMkRwTk01ZC1QbzdtQzd5UTlrQjBfR1VsN3VHS0FzSDRQcGZmWXh0ZWVxQzNaelJjdQ?oc=5",
-      "published": "Fri, 14 Dec 2018 08:00:00 GMT",
+      "title": "The charred auditorium in the abandoned Cooley High School in Detroit (OC) 2048x1365 - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObl8zemNmUUpVSEpHc3RRaUhERXZuaWRhUGFfVUNoaDJ0dkNTS2N6NU1xOEgwQzFycXZxbzFGUTNNS0J4Z3h3YXFRaGluYXFKMnEzQVZObVVabHBzVGtvOUs1TDJUOXlad0xwM1ZWVWsxSmw1dkZvRFJHM01vODI3LVc3dTFlV1Z2Yk5Ec0dsVVFwZmtjNHNlVG5QYzdmNEhpUGl4R1VEZGY?oc=5",
+      "published": "Tue, 30 Jul 2019 07:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2953,9 +2963,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The charred auditorium in the abandoned Cooley High School in Detroit (OC) 2048x1365 - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObl8zemNmUUpVSEpHc3RRaUhERXZuaWRhUGFfVUNoaDJ0dkNTS2N6NU1xOEgwQzFycXZxbzFGUTNNS0J4Z3h3YXFRaGluYXFKMnEzQVZObVVabHBzVGtvOUs1TDJUOXlad0xwM1ZWVWsxSmw1dkZvRFJHM01vODI3LVc3dTFlV1Z2Yk5Ec0dsVVFwZmtjNHNlVG5QYzdmNEhpUGl4R1VEZGY?oc=5",
-      "published": "Tue, 30 Jul 2019 07:00:00 GMT",
+      "title": "Abandoned shopping mall in Bangkok, Thailand - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWljOGlTOV9NLWRKbXlyVUFBVHY1SksyZVNTY1NKd1Y5Yk8yN2l6QTdUVlZVUkFwaTAyYTZ5TTBVa2lEc3pqbVdaMUpzTmk0WUxOOE5yU2U5WnBtNVBSaFA0WXNFTXBmNmdjNG1DUHFqM1dLdm9Wd243UVVIUUFaRS14T2lFM1ZPZGZXX3FoNHRfekdKazRyVUdDSGFQUXRoU2lNQQ?oc=5",
+      "published": "Tue, 04 Jun 2019 07:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Tunnel from 1875, St. Louis Missouri - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlcyUVlwTzA2dlFucHJneGl0MTM4bnZiM05rcktoaGQ1b1pQMmVFaDJPLTlMQTFuMzlNcmplZUNUTU1LTGhhVUNKREFtQ2s2cS1MempfcGpvVjJ5cmdCYWZXZllycU1KMkRwTk01ZC1QbzdtQzd5UTlrQjBfR1VsN3VHS0FzSDRQcGZmWXh0ZWVxQzNaelJjdQ?oc=5",
+      "published": "Fri, 14 Dec 2018 08:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -2983,6 +3003,26 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "18 floors high into an abandoned building in downtown Houston. So much scarier than I thought it was going to be - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1N5VU1LcTZpUjNUOXU1b1plV0s5RENwelF5dHBIME1RQlkwYnpBR1VwTE84bm5xLWhRUlBwREJiRmtpWXNXRFdLZHRXd2hSQW4zMlhIUjY3Z1RHRzJOaWZTZTNCWkRjNkJSd2x2djNVcVNVLUtPbGFpQWpGX0lLRXJoeksyeUJWZVByekhUYU52Y2xzaGtieWZjdmpFSkR4VHgwWUhB?oc=5",
+      "published": "Tue, 12 Dec 2017 08:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Does it have to be abandoned to be considered \"urban exploration\"? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQakt5Mk10bHZ2OHQzZzcyejZpbF9xM0tfeTNIWnFsNlVDZlpPemZkODRlNi1qYW1KZXFnM1RDcjJvbElrN2ZtR3BVN1BUNERTLXQyYTZLR1dYbWR0eTN1ZnFpY0wyN1ozRkhyMFowTC1xbmJ4eVVEXzA5bDFmTW1JQWZyb2N5Vng4b0xjVHhOWThrR0NuSnJSMWxxWWxqX3BnQ0ZuM1FnUHc?oc=5",
+      "published": "Mon, 27 Jan 2025 08:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "One of the greatest abandoned locations New Jersey had to offer. The complex of abandoned towers known as the Jersey City Medical Center. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHJCT2tUMlFhMVpodDVZUUhoOU9tQkRkdEFOOWg1LXdwSVdNdy10cnFWcFpHaDRPZy15a2Y4Z25WR0tCV3VLY1BYc0FxR05OUlFKN25VTUFQcWZFY29MUGNUWWRveVhLci1DYzZRS0NuMXJxWUlRYzhEdjFXZkQ5R3dOY2xid2NVaVN1U213ODRyZDhZLWhXOWo5VEVDWDI3dnJWcw?oc=5",
       "published": "Fri, 10 Jan 2014 08:00:00 GMT",
@@ -2993,29 +3033,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned school in abbeville SC - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUp2Nkh2MjhDRHoxREFKeGdXRjVGaUE3QkRHanFZdFRON0QxWG03dEE0Y2JQSjZ4a1UwWDVJZnZfWU14S1ZjdWVPOTNyUlJwNGZUdEtIbTNuVjNWMUV3ajZnRnpNNDliRXJTSHhWVmd0SmR3a1Y0RHNyNzJpOVN5UDJ1MHdtRll4NXpoak9EMHE4a1BwUDNN?oc=5",
-      "published": "Thu, 07 Sep 2023 07:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "I Explored One of the Largest Abandoned Hospitals in the World [USA] - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR19aaXE3VWIxMjBTakRyS0sxWGRYVHFzSERvdXVvVlhSWHE0VGxnRHNlQ2VTX3p5ZE9ldVhNMDB6R1VoOTJQS2cxTk4xcnpwX0pLZU5VMHlFNlB5bWEyT2lVQ1hLd0RTd2VaU1ZNVkxDWWFTU0dFNzBBUlhPNU9wQlhvNnQ5WFlKMTVQRFFVS2pXV1Zna2p0TEhUdGJGUFlfUnpCOEJ6TEc5SmllOEE?oc=5",
-      "published": "Tue, 13 May 2025 07:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Abandoned mental asylum, Long Island, NY - Reddit",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORDdRS2Q4cHJvQ0k2YVh1S3d0YV9yWVdJbUxIVlRlSXQ4RVZXUWJaS0JkTHJZS2E0SXBfYWs1NVVycF9vMHhjdnowbU5IN2dSOC0wdW96S3ZHd3czaGZJc3ZQT3lTaTh1VkUyWWZPbTVHaVBQVDhtOGI3TmtUaEU5MlFicFl3TnhJYlphU3RkTWpzVHhxOXFwcnhDYldpdw?oc=5",
       "published": "Wed, 12 Apr 2017 07:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "35mm photos taken in the abandoned Century III mall in Pittsburgh - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdmRoTjNhb1M2cVU2SXdoVmtHclJjYjRNZjd3cHgxamh6cEJCTlVtdGppZzltRE85dTBlSkM1eE9HNkxRNkhkUW83eDZuUXdCM0dVSkwyQ1JoTlVUalJVWENkZVhkS0xtWDkwMXRkNXkzUm9BV25MV3kzTGh1cUZHbWVSaGNRb1dlcURnbHdPZTdoTUdoRW9Rd2VvcmFCOVl3NEYycWtTa2lRdw?oc=5",
+      "published": "Sun, 04 Jun 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3043,16 +3073,6 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "18 floors high into an abandoned building in downtown Houston. So much scarier than I thought it was going to be - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1N5VU1LcTZpUjNUOXU1b1plV0s5RENwelF5dHBIME1RQlkwYnpBR1VwTE84bm5xLWhRUlBwREJiRmtpWXNXRFdLZHRXd2hSQW4zMlhIUjY3Z1RHRzJOaWZTZTNCWkRjNkJSd2x2djNVcVNVLUtPbGFpQWpGX0lLRXJoeksyeUJWZVByekhUYU52Y2xzaGtieWZjdmpFSkR4VHgwWUhB?oc=5",
-      "published": "Tue, 12 Dec 2017 08:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Abandoned Freight Depot - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHNJOVpxWGlhZ3AwY0J5NXRncU1kQ0hQMFg5ZWVvbjRrdURUTXhUSmhKeU9ld29jNktUM19tLTQyQ1V0cXozcGdWbnNkdWRMdVZxLUJLLXlFeXBfNzBUSmhmWl8tQWZ3NXJZM3R3S3FFQ08zU2E4T2txeEdMSzdpMk1qSHZxRHZEcFhN?oc=5",
       "published": "Tue, 17 Dec 2024 08:00:00 GMT",
@@ -3073,9 +3093,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The Abandoned South Ferry Station, Manhattan NY - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVN5ZU9UeTVER0VsNTd4YnlFbG5vUEQ1c2RpaER1MlZGZHRSMHgzYkZ6Q0t2TFoyVnY3RVRYZE5uNV9UZmtTODAzMTV3dDJLVHBfdEs0Zlh6azVwdWhOdk5GZVUyWjFPZjFlNHRUZkgtcGl0RzRodW1YRGlJeHhYaEJDTEdLNGc1VUZGUlZuLXZUTUNOLXlIVlhQNEhQSjg2ay1GTWNIX1BhQQ?oc=5",
-      "published": "Sat, 24 Feb 2024 08:00:00 GMT",
+      "title": "Theater in an abandoned high school in Detroit (OC) 1200x800 - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWtxejNsbHdsUWUzcmt0ZG9FX25aRTRzQnBvR0I1anpvM1Y4NWhQMmJpX0Vxa1E0LUo0U3MtZGdiMFFJNllzZWQ0Z0VtajlvSzhiWGlpcWtuWW8wTHNlVDVYOFR6c0VXSTM3ZDdVNFVoWDlFT0Zkd2Z0bzZNcFIwRGlSTW0zNGJORU15Yno5d1RuT0VucWRheEJyUEp5MmZZR3o2RFlrTXVCLXEz?oc=5",
+      "published": "Fri, 22 Jun 2018 07:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3083,9 +3103,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Theater in an abandoned high school in Detroit (OC) 1200x800 - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNWtxejNsbHdsUWUzcmt0ZG9FX25aRTRzQnBvR0I1anpvM1Y4NWhQMmJpX0Vxa1E0LUo0U3MtZGdiMFFJNllzZWQ0Z0VtajlvSzhiWGlpcWtuWW8wTHNlVDVYOFR6c0VXSTM3ZDdVNFVoWDlFT0Zkd2Z0bzZNcFIwRGlSTW0zNGJORU15Yno5d1RuT0VucWRheEJyUEp5MmZZR3o2RFlrTXVCLXEz?oc=5",
-      "published": "Fri, 22 Jun 2018 07:00:00 GMT",
+      "title": "The Abandoned Dunjee Highschool - Spencer, Oklahoma - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcDhxb3paREdLQ2NNMndlaW9nUXhON2wtc2xVaEZMQVRhMXJxZzRFMVpnckFMODZhSFZ6T0JISkRZU0I3OVNQV095RFBia2JWMUVneVBuVEhnaXNhRkhjNHlMX2MtT2RFU0Z1akljN0NCcGo5MFBhRGZoMVpTR3BDdmNVZGpZdUZzRk9QMDBLZDV0aC1kWFB3WDJhUzM0Q3hDX3hnektmMjRKYW8?oc=5",
+      "published": "Thu, 27 Jun 2019 07:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3183,6 +3203,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Abandoned Hospital Hospitality House (Chesterfield, MO) - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS1BYVk9HY05CVWl0TjRBSEI2czh0YkFlSWRQcG11Q2hUZDBCdmFaQVFuWWcyT25BXzdyVFlVeHJqd3daZldEcnhPbGZZcy0wNFVUcE1qaTYtX1F6UlBCaUo2WW1IenVmTmlWbmxFLWptclJLM1I3LTdkVlYzenk1c0doVm9JYjFibWdFSmVWOFdXUGlVbFhoaHQya05nOXhUVmhseEFkWkNoUUFOMVE?oc=5",
+      "published": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Abandoned Illinois Hospital Urbex.︱10/20/23.︱OC.︱ - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUhHaEhIWFhQTUNxczY2dlEtQkp3TEdKUmhLekFFUklRMkd2aDRTZ01RQ093dThuekRkNURJZlJIWl9UYllXMlFOVjZUdExIVGRGMVh4cG1PUWRiLXgwSGpuemdabjgtR1hhNXJFdlRrcklkWkI1SW85cERTYi1LV0JNS1E5dDBCQWEzY1A5d0pjdFRKcXdGZm10ODFOWjlOWGp3?oc=5",
       "published": "Tue, 14 Nov 2023 08:00:00 GMT",
@@ -3233,9 +3263,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "abandoned buildings in arcadia FL - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGhmcXJFMXpzMGx4X3ZIemprSFRPUDhwQ1FPbWh6SU4tREwyem1tMXh6bnVrMjNyWXgzTEtHMktrLV9tenJ2QXhScjhUVjNBdWd5WHNTaTQ0ejJWTGRuVndSOGZWZTJlTk9kM21XV3FFbWFVYW5vZ3BoZk1nRzNsZlk5SEZxU2F0ZEJDcDA0S1hzWTRFWm1r?oc=5",
-      "published": "Sun, 02 Jan 2022 08:00:00 GMT",
+      "title": "Inside The Abandoned \"Exorcist House\" - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnV2eTQwdE9DU1I0VXMyVE5NOW11VDNCT2hiYW1fcUxZOGZHQ2k1bDZqdmdmdnJqbzNMZHF5dHotb1VWdzVwbjZqUy1jb2NEU1FJOVBXODRSdVhQeWU3LWpnYXFraklES0dvSUFremd4eHVLUDdKcXUxTjRmWTlCbndrcl9SUXFvSmlmczFMOVM1WW9kY2N6cW5R?oc=5",
+      "published": "Tue, 30 Jun 2020 07:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3253,39 +3283,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Inside The Abandoned \"Exorcist House\" - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnV2eTQwdE9DU1I0VXMyVE5NOW11VDNCT2hiYW1fcUxZOGZHQ2k1bDZqdmdmdnJqbzNMZHF5dHotb1VWdzVwbjZqUy1jb2NEU1FJOVBXODRSdVhQeWU3LWpnYXFraklES0dvSUFremd4eHVLUDdKcXUxTjRmWTlCbndrcl9SUXFvSmlmczFMOVM1WW9kY2N6cW5R?oc=5",
-      "published": "Tue, 30 Jun 2020 07:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Abandoned building in Rotorua, New Zealand. - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnh1cVpVTVBKbDFRYm9lS1BwcHB6dGxkdXpPTDM5MVRSSzRMUnJSSkpfX29RQlVPYzBaakQ2cXVtbThsQmpZaVFlMVp1N2U0b2hiWXRud202VEdleXFYalZTTFdxVXZ0Tmh3eV9RWVZMN0ZENkFGME1lYi1Ka3JUSUxQMUlXamdZRWlKS2h4UUdjSks3Sk8taVp5Y1A4NG40dXc?oc=5",
-      "published": "Sat, 05 Jun 2021 07:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "St Philip's Hospital in Malta, abandoned since 2012 - Reddit",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUGFEcUF0SWV1WXpPc0lBcy1IVC1kLVlyLUw3UXQ2THdOV2xBTFlXZzRhLTM4TWc3VUF2SjZJeXUxUWxvaGpWcGRycXFxSG0yRzZxOUxnOXdGellwbF81T1RKVjF4TG52X3V0NU9nYlR5QzZrQk1wS3FVb09Zb2c1a0kySUVkVFhtaldWckt4NkhGRkdRdzZqbHIxRmluOE9tczhMemplaS10LTd1NXc?oc=5",
       "published": "Thu, 30 May 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "St.Philips hospital , Malta - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjBDUmZleXZRaTQ1eXFQMXZsOHVCQVc5WWY2UXF0U0o3X3NUZFAwYXhrRGtzc3FMQmVDNkpzMUNtQkxFWlZWMFk0dmVfSURkR0xoWGdWcXpxdHEyM1UyMjJmVUJRbEZ4cVpGNVJkN2g1dHBUTzRIM1pkLTRfejNmTjF6UVZaZEYxLTEw?oc=5",
-      "published": "Mon, 31 Jan 2022 08:00:00 GMT",
       "query": "site:reddit.com/r/urbanexploration \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3343,40 +3343,10 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Cairo Illinois on New Years Day 2025 - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb3hELXRjY2tqaFYtN1FJcWd0OWIycFFKNnNyTHVrVXVveGs5R2EtTlk0N0NwUUc0VmRNWjltVUxTem96X1ZQaEx2R2VpOTFSbGdjSlM5SThMdzhxV0FzT2pKZ0tDN29Kd1NsbTNPYjJqeDNEb1Raa2RqX2ZHRm9wY2VpdkFrUjFKdEJWZ2RGTlpFbkU?oc=5",
-      "published": "Fri, 03 Jan 2025 08:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Got a case of the St.Louis blues…. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHpMSF9uZ25wZVBqT0k1Rm1wU3Exc0RiYkxYLTUzU0Qtb0lHTE9ybHVCckNPd3RBaFc0NUNRajA5bm9qUW43VG5NVW5YMUlhSGp4Ukk0Tk5FSF9CSFVtRnRrU3J5UGNQOGI2Vl92YUxycldhckRiRzUwQmNRMUZBR0RGUWJDZ3VrQThHZA?oc=5",
       "published": "Thu, 24 Apr 2025 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Planet Hollywood in Niagara Falls, Canada - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWG9MQ0xIQm00dHlKNG9saHZGd2s5NDBjTnlKZzkweThYREZjaWJiRWYwUUpLRVhsLUpvX3VjODAzb0ZqOUx5OERPVF9xblFWdU1CWDRDekhmaHVCOTFyTG5yZmFVQVlydlRnN2gzMDQycE5HT3ZfTFRLNld0MDZmcE1SQ2M5SnBtbjBSdDBSRG1UWTZpSk1GYQ?oc=5",
-      "published": "Wed, 07 Aug 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Gary, Indiana after sunset - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVNqZ053Vlo3OEdBT0hGZGplR090TkNqVkJjRDN2YjNrTDZrQjI2eTFsM0pmcUJEMkhqUnRhU1NFcmtfaDZaU3ZHb0dOYUlPaE9wMHpGQkV0NHYxbGxSOHdDbTc0SVdrWi1vUnFYaHBTYnVVdTItZ2NieTl2WEs4R0pCMnE?oc=5",
-      "published": "Wed, 19 Jun 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -3413,6 +3383,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Gary, Indiana after sunset - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVNqZ053Vlo3OEdBT0hGZGplR090TkNqVkJjRDN2YjNrTDZrQjI2eTFsM0pmcUJEMkhqUnRhU1NFcmtfaDZaU3ZHb0dOYUlPaE9wMHpGQkV0NHYxbGxSOHdDbTc0SVdrWi1vUnFYaHBTYnVVdTItZ2NieTl2WEs4R0pCMnE?oc=5",
+      "published": "Wed, 19 Jun 2024 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "An Abandoned Neighborhood with a Dark History (OC) - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjhPWHJWcGQ0cVYwaEkyWkNTeWJITWNaa3ViVW5XTnE0N0Z0R04wYVljYVVYZTJLQVp6NDRsS1F1REJwVThIYjBOWmx6Y3dyYXdEZ3l4YjRpZk02Z01zQnc5NmgxYXE4U2xucVBPS2xDTVo0OE9HdVZocWN0LW80UG1fMmN1d3pLRWxCQzFjX3hXQkk3N2JTM1NTa25iR25XSl8w?oc=5",
       "published": "Tue, 03 Oct 2023 07:00:00 GMT",
@@ -3436,7 +3416,7 @@
       "title": "Abandoned theater. - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYNExVbmtCUEhVSlRSTC1iT0hNV1ctVUNnVHY2WjF3WnBoS2N1ZVlONktzZkkyYUt3SWdMRG5HcjBqcV9SUFVZUDVPUWdjWmxNNnpyRW81LWZUZHUyTE13X2xsZGhwNFlQa0YwWWRHV1NVNGFfc2NkNDBB?oc=5",
       "published": "Sun, 17 Sep 2023 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -3483,10 +3463,30 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Built Between 1918 and 1930: The Mysterious Egaña Castle of Buenos Aires - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNfSnVHaGstM1E4VDB3b3Z0Qk9hV0RnNkFpNmlpQ0JfSGFERkgxMlpSYldJQ3hhX0hOQTk1dWRNbWx2MmdMdWFCaVJ5U0xVNzlVWFI2NGNBY3lBbVhTMFd1V0ltbGxVRW1DV0N0MVpKNjBrLTZyZk80Wi14U1lUM0tnOHFWLW1rd1NzM1UtMWxSMUJOTXFwb1diNS1hTmc1SnRIOThHdVc1dw?oc=5",
+      "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Top 5 Abandoned Places of East St. Louis, Illinois - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1lnN19sZ05xaWZyLXV1VWY5THBWcTM3amFvbjdkeExTLXFFMzBqdEhJUmdiaWtCT1F4cGRWVS1BMmtLTC1QV2dWTHhWY1hHS2xQVUFGbkU5ajRsX2pqZnlPME9xMFl3dzJCTERiMzdPVVVFRl80WGxLaFdnM2RCQWJfR3duSUdfbktrNWZqLWVQcXRtd0VGWTR4amF6NWpMNTFr?oc=5",
       "published": "Sun, 29 Oct 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "Central Park Tennis Stadium in Schenectady, NY. Last played in by semi pro teams in 2005. - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcm9rYmtCZmhQZDh1VU5TYU1UcjJ3MWhLWDVwZVVaNFFMNnJCcjV1amgxVzlYQmJ1eVdoT1FkTnZLdElvS1hRVHlKRXcyTmxYcjVCTjd3Sk8yMVFwc3ZKN1I0UTZlYnJrQ09qX0NZcEc5dkwxYW5SM3FSeHM4bV9kVEpYNGVoRXkxeUtTSFJhUDRnU2VqUWFaUzYyX0dYZw?oc=5",
+      "published": "Sun, 06 Jun 2021 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
       "review_status": "Unverified research lead",
@@ -3553,9 +3553,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned Mausoleum - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pekVoV1AtRlprV0I3RXB0NnU4MzVWbC1Pdkt0VGEyRDZ1N3JabDVhcnRfVTBudWtlbnJURk5kN0U3Q0swcXJEMVdpd3hUc0daOERCTEhJbjhzUjFQbjRfME5fU05zVENJeUQ5SzYxaDItQjFfZDZhYzBOVm8?oc=5",
-      "published": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "title": "Apartments Left Abandoned After Radiation Poisoned the Creek - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmd3QXgwZmFUemlqZ2NVZ19FampzMUdUbnZkTEMxdXhWZkVFZG02OUNZZUUzQ3RYamp3Wm1VNktUcFRiVVo1NVhscmk2QzhRY2FqTFk4cHZsMzZyNGE3Znk0OXlxRE4wa3Q2ank0YkxGV2NwY2t2MDllQ2xYWHJjZW5vb3J4OGtnNTFQWnlMLXYtZWpJUDVqREpB?oc=5",
+      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3563,9 +3563,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Apartments Left Abandoned After Radiation Poisoned the Creek - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmd3QXgwZmFUemlqZ2NVZ19FampzMUdUbnZkTEMxdXhWZkVFZG02OUNZZUUzQ3RYamp3Wm1VNktUcFRiVVo1NVhscmk2QzhRY2FqTFk4cHZsMzZyNGE3Znk0OXlxRE4wa3Q2ank0YkxGV2NwY2t2MDllQ2xYWHJjZW5vb3J4OGtnNTFQWnlMLXYtZWpJUDVqREpB?oc=5",
-      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
+      "title": "Abandoned Mausoleum - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pekVoV1AtRlprV0I3RXB0NnU4MzVWbC1Pdkt0VGEyRDZ1N3JabDVhcnRfVTBudWtlbnJURk5kN0U3Q0swcXJEMVdpd3hUc0daOERCTEhJbjhzUjFQbjRfME5fU05zVENJeUQ5SzYxaDItQjFfZDZhYzBOVm8?oc=5",
+      "published": "Wed, 19 Nov 2025 08:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3633,29 +3633,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned Texas Hospital - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXcxWmctZVFnNnBlTmpqMG1QeTZ1NGZvMk5lY2dsYXh1NmdQdmp3X0RHb2Z3MTczWi03N2RFWWI5bW5lcXloSEhQTHVjaFNxeDFaSERjZVVtd2oxRGNWaWpHa09FRVFReDFYVGFUd09ROWlrU2RzX015aTZwSWtNLWYxdw?oc=5",
-      "published": "Mon, 20 Apr 2026 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
       "title": "Abandoned places in ohio? - Reddit",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTXJrWlBQb2VQQTEzLXlYR2RpQmFiSWZtYzhiLW9uYWQ0Z1BqUGtKVWtYbEppcjVfWU45RUVjNDVTOTNCb1dQYVFWZ2pkREV6cWo3Q1pnZk9EZ05yeWM5MVctTXlZR3NVckthT2Z1cjMtc3N3NXh0bXA2dnFFQlBiSGl1RQ?oc=5",
       "published": "Fri, 15 Mar 2024 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Abandoned House on Route 1 in Saugus, MA? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzZSdFBGb0ROX3pYcENLNEhOYm40ZFpZSFVuM0R5dlVzUE94ckdOWWFFT0RQNnpQTzJzZmFReGs3WU9TWGYtLXRNbzNjbDhGNnA1bFhEa2lJUExkcUlPSllWOEFRYnBIYlRWeHktbDJRV19PaFZIQ0NNVTlXOGVmY0EwcVhUSC1jMU5oSWY1ZUdHVUgxd3U0?oc=5",
-      "published": "Sat, 30 Sep 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3683,6 +3663,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Abandoned homes in Detroit - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNck0zUW9JbGo1S2xNSkRzTDkta3AyS1M5WWw4cDBRSFowbUE4UWM0MXdGVmhyLUY5ZEUxUmc1NEtJUkFYQ0JlVmtfRU9oS2tpeF95c2hVdnBXcmVOQ1hwdjJfanotNjN5UEVkc0JINFFTZ0h4VEl2UHJ6RFBLYThrUTRTcnlvdw?oc=5",
+      "published": "Thu, 27 Nov 2025 08:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Clean abandoned church with natural decay - Reddit",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2N5MHNQNVdFQjh2Q1VUdGtZZnUtbnZHVWw5ei1ZQ1hFQmhkcnpuZzdZOXVvWkExVGVpTXo1Y0hXd3NVTnQ3OVdnRUZMMmMzM09FVF9nQ2tLWThhczl6YWtJU1AwNzNncVVNSUZRQjFGOXk0a2t2YnhUSUdBc2pGVnAxamZpN3RyVURzaEVfbkl1aG9OU1I4b3pB?oc=5",
       "published": "Sun, 04 May 2025 07:00:00 GMT",
@@ -3703,9 +3693,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned shots of Gary, Indiana from the 1980’s and 90’s - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWE1xZXRrN2Z6UC1pcGhMNjd5WUZZM09lS1k0MzUzSGczbGhYZG5MVERNLTBHVmN0MFJTV3htbzMyNXRtc28yNXlzWlluUEx3ZG9aZkZncW5kZDRGbkFReE1ZWHRTOUVybkVCWF92TURQZjh3S3pPY2FwLTN0TXlBNy1kUmpIb3dYS2hTTDBWQ3lkdXJUc01ud0FROTJaVUU?oc=5",
-      "published": "Tue, 15 Feb 2022 08:00:00 GMT",
+      "title": "How do you prepare to visit an abandoned place? - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEc5RGJnMlNycVZvZWJIMFE1T2pNSHk5NWhwRFlHWGZiNXlGN09nbFZIQjFNSndQM2ZvSmtrN0x0MkFMM2JNTXhvQ3NqcU5RWGpnbjdXWWxZQWp4QkFWRmpLVVdSS0hUNThVZ25WSnFRSG1JMmF3NGsyanVxWkdNb3NtWHpSWngyUGtZRWxxVjBSWTVTdFlBbms1WWVHNjZf?oc=5",
+      "published": "Sun, 10 Sep 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3713,9 +3703,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "How do you prepare to visit an abandoned place? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEc5RGJnMlNycVZvZWJIMFE1T2pNSHk5NWhwRFlHWGZiNXlGN09nbFZIQjFNSndQM2ZvSmtrN0x0MkFMM2JNTXhvQ3NqcU5RWGpnbjdXWWxZQWp4QkFWRmpLVVdSS0hUNThVZ25WSnFRSG1JMmF3NGsyanVxWkdNb3NtWHpSWngyUGtZRWxxVjBSWTVTdFlBbms1WWVHNjZf?oc=5",
-      "published": "Sun, 10 Sep 2023 07:00:00 GMT",
+      "title": "Abandoned Irish Courthouse - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOGJmS2xLOXdUcWtMZnNWbDJBeXZSeDQxWk54dVB5ajdaZzZMY3p4MjZLSUJtbHl1UThRZFU3V2RPSVB1ZVJGZUQ4ZHpmb05XRk8yRDdlM19aMWxiYlUyQlVteGdIcHFnR09sbE1iM2huS0p4cjR3ZGg2NTBrVk5KcDZxM0ZNUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3733,9 +3723,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned places around Queen Creek? - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXNlTUh2VkQ5NXlONG5xRGcxR1o2Sk8xd1RJdktCRjUtNlMwQjd6bXBzXzh3bm4zS3dPUG5yOXdfWUJRZzJEQlJvNzQ3V0dmSkRBLUh0N3ZRd0d1UFNiVGVYX0FFUml3bEViMGpBS0xnREFtSjhQUlVna3hZdE5kVHZRWXhmNjEwYnRfOEoyNU9Xdw?oc=5",
-      "published": "Tue, 27 Feb 2024 08:00:00 GMT",
+      "title": "A look inside St Louis’ historic abandoned DePaul Hospital complex - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0VoOF9DRWdQSUEwRFI4LUVRSFpJd05rblVQem1hVWVBbTVLTzJQVGhNZ3MxRTJ0ZGU1MkdubkNEamRWcW1aU2tuQXVQSDY5ZGl6ZExJeF96cGR6YW96LThUU1hCRVNUZ041dmVVNm9MTFZIdUhPTHc5bHp6dTVMbFZ2UzM1VS0xUXVQekxKNG5WZkFCMDhOTF9PTkMxdFpvX2Rr?oc=5",
+      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3743,9 +3733,19 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "A look inside St Louis’ historic abandoned DePaul Hospital complex - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0VoOF9DRWdQSUEwRFI4LUVRSFpJd05rblVQem1hVWVBbTVLTzJQVGhNZ3MxRTJ0ZGU1MkdubkNEamRWcW1aU2tuQXVQSDY5ZGl6ZExJeF96cGR6YW96LThUU1hCRVNUZ041dmVVNm9MTFZIdUhPTHc5bHp6dTVMbFZ2UzM1VS0xUXVQekxKNG5WZkFCMDhOTF9PTkMxdFpvX2Rr?oc=5",
-      "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "title": "Abandoned Hospital - Located in Central Pennsylvania - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHlGRlVzSFl1SnlySGlZS2xNLUdUdm1ueE50bE4weUtGNTZXVklOYndqM0RxMGpPNGVSa0paZUh3VHhUYUkwT0VvYVZUdlVxdjlfUllCY2NwVHU4ZmNQdy14MDQ0YUlTa2ZWbmVZeUhxeHVNU3JhNnlYS2N6VEJxSUpyUEg1dVpYem1KOVA0SFRISVN3SDl2UDhScmtHMWNLLThaMTlR?oc=5",
+      "published": "Sun, 29 Dec 2024 08:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
+      "title": "The rest of the photos of the abandoned hospital where I got yelled at by a ghost :/ - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjdDYXp3dkZXQTF2NjVPNkt2UzExS210cUFGMHctWV8ta1BYNGRzT2ozMERzYS1KZ1lPWWlrS3ZpZFMyXzJPaFh2bmdKQlF3dHJiNUdmbW4zenVObExSUlNqTURJeDR1Q3ZlZU4xUV9fNHVJeHM1N2tmQXdOSVp4cnhSS1VoX285UExnaVlZNjJKYmx2b1pjYndEQzJ6NkFuR0ZJ?oc=5",
+      "published": "Fri, 06 Nov 2026 00:14:31 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3793,9 +3793,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The rest of the photos of the abandoned hospital where I got yelled at by a ghost :/ - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjdDYXp3dkZXQTF2NjVPNkt2UzExS210cUFGMHctWV8ta1BYNGRzT2ozMERzYS1KZ1lPWWlrS3ZpZFMyXzJPaFh2bmdKQlF3dHJiNUdmbW4zenVObExSUlNqTURJeDR1Q3ZlZU4xUV9fNHVJeHM1N2tmQXdOSVp4cnhSS1VoX285UExnaVlZNjJKYmx2b1pjYndEQzJ6NkFuR0ZJ?oc=5",
-      "published": "Fri, 06 Nov 2026 00:14:31 GMT",
+      "title": "St albans junior high - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MRHltUlpubGpzbl8tLXF5cV9mUWpIblB2Ty1ObHpYRE1CS3c4SV9wTGtYanppajN2MlJvU1N6X0dXcWZ4dl9TVzZoTXc5eDZTMzZRNk1NZXNhem10REZCd0p1STVqX0dfX1ViVzg3ZmFZV2FCZnZaQkc1ZDQ0a0U?oc=5",
+      "published": "Wed, 31 May 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3823,19 +3823,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Abandoned boarding school | Australia - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcmRWUl8wdDFtbGdMYXNsaExoSEljbWFBXzUxUEJOaFBOQ05KT0JlRjRZM3U5WjYwX2RNa3pic1BKeG84ODNiQ2xmU3Z1REdMR1o0WGhUcnF2T2d4cFh1YXZFU0Rrc09SMndJX0k1ZkFxeFlCODR6NUE3SWxNVUVkZDd4RWtTNll3dUI2NTVCcUpxQQ?oc=5",
-      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Northville Asylum - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4LWdqcVFfc1lramV3Y3dRUTVvTTczdjh6ajFadlpwRnprYjE0UFAwNTBndnhZNjRBY29ocFZGSVRMUS1uTEdLM3B2ZlRVcy1aMzNKamR6VFpydURSSXNEMUplZ1FxY01rQVF2MEFXdTJNT2VYRm9hdmJ3?oc=5",
-      "published": "Thu, 05 Oct 2023 07:00:00 GMT",
+      "title": "Abandoned Resort Mansions - Branson West, MO - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ0h0MlRkaW1zMkJwNG1VNklIbUJLQVJNNGJ0MDdKR01mbzBpSU56QW1KWXZ1VGZITG5fMktOSkFpS2N6dHo0UzRVcl9IYkZzTTNTTVliRVVpVHk2RjB5YjJfZ0tKUTU5VGRma29qMUROaEhoSG52T2c4a3dHR2hJaDRibHU4ZHNxbmUzY1phUW1TY1pOdVE3Xw?oc=5",
+      "published": "Wed, 22 Apr 2020 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -3873,6 +3863,16 @@
       "legal_access": "Unknown / permission required"
     },
     {
+      "title": "Cherokee State Hospital, Cherokee IA - Reddit",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHlqOER0QXd0LTRuQ2kyMDZsTk9JWGY5RUU0SUx4SGlHbEVBRENoeFJNajJtbHRUanpuNVhPUVV3WjhWSDl5Rm82eW1aVnRKVXlfMnJZWkhIdndOR0lZNXA0cFhZM2FwRUpxdGRpbi1rMVFPUDlOUUFaVTM1UlByaHc3ZWlvLWVpT2l5VW41cDNTZw?oc=5",
+      "published": "Sat, 09 Sep 2023 07:00:00 GMT",
+      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
+      "source": "Indexed research lead",
+      "candidate_illinois_parcels": [],
+      "review_status": "Unverified research lead",
+      "legal_access": "Unknown / permission required"
+    },
+    {
       "title": "Abandoned Russian luxury Northern Crown Hotel in St Petersburg - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemdGTUswUDBxbnRxZmhRLUIwWW1zSVo4ak1scUdzSlJnM0gwTnBPRGhrcGNsajVYNVM1VUdCYU5ma2MySDd4Z1hlRFRTekJsbVVXajlBQW84eXN0RGcyWU53eXJQa1JZaFEydzV2MGZyUFJjMjVSS01Vbl9yT0o4SzVtTWRIblJUNl9Camk0R1F6TkRHbUdCRFhGeklaOW1Hd0E?oc=5",
       "published": "Sat, 24 Oct 2020 07:00:00 GMT",
@@ -3896,16 +3896,6 @@
       "title": "Pictures from some of the many abandoned schools in Detroit - Reddit",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS05TM3NwY2kzcXpmYnpJQzRSNldJLVRaaUx5ZWFZVzVuVXNYNm5jTUxmVjFaZ3pmYm5Cd3l1ODVTVlNyS2E4b3o0Nmt4a2FWenpJZlFwSFdIQWQtMXJnMTdNQ1daZ00xUzdSajdoNFJCTmRSSC02ak9uOGF0b2l4N2Rxa2xlY3dhN1hfNUd6YWFoMG9LS0tjSUhtak1CRzEyaWlJ?oc=5",
       "published": "Tue, 16 Dec 2025 08:00:00 GMT",
-      "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Cherokee State Hospital, Cherokee IA - Reddit",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcHlqOER0QXd0LTRuQ2kyMDZsTk9JWGY5RUU0SUx4SGlHbEVBRENoeFJNajJtbHRUanpuNVhPUVV3WjhWSDl5Rm82eW1aVnRKVXlfMnJZWkhIdndOR0lZNXA0cFhZM2FwRUpxdGRpbi1rMVFPUDlOUUFaVTM1UlByaHc3ZWlvLWVpT2l5VW41cDNTZw?oc=5",
-      "published": "Sat, 09 Sep 2023 07:00:00 GMT",
       "query": "site:reddit.com/r/abandoned \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -4196,16 +4186,6 @@
       "title": "Camp Skullbone - Underground Ozarks",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92NG1KQW5jT1pHb1VsMW1kLW1FYVhfVkdfeDdjOTZpUEJnalhFZmY5RnNsSzJUR3RnckJtMlBUc0Z2WVNIazRWQTMyaG9vM0lkejRaWFcwUFNxV0dLLTlQVWZXWEhFaG8?oc=5",
       "published": "Wed, 01 May 2013 07:00:00 GMT",
-      "query": "site:undergroundozarks.com \"St. Louis\" abandoned",
-      "source": "Indexed research lead",
-      "candidate_illinois_parcels": [],
-      "review_status": "Unverified research lead",
-      "legal_access": "Unknown / permission required"
-    },
-    {
-      "title": "Fayetteville, AR - Underground Ozarks",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YMEcyTUZWZm5RWV83VV9FLTd6WHdPcVB5ZFB0aFV5Q04wcnF5VVVFTzM5ak5DbmtWQWtadHNmOXVuS05hYU1vdlNEbmw0OXdGYW1ubTZUa21pd3FQOHF5cmxpV2lTb3c?oc=5",
-      "published": "Tue, 21 Feb 2012 08:00:00 GMT",
       "query": "site:undergroundozarks.com \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -4723,9 +4703,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The Industrial City - Built St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RS1NwcTg5SldhN28yTEtTZ2hyckpRNEtsbWctMnVpakg1c0QzM3lIZ1VISmk4bTBXcEtiZ1h2VHRCR1ozelJCOWtpQUE5V28tbkhQeUt3bExHR3llSjdsZl9wUnVLdkNoMU9aNVhHbmZHaXdWWTh1QQ?oc=5",
-      "published": "Sun, 12 Feb 2017 03:01:58 GMT",
+      "title": "East St. Louis and Metro East - Built St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xSU5ualhKRXU3eU5TMl9nSHFZNW93TnlHSEZnekg2YWFaUWVvcmlCU3AwTm83VXVfcFRRVWhZVVdDeVJfNjREUVNyRDhaTTJkejhpMzg1bnNoUUZYOXNB?oc=5",
+      "published": "Wed, 08 Dec 2010 23:37:42 GMT",
       "query": "site:builtstlouis.net \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -4743,9 +4723,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "East St. Louis and Metro East - Built St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xSU5ualhKRXU3eU5TMl9nSHFZNW93TnlHSEZnekg2YWFaUWVvcmlCU3AwTm83VXVfcFRRVWhZVVdDeVJfNjREUVNyRDhaTTJkejhpMzg1bnNoUUZYOXNB?oc=5",
-      "published": "Wed, 08 Dec 2010 23:37:42 GMT",
+      "title": "The Industrial City - Built St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RS1NwcTg5SldhN28yTEtTZ2hyckpRNEtsbWctMnVpakg1c0QzM3lIZ1VISmk4bTBXcEtiZ1h2VHRCR1ozelJCOWtpQUE5V28tbkhQeUt3bExHR3llSjdsZl9wUnVLdkNoMU9aNVhHbmZHaXdWWTh1QQ?oc=5",
+      "published": "Sun, 12 Feb 2017 03:01:58 GMT",
       "query": "site:builtstlouis.net \"East St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -5143,9 +5123,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The North Side | Tour map - Built St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52YkxfZ1FHRTlMcDFJQjJuZWk2U3hUY0VfcExGR2NWdk9VY2NzOGhYQkowMHdmRlI5am50SVJDSHVvYVczNVJRWXBWY3RId09jSGEyR095S3UxUktQai1hSG5UUk1zQQ?oc=5",
-      "published": "Sun, 12 Feb 2017 02:56:47 GMT",
+      "title": "The North Side | St. Louis Place - Built St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuendoemR1a2xZeEcza2ZaSzJHVGo1d1VNbkRWS184VzdZUUpSaktpWENvQ2xUMXltbHNobWFLRXA2UXRhVE1IYzZtbHVnZjJZQ0ttWGdMdU5oNFFyUG5SQkZMSnFvaVU5dG1ENQ?oc=5",
+      "published": "Sun, 12 Feb 2017 16:39:52 GMT",
       "query": "site:builtstlouis.net \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -5153,9 +5133,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The North Side | St. Louis Place - Built St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuendoemR1a2xZeEcza2ZaSzJHVGo1d1VNbkRWS184VzdZUUpSaktpWENvQ2xUMXltbHNobWFLRXA2UXRhVE1IYzZtbHVnZjJZQ0ttWGdMdU5oNFFyUG5SQkZMSnFvaVU5dG1ENQ?oc=5",
-      "published": "Sun, 12 Feb 2017 16:39:52 GMT",
+      "title": "The North Side | Tour map - Built St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52YkxfZ1FHRTlMcDFJQjJuZWk2U3hUY0VfcExGR2NWdk9VY2NzOGhYQkowMHdmRlI5am50SVJDSHVvYVczNVJRWXBWY3RId09jSGEyR095S3UxUktQai1hSG5UUk1zQQ?oc=5",
+      "published": "Sun, 12 Feb 2017 02:56:47 GMT",
       "query": "site:builtstlouis.net \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -5313,9 +5293,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "Historic Churches - Built St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tZUVuVTJLZFl0RzVzNmg0dS11cl83NGlMdS1tbC1ZU2c5NVF2OWtNRmtsSFVpVlBhb085eU9MYVFlSEhFVzhIY3ZZcXVxZzRiRl91ODZfQWJldlZYYUZ4UQ?oc=5",
-      "published": "Sun, 12 Feb 2017 03:01:09 GMT",
+      "title": "The North Side | Hyde Park - Built St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oSGhnMVBqdnE2b2VuSGJGNW0tWUtSSjdIdWh1UlJ6VDN1OTdzRWxSY0NPVk9NTlN0VUZnck0wNFVuUVh4UFdMYmFoZ0FSQkVmZnJ6RHZqTm5tQVlISlFOakF0MUhCMnM?oc=5",
+      "published": "Tue, 14 Feb 2017 23:31:27 GMT",
       "query": "site:builtstlouis.net \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
@@ -5323,9 +5303,9 @@
       "legal_access": "Unknown / permission required"
     },
     {
-      "title": "The North Side | Hyde Park - Built St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oSGhnMVBqdnE2b2VuSGJGNW0tWUtSSjdIdWh1UlJ6VDN1OTdzRWxSY0NPVk9NTlN0VUZnck0wNFVuUVh4UFdMYmFoZ0FSQkVmZnJ6RHZqTm5tQVlISlFOakF0MUhCMnM?oc=5",
-      "published": "Tue, 14 Feb 2017 23:31:27 GMT",
+      "title": "Historic Churches - Built St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tZUVuVTJLZFl0RzVzNmg0dS11cl83NGlMdS1tbC1ZU2c5NVF2OWtNRmtsSFVpVlBhb085eU9MYVFlSEhFVzhIY3ZZcXVxZzRiRl91ODZfQWJldlZYYUZ4UQ?oc=5",
+      "published": "Sun, 12 Feb 2017 03:01:09 GMT",
       "query": "site:builtstlouis.net \"St. Louis\" abandoned",
       "source": "Indexed research lead",
       "candidate_illinois_parcels": [],
