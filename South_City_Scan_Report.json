@@ -1,0 +1,8 @@
+{
+  "footprints_retrieved": 58887,
+  "large_footprints_for_review": 3225,
+  "grid_cells": 176,
+  "minimum_area_m2": 280,
+  "classification": "unverified: visual review required",
+  "source": "https://maps8.stlouis-mo.gov/arcgis/rest/services/ASSESSOR/Assessor_Public_Parcels/MapServer/9"
+}
