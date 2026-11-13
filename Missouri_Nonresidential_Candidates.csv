@@ -1,0 +1,60 @@
+parcel_id,address,neighborhood,property_type,latitude,longitude,classification_basis,review_status
+37749220000,1301 N TAYLOR AV,Lewis Place,Mixed-Use,38.655944,-90.2497458,Existing STL_Properties_v2.csv type,Not visually verified
+37929342000,1327 ACADEMY AV,Academy,Commercial,38.6611595,-90.2665234,Existing STL_Properties_v2.csv type,Not visually verified
+24099130000,1429 NEWHOUSE AV,Hyde Park,Mixed-Use,38.6650632,-90.2022923,Existing STL_Properties_v2.csv type,Not visually verified
+53079010000,1454 ROWAN AV,Hamilton Heights,Mixed-Use,38.6718084,-90.2819438,Existing STL_Properties_v2.csv type,Not visually verified
+53069170000,1485 GOODFELLOW BLVD,Hamilton Heights,Mixed-Use,38.6719171,-90.2797398,Existing STL_Properties_v2.csv type,Not visually verified
+24739200000,1909 E GRAND BLVD,College Hill,Commercial,38.6710925,-90.2080878,Existing STL_Properties_v2.csv type,Not visually verified
+36859260000,1927 ANNIE MALONE DR,The Ville,Mixed-Use,38.6576837,-90.2386621,Existing STL_Properties_v2.csv type,Not visually verified
+35359340000,1967 ALICE AV,O'Fallon,Mixed-Use,38.6763121,-90.2158068,Existing STL_Properties_v2.csv type,Not visually verified
+33919120000,2017 LINTON AV,College Hill,Commercial,38.674855,-90.2132894,Existing STL_Properties_v2.csv type,Not visually verified
+91019320000,2727 HAMILTON AV,Wells Goodfellow,Industrial,38.679075,-90.2795839,Existing STL_Properties_v2.csv type,Not visually verified
+52449430000,2827 CLARA AV,Wells Goodfellow,Mixed-Use,38.6775749,-90.270682,Existing STL_Properties_v2.csv type,Not visually verified
+44689340000,2900 N NEWSTEAD AV,Greater Ville,Commercial,38.6641721,-90.2401003,Existing STL_Properties_v2.csv type,Not visually verified
+52189110000,2901 HEBERT ST,Jeff Vanderlou,Commercial,38.6581346,-90.2147818,Existing STL_Properties_v2.csv type,Not visually verified
+26329300000,3305 MERAMEC ST,Dutchtown,Mixed-Use,38.580828,-90.2412336,Existing STL_Properties_v2.csv type,Not visually verified
+52159230000,3500 N GRAND BLVD,Jeff Vanderlou,Mixed-Use,38.6592942,-90.2176953,Existing STL_Properties_v2.csv type,Not visually verified
+44449260000,3534 N NEWSTEAD AV,Greater Ville,Commercial,38.6684811,-90.237198,Existing STL_Properties_v2.csv type,Not visually verified
+35879370000,3812 LEE AV,Fairground Neighborhood,Mixed-Use,38.667791,-90.2181898,Existing STL_Properties_v2.csv type,Not visually verified
+35449310000,4001 W FLORISSANT AV,O'Fallon,Mixed-Use,38.6735884,-90.218153,Existing STL_Properties_v2.csv type,Not visually verified
+36569270000,4037 COTE BRILLIANTE AV,Greater Ville,Mixed-Use,38.6540018,-90.2343231,Existing STL_Properties_v2.csv type,Not visually verified
+35979065000,4056 LEE AV,O'Fallon,Mixed-Use,38.670015,-90.2232283,Existing STL_Properties_v2.csv type,Not visually verified
+36499331000,4067 ST LOUIS AV,Greater Ville,Mixed-Use,38.6604096,-90.2309393,Existing STL_Properties_v2.csv type,Not visually verified
+43839165000,4103 N EUCLID AV,Penrose,Mixed-Use,38.6786707,-90.2469032,Existing STL_Properties_v2.csv type,Not visually verified
+44139410000,4153 N NEWSTEAD AV,Penrose,Mixed-Use,38.6748081,-90.2330854,Existing STL_Properties_v2.csv type,Not visually verified
+43509110000,4200 GOODFELLOW BLVD,Mark Twain I-70 Industrial,Industrial,38.6894519,-90.269281,Existing STL_Properties_v2.csv type,Not visually verified
+43769070000,4201 R GERALDINE AV,Mark Twain I-70 Industrial,Industrial,38.6842197,-90.2531434,Existing STL_Properties_v2.csv type,Not visually verified
+35739400000,4239 LEE AV,O'Fallon,Mixed-Use,38.6727503,-90.2282866,Existing STL_Properties_v2.csv type,Not visually verified
+33969190000,4250 WARNE AV,Fairground Neighborhood,Commercial,38.671306,-90.2195274,Existing STL_Properties_v2.csv type,Not visually verified
+35739465000,4289 LEE AV,O'Fallon,Commercial,38.673348,-90.2296572,Existing STL_Properties_v2.csv type,Not visually verified
+35719130000,4330 N NEWSTEAD AV,O'Fallon,Commercial,38.6772885,-90.2305794,Existing STL_Properties_v2.csv type,Not visually verified
+37239165000,4553 DR MARTIN LUTHER KING DR,Greater Ville,Mixed-Use,38.6588415,-90.2496463,Existing STL_Properties_v2.csv type,Not visually verified
+37239170000,4555 DR MARTIN LUTHER KING DR,Greater Ville,Mixed-Use,38.6588739,-90.2497241,Existing STL_Properties_v2.csv type,Not visually verified
+37239250000,4591 DR MARTIN LUTHER KING DR,Greater Ville,Commercial,38.659347,-90.2508011,Existing STL_Properties_v2.csv type,Not visually verified
+27629290000,4718 VIRGINIA AV,Dutchtown,Mixed-Use,38.5710601,-90.2437415,Existing STL_Properties_v2.csv type,Not visually verified
+37779015000,4744 DR MARTIN LUTHER KING DR,Lewis Place,Commercial,38.6606049,-90.2553401,Existing STL_Properties_v2.csv type,Not visually verified
+37779010000,4756 DR MARTIN LUTHER KING DR,Lewis Place,Mixed-Use,38.6606854,-90.2555767,Existing STL_Properties_v2.csv type,Not visually verified
+37799460000,4769 DR MARTIN LUTHER KING DR,Kingsway East,Mixed-Use,38.6614321,-90.2554363,Existing STL_Properties_v2.csv type,Not visually verified
+44799620000,4831 ST LOUIS AV,Kingsway East,Mixed-Use,38.6693605,-90.2514372,Existing STL_Properties_v2.csv type,Not visually verified
+37839060000,4859 DR MARTIN LUTHER KING DR,Kingsway East,Mixed-Use,38.6620049,-90.2576522,Existing STL_Properties_v2.csv type,Not visually verified
+56219410000,4869 NATURAL BRIDGE AV,Penrose,Commercial,38.6749281,-90.2477481,Existing STL_Properties_v2.csv type,Not visually verified
+52919270000,4975 DAVISON AV,Walnut Park East,Commercial,38.6936756,-90.2519827,Existing STL_Properties_v2.csv type,Not visually verified
+28059010000,5101 VIRGINIA AV,Dutchtown,Mixed-Use,38.5684087,-90.245166,Existing STL_Properties_v2.csv type,Not visually verified
+55319010000,5200 GENEVIEVE AV,Walnut Park East,Mixed-Use,38.6962101,-90.2501506,Existing STL_Properties_v2.csv type,Not visually verified
+55309520000,5201 GENEVIEVE AV,Walnut Park East,Mixed-Use,38.6966469,-90.2504783,Existing STL_Properties_v2.csv type,Not visually verified
+33929150000,5217 N 21ST ST,College Hill,Commercial,38.6744328,-90.214102,Existing STL_Properties_v2.csv type,Not visually verified
+37949010000,5234 WELLS AV,Academy,Commercial,38.6639765,-90.2683078,Existing STL_Properties_v2.csv type,Not visually verified
+28409200000,5401 VIRGINIA AV,Carondelet,Mixed-Use,38.5662293,-90.2459674,Existing STL_Properties_v2.csv type,Not visually verified
+55279310000,5478 BEACON AV,Walnut Park East,Mixed-Use,38.6980469,-90.2448056,Existing STL_Properties_v2.csv type,Not visually verified
+38199025000,5630 DR MARTIN LUTHER KING DR,Hamilton Heights,Commercial,38.6703859,-90.2771949,Existing STL_Properties_v2.csv type,Not visually verified
+38199410000,5700 DR MARTIN LUTHER KING DR,Hamilton Heights,Mixed-Use,38.6710422,-90.2780054,Existing STL_Properties_v2.csv type,Not visually verified
+43509091000,5700 ELWARD AV,Mark Twain I-70 Industrial,Industrial,38.6882072,-90.2679723,Existing STL_Properties_v2.csv type,Not visually verified
+49909290000,5815 DR MARTIN LUTHER KING DR,Wells Goodfellow,Mixed-Use,38.6726005,-90.2797264,Existing STL_Properties_v2.csv type,Not visually verified
+53069130000,5818 DR MARTIN LUTHER KING DR,Hamilton Heights,Mixed-Use,38.6721787,-90.2802132,Existing STL_Properties_v2.csv type,Not visually verified
+57819070000,5900 W FLORISSANT AV,Walnut Park West,Commercial,38.7067734,-90.2498311,Existing STL_Properties_v2.csv type,Not visually verified
+50009300000,5923 DR MARTIN LUTHER KING DR,Wells Goodfellow,Commercial,38.6744285,-90.2831591,Existing STL_Properties_v2.csv type,Not visually verified
+50009310000,5927 DR MARTIN LUTHER KING DR,Wells Goodfellow,Mixed-Use,38.6744908,-90.2832749,Existing STL_Properties_v2.csv type,Not visually verified
+50019050000,6105 DR MARTIN LUTHER KING DR,Wells Goodfellow,Commercial,38.6758175,-90.2852835,Existing STL_Properties_v2.csv type,Not visually verified
+54569200000,6306 W FLORISSANT AV,Walnut Park West,Commercial,38.7132824,-90.2556902,Existing STL_Properties_v2.csv type,Not visually verified
+42559030000,8201 N BROADWAY,Baden,Mixed-Use,38.7110738,-90.2309133,Existing STL_Properties_v2.csv type,Not visually verified
+63489140000,8787 N BROADWAY,Baden,Commercial,38.7235101,-90.2288222,Existing STL_Properties_v2.csv type,Not visually verified

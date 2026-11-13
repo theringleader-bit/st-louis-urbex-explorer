@@ -207,6 +207,30 @@ def main():
     (BASE / 'urbex_research_updates.json').write_text(
         json.dumps(output, ensure_ascii=False, indent=2), encoding='utf-8')
 
+    # Add a conservative, source-based nonresidential filter for Missouri.
+    # Unknown property types remain unclassified; no visual review is implied.
+    nonres_types = {'commercial', 'industrial', 'mixed-use'}
+    nonres_ids = [str(r.get('id', '')).strip() for r in mo
+                  if r.get('t', '').strip().lower() in nonres_types]
+    filter_js = """
+const knownNonresidential = new Set(__IDS__);
+const nonresFilter = document.createElement('label');
+nonresFilter.style.cssText = 'display:inline-flex;align-items:center;gap:6px;padding:7px 10px;background:white;border-radius:6px;font:13px system-ui;';
+nonresFilter.innerHTML = '<input type="checkbox" id="nonres-only" style="width:17px;height:17px"> Nonresidential candidates (source-classified)';
+const categorySelect = document.querySelector('#category');
+categorySelect.parentNode.insertBefore(nonresFilter, categorySelect.nextSibling);
+nonresFilter.querySelector('input').addEventListener('change', update);
+""".replace('__IDS__', json.dumps(nonres_ids))
+    if 'const cache=new Map();' not in page:
+        raise ValueError('Missing marker cache insertion point for nonresidential filter')
+    page = page.replace('const cache=new Map();', filter_js + '\nconst cache=new Map();', 1)
+    filter_needle = "const selected=data.filter(p=>(!s||p.s===s)&&(!t||p.t===t)&&(!q||(p.a+' '+p.n+' '+p.id).toLowerCase().includes(q)));"
+    filter_replacement = "const selected=data.filter(p=>(!document.querySelector('#nonres-only').checked||(p.s!=='illinois'&&p.s!=='il_historical'&&knownNonresidential.has(String(p.id))))&&(!s||p.s===s)&&(!t||p.t===t)&&(!q||(p.a+' '+p.n+' '+p.id).toLowerCase().includes(q)));"
+    if filter_needle not in page:
+        raise ValueError('Missing exact map filter insertion point')
+    page = page.replace(filter_needle, filter_replacement, 1)
+    output['missouri_source_classified_nonresidential'] = len(nonres_ids)
+
     # Append Illinois records to the existing data array before Leaflet initializes.
     # Avoid modifying the original 12,650 Missouri records.
     injection = '\n// Approved Illinois properties (independent vacancy evidence required).\n' \
