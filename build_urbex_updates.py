@@ -231,6 +231,50 @@ nonresFilter.querySelector('input').addEventListener('change', update);
     page = page.replace(filter_needle, filter_replacement, 1)
     output['missouri_source_classified_nonresidential'] = len(nonres_ids)
 
+    # South City building-footprint review layer; independent of existing registry filters.
+    south_rows = csvrows(BASE / 'South_City_Building_Imagery_Review.csv')
+    south_markers = []
+    for row in south_rows:
+        try:
+            lat, lng = float(row.get('latitude', '')), float(row.get('longitude', ''))
+        except (ValueError, TypeError):
+            continue
+        if not (38.45 < lat < 38.70 and -90.45 < lng < -90.10):
+            continue
+        south_markers.append({
+            'id': row.get('building_id', ''), 'lat': lat, 'lng': lng,
+            'area': row.get('footprint_area_sqft_approx', ''),
+            'status': row.get('nonresidential_status', 'UNVERIFIED'),
+            'url': row.get('imagery_review_url', ''),
+        })
+    output['south_city_imagery_review_candidates'] = len(south_markers)
+    south_payload = json.dumps(south_markers, ensure_ascii=False).replace('</', '<\\/')
+    south_js = r"""
+// Building footprints are review candidates, not verified nonresidential or vacant sites.
+const southCityCandidates = __SOUTH_DATA__;
+const southCityLayer = (typeof L.markerClusterGroup === 'function')
+    ? L.markerClusterGroup({chunkedLoading:true, maxClusterRadius:55}) : L.layerGroup();
+const southCityToggle = document.createElement('label');
+southCityToggle.style.cssText = 'position:fixed;left:12px;bottom:20px;z-index:1100;background:white;padding:10px 12px;border:2px solid #7441a7;border-radius:8px;font:14px system-ui;box-shadow:0 2px 8px #0003;max-width:70vw;';
+southCityToggle.innerHTML = '<input type="checkbox" id="south-city-review-toggle" checked> <b>South City building review ('+southCityCandidates.length+')</b>';
+document.body.appendChild(southCityToggle);
+const southEscape = x => String(x == null ? '' : x).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+for (const b of southCityCandidates) {
+  const m = L.circleMarker([b.lat,b.lng],{radius:5,color:'#7441a7',weight:1,fillColor:'#7441a7',fillOpacity:0.7});
+  const href = /^https:\/\//.test(b.url) ? '<br><a target="_blank" rel="noopener noreferrer" href="'+southEscape(b.url)+'">Review aerial imagery</a>' : '';
+  m.bindPopup('<b>South City building candidate</b><br>ID: '+southEscape(b.id)+'<br>Footprint: '+southEscape(b.area)+' sq ft<br>Nonresidential: '+southEscape(b.status)+'<br>Vacancy: unknown'+href);
+  southCityLayer.addLayer(m);
+}
+southCityLayer.addTo(map);
+southCityToggle.querySelector('input').addEventListener('change', e => {
+  if(e.target.checked) map.addLayer(southCityLayer);
+  else map.removeLayer(southCityLayer);
+});
+""".replace('__SOUTH_DATA__', south_payload)
+    if 'const cache=new Map();' not in page:
+        raise ValueError('Missing South City layer insertion point')
+    page = page.replace('const cache=new Map();', south_js + '\nconst cache=new Map();', 1)
+
     # Append Illinois records to the existing data array before Leaflet initializes.
     # Avoid modifying the original 12,650 Missouri records.
     injection = '\n// Approved Illinois properties (independent vacancy evidence required).\n' \
