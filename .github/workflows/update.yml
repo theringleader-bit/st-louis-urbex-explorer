@@ -39,6 +39,9 @@ jobs:
       - name: Research Illinois current-condition evidence
         run: python research_illinois_conditions.py
 
+      - name: Scan South City buildings
+        run: python scan_south_city_buildings.py
+
       - name: Update Missouri and Illinois research map
         run: python build_urbex_updates.py
 
@@ -53,6 +56,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Automated property research and verification update"
+            git commit -m "Automated property research and South City building scan"
             git push origin HEAD:main
           fi
