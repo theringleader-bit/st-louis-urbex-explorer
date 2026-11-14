@@ -275,6 +275,67 @@ southCityToggle.querySelector('input').addEventListener('change', e => {
         raise ValueError('Missing South City layer insertion point')
     page = page.replace('const cache=new Map();', south_js + '\nconst cache=new Map();', 1)
 
+    # Optional, evidence-linked public-record distress indicators.
+    # Importer CSV is intentionally not auto-populated with unverified claims.
+    distress_rows = csvrows(BASE / 'STL_Property_Distress_Indicators.csv')
+    distress_markers, distress_skipped = [], []
+    accepted = {'tax_delinquency', 'tax_sale', 'foreclosure_filing',
+                'vacant_registration', 'condemnation', 'code_violation',
+                'commercial_listing', 'business_closure', 'utility_disconnection_public'}
+    seen_distress = set()
+    for row in distress_rows:
+        category = row.get('indicator_type', '').strip().lower()
+        address = row.get('address', '').strip()
+        source_url = row.get('source_url', '').strip()
+        try:
+            lat, lng = float(row.get('latitude', '')), float(row.get('longitude', ''))
+        except (ValueError, TypeError):
+            distress_skipped.append({'address': address, 'reason': 'missing coordinates'})
+            continue
+        if category not in accepted or not (38.4 < lat < 38.85 and -90.55 < lng < -90.05):
+            distress_skipped.append({'address': address, 'reason': 'invalid category or coordinates'})
+            continue
+        parsed = urllib.parse.urlparse(source_url)
+        if parsed.scheme != 'https' or not parsed.netloc or not address:
+            distress_skipped.append({'address': address, 'reason': 'missing address or HTTPS source'})
+            continue
+        key = (normalize(address), category, source_url)
+        if key in seen_distress:
+            continue
+        seen_distress.add(key)
+        distress_markers.append({'a': address, 'lat': lat, 'lng': lng,
+                                'type': category, 'date': row.get('record_date', '').strip()[:40],
+                                'source': row.get('source_name', '').strip()[:100],
+                                'url': source_url,
+                                'notes': row.get('notes', '').strip()[:300],
+                                'parcel': row.get('parcel_id', '').strip()[:80]})
+    output['property_distress_indicators_mapped'] = len(distress_markers)
+    output['property_distress_indicators_skipped'] = distress_skipped[:100]
+    distress_payload = json.dumps(distress_markers, ensure_ascii=False).replace('</', '<\\/')
+    distress_js = r"""
+// Public-record indicators do not prove vacancy, abandonment or access rights.
+const distressRecords = __DISTRESS_DATA__;
+const distressLayer = typeof L.markerClusterGroup === 'function'
+  ? L.markerClusterGroup({chunkedLoading:true,maxClusterRadius:55}) : L.layerGroup();
+const distressToggle = document.createElement('label');
+distressToggle.style.cssText='position:fixed;left:12px;bottom:74px;z-index:1100;background:white;padding:9px;border:2px solid #b35c27;border-radius:8px;font:13px system-ui;max-width:75vw;';
+distressToggle.innerHTML='<input type="checkbox" id="distress-toggle" checked> <b>Property distress indicators ('+distressRecords.length+')</b>';
+document.body.appendChild(distressToggle);
+const distressEscape=x=>String(x==null?'':x).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+for(const d of distressRecords){
+ const m=L.circleMarker([d.lat,d.lng],{radius:6,color:'#b35c27',weight:1,fillColor:'#b35c27',fillOpacity:.75});
+ m.bindPopup('<b>'+distressEscape(d.a)+'</b><br>Indicator: '+distressEscape(d.type.replaceAll('_',' '))+'<br>Record date: '+distressEscape(d.date||'Not provided')+'<br>Source: '+distressEscape(d.source)+'<br>'+distressEscape(d.notes)+'<br><a href="'+distressEscape(d.url)+'" target="_blank" rel="noopener noreferrer">View source record</a><br><small>Vacancy and legal access not established.</small>');
+ distressLayer.addLayer(m);
+}
+distressLayer.addTo(map);
+distressToggle.querySelector('input').addEventListener('change',e=>{
+ if(e.target.checked)map.addLayer(distressLayer);else map.removeLayer(distressLayer);
+});
+""".replace('__DISTRESS_DATA__', distress_payload)
+    if 'const cache=new Map();' not in page:
+        raise ValueError('Missing distress-layer insertion point')
+    page = page.replace('const cache=new Map();', distress_js + '\nconst cache=new Map();', 1)
+
     # Append Illinois records to the existing data array before Leaflet initializes.
     # Avoid modifying the original 12,650 Missouri records.
     injection = '\n// Approved Illinois properties (independent vacancy evidence required).\n' \
@@ -341,6 +402,8 @@ function evidenceMarkup(p){
              '<input placeholder="Search research" aria-label="Filter research" oninput="document.querySelectorAll(\'.research-card\').forEach(e=>e.style.display=e.textContent.toLowerCase().includes(this.value.toLowerCase())?\'\':\'none\')" style="width:90%;padding:9px"><div>'
              + cards + '</div></section>')
     page = page.replace('</body>', panel + '</body>', 1)
+    (BASE / 'urbex_research_updates.json').write_text(
+        json.dumps(output, ensure_ascii=False, indent=2), encoding='utf-8')
     (BASE / 'index.html').write_text(page, encoding='utf-8')
     print(f'MO baseline {len(mo)}; IL parcel review {len(il)}; IL approved mapped {len(approved)}; indexed leads {len(leads)}; errors {len(errors)}')
 
