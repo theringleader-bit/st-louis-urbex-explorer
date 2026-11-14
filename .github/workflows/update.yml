@@ -42,6 +42,9 @@ jobs:
       - name: Scan South City buildings
         run: python scan_south_city_buildings.py
 
+      - name: Import St Louis distress indicators
+        run: python import_stl_distress.py
+
       - name: Update Missouri and Illinois research map
         run: python build_urbex_updates.py
 
@@ -56,6 +59,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Automated property research and South City building scan"
+            git commit -m "Automated property research and distress updates"
             git push origin HEAD:main
           fi
