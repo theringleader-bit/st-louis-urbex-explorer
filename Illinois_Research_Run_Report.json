@@ -2,7 +2,24 @@
   "review_records": 28,
   "new_search_leads": 0,
   "total_leads": 0,
-  "errors": [],
-  "updated_at_utc": "2026-11-23T10:06:20.912045+00:00",
+  "errors": [
+    {
+      "address": "6907 GLENWOOD AVE",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "address": "618 N 82ND ST",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "address": "413 N 25TH ST",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "address": "846 N 76TH ST",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "updated_at_utc": "2026-11-24T10:01:04.243009+00:00",
   "note": "No current building status or vacancy is automatically verified."
 }
